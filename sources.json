@@ -1,0 +1,439 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-04-11",
+  "description": "Verified news sources for Johan Lindström's daily news monitoring (Omvärldsbevakning)",
+
+  "categories": {
+    "ai": {
+      "label": "AI-nyheter",
+      "color": "#1B2A4A",
+      "color_light": "#2D4470",
+      "sources": [
+        {
+          "id": "openai",
+          "name": "OpenAI News",
+          "url": "https://openai.com/news",
+          "rss": "https://openai.com/news/rss.xml",
+          "language": "en",
+          "tier": 1,
+          "update_freq": "weekly+",
+          "notes": "Official OpenAI announcements: ChatGPT, GPT models, Sora, policy"
+        },
+        {
+          "id": "anthropic",
+          "name": "Anthropic News",
+          "url": "https://www.anthropic.com/news",
+          "rss": "https://raw.githubusercontent.com/Olshansk/rss-feeds/refs/heads/main/feeds/feed_anthropic_news.xml",
+          "language": "en",
+          "tier": 1,
+          "update_freq": "weekly",
+          "notes": "Claude releases, safety research, policy. Community-maintained RSS feed."
+        },
+        {
+          "id": "google_ai",
+          "name": "Google AI Blog",
+          "url": "https://blog.google/technology/ai/",
+          "rss": "http://feeds.feedburner.com/blogspot/gJZg",
+          "language": "en",
+          "tier": 1,
+          "update_freq": "daily",
+          "notes": "Gemini, Nano Banana, Google DeepMind, all Google AI products"
+        },
+        {
+          "id": "google_deepmind",
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/discover/blog/",
+          "rss": "https://deepmind.google/blog/rss.xml",
+          "language": "en",
+          "tier": 1,
+          "update_freq": "weekly",
+          "notes": "Deep research, AI safety, fundamental model research"
+        },
+        {
+          "id": "microsoft",
+          "name": "Microsoft AI Blog",
+          "url": "https://blogs.microsoft.com/",
+          "rss": "https://blogs.microsoft.com/feed/",
+          "language": "en",
+          "tier": 1,
+          "update_freq": "daily",
+          "notes": "Copilot updates, Azure AI, Windows AI, enterprise AI"
+        },
+        {
+          "id": "microsoft_copilot",
+          "name": "Microsoft 365 Copilot Blog",
+          "url": "https://techcommunity.microsoft.com/category/microsoft365copilot/blog/microsoft365copilotblog",
+          "rss": "https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=Microsoft365CopilotBlog",
+          "language": "en",
+          "tier": 2,
+          "update_freq": "monthly+",
+          "notes": "Monthly What's New for M365 Copilot. Most Swedish schools use Microsoft 365."
+        },
+        {
+          "id": "apple",
+          "name": "Apple Newsroom",
+          "url": "https://www.apple.com/newsroom/",
+          "rss": "https://www.apple.com/newsroom/rss-feed.rss",
+          "language": "en",
+          "tier": 2,
+          "update_freq": "several/week",
+          "notes": "Filter for Apple Intelligence / AI tags only"
+        },
+        {
+          "id": "venturebeat",
+          "name": "VentureBeat AI",
+          "url": "https://venturebeat.com/category/ai/",
+          "rss": "https://venturebeat.com/category/ai/feed/",
+          "language": "en",
+          "tier": 1,
+          "update_freq": "daily",
+          "notes": "Best general AI industry coverage. Business angle, very active."
+        },
+        {
+          "id": "techcrunch",
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/category/artificial-intelligence/",
+          "rss": "https://techcrunch.com/category/artificial-intelligence/feed/",
+          "language": "en",
+          "tier": 2,
+          "update_freq": "daily",
+          "notes": "AI startups, funding, product launches"
+        },
+        {
+          "id": "huggingface",
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog",
+          "rss": "https://huggingface.co/blog/feed.xml",
+          "language": "en",
+          "tier": 2,
+          "update_freq": "several/week",
+          "notes": "Open-source models, research, generative AI tools"
+        },
+        {
+          "id": "higgsfield",
+          "name": "Higgsfield AI Blog",
+          "url": "https://higgsfield.ai/blog",
+          "rss": "https://openrss.org/higgsfield.ai/blog",
+          "language": "en",
+          "tier": 2,
+          "update_freq": "weekly",
+          "notes": "AI video generation, Seedance integrations, platform updates"
+        },
+        {
+          "id": "midjourney",
+          "name": "Midjourney Updates",
+          "url": "https://updates.midjourney.com/",
+          "rss": "https://updates.midjourney.com/feed",
+          "language": "en",
+          "tier": 2,
+          "update_freq": "irregular",
+          "notes": "Official Midjourney model releases and features"
+        },
+        {
+          "id": "openart",
+          "name": "OpenArt Blog — Updates",
+          "url": "https://openart.ai/blog/category/updates/",
+          "rss": "https://openrss.org/openart.ai/blog",
+          "language": "en",
+          "tier": 2,
+          "update_freq": "several/month",
+          "notes": "Platform updates, new AI model integrations"
+        },
+        {
+          "id": "seedance",
+          "name": "ByteDance Seed Blog (Seedance)",
+          "url": "https://seed.bytedance.com/en/blog",
+          "rss": "https://openrss.org/seed.bytedance.com/en/blog",
+          "language": "en",
+          "tier": 3,
+          "update_freq": "irregular",
+          "notes": "Seedance video model research. Infrequent — supplement with VentureBeat coverage."
+        }
+      ]
+    },
+
+    "digitalisering": {
+      "label": "Digitalisering i skolan",
+      "color": "#2E7DB5",
+      "color_light": "#4A99D1",
+      "filter_note": "Pedagogical use only. Filter OUT: hardware, consumer devices, specs. Filter IN: learning outcomes, teaching methods, time-saving tools, didactics.",
+      "sources": [
+        {
+          "id": "edutopia",
+          "name": "Edutopia",
+          "url": "https://www.edutopia.org/",
+          "rss": "https://www.edutopia.org/edutopia_rss.xml",
+          "language": "en",
+          "tier": 1,
+          "update_freq": "daily",
+          "notes": "Gold standard for evidence-based teaching with technology. K-12 pedagogy focus."
+        },
+        {
+          "id": "edsurge",
+          "name": "EdSurge",
+          "url": "https://www.edsurge.com/",
+          "rss": "https://edsurge.com/articles_rss",
+          "language": "en",
+          "tier": 1,
+          "update_freq": "daily",
+          "notes": "Nonprofit education journalism, research-to-practice angle"
+        },
+        {
+          "id": "classtechtips",
+          "name": "Class Tech Tips",
+          "url": "https://classtechtips.com/",
+          "rss": "https://classtechtips.com/feed",
+          "language": "en",
+          "tier": 2,
+          "update_freq": "weekly",
+          "notes": "Practical classroom AI/tech tips for K-12 teachers. Very practitioner-focused."
+        },
+        {
+          "id": "cultofpedagogy",
+          "name": "Cult of Pedagogy",
+          "url": "https://cultofpedagogy.com/",
+          "rss": "https://cultofpedagogy.com/feed",
+          "language": "en",
+          "tier": 2,
+          "update_freq": "weekly",
+          "notes": "Deep teaching craft focus, technology in pedagogy, highly respected by teachers"
+        },
+        {
+          "id": "thejournal",
+          "name": "THE Journal",
+          "url": "https://thejournal.com/",
+          "rss": "https://thejournal.com/rss-feeds/all-articles.aspx",
+          "language": "en",
+          "tier": 2,
+          "update_freq": "daily",
+          "notes": "K-12 technology leadership, administrator-focused. Matches Johan's audience."
+        },
+        {
+          "id": "eschoolnews",
+          "name": "eSchool News",
+          "url": "https://www.eschoolnews.com/",
+          "rss": "https://www.eschoolnews.com/feed/",
+          "language": "en",
+          "tier": 2,
+          "update_freq": "daily",
+          "notes": "K-12 digital learning, AI in classrooms, research and policy"
+        },
+        {
+          "id": "iste",
+          "name": "ISTE",
+          "url": "https://www.iste.org/",
+          "rss": "https://www.iste.org/explore/rss.xml",
+          "language": "en",
+          "tier": 1,
+          "update_freq": "weekly",
+          "notes": "Global edtech standards body. Authoritative, highly credible for thought leadership."
+        },
+        {
+          "id": "aiforeducation",
+          "name": "AI for Education",
+          "url": "https://www.aiforeducation.io/blog",
+          "rss": "https://openrss.org/aiforeducation.io/blog",
+          "language": "en",
+          "tier": 2,
+          "update_freq": "monthly",
+          "notes": "AI pedagogy, courses for educators, responsible AI implementation"
+        },
+        {
+          "id": "teachai",
+          "name": "TeachAI",
+          "url": "https://www.teachai.org/",
+          "rss": null,
+          "rss_monitor": "https://www.teachai.org/",
+          "language": "en",
+          "tier": 2,
+          "update_freq": "irregular",
+          "notes": "Coalition: Google, Khan Academy, Microsoft, ETS. Policy briefs on AI in K-12. Monitor for major reports."
+        },
+        {
+          "id": "oecd_education",
+          "name": "OECD Education",
+          "url": "https://www.oecd.org/en/topics/education.html",
+          "rss": "https://www.oecd.org/en/topics/education.xml",
+          "language": "en",
+          "tier": 1,
+          "update_freq": "weekly",
+          "notes": "Education policy, PISA reports, digital learning research, comparative data"
+        },
+        {
+          "id": "conversation_edu",
+          "name": "The Conversation — Education",
+          "url": "https://theconversation.com/us/education",
+          "rss": "https://theconversation.com/us/education/articles.atom",
+          "language": "en",
+          "tier": 2,
+          "update_freq": "daily",
+          "notes": "Academic experts writing for general audiences. Research-to-practice bridging."
+        },
+        {
+          "id": "edtechmagazine",
+          "name": "EdTech Magazine K-12",
+          "url": "https://edtechmagazine.com/k12/",
+          "rss": "https://edtechmagazine.com/k12/rss.xml",
+          "language": "en",
+          "tier": 2,
+          "update_freq": "weekly",
+          "notes": "K-12 administrators and IT directors, AI classroom use, digital equity"
+        }
+      ]
+    },
+
+    "skola": {
+      "label": "Skola och utbildning",
+      "color": "#E8792B",
+      "color_light": "#F5A04F",
+      "sources": [
+        {
+          "id": "skolverket",
+          "name": "Skolverket — Nyheter",
+          "url": "https://www.skolverket.se/om-oss/aktuellt",
+          "rss": "https://www.skolverket.se/om-oss/aktuellt?rss",
+          "rss_manual": "https://www.skolverket.se/prenumerera-pa-nyheter",
+          "language": "sv",
+          "tier": 1,
+          "country": "SE",
+          "update_freq": "weekly",
+          "notes": "Viktigaste svenska officiella källan. Digitalisering, läroplaner, nationella prov."
+        },
+        {
+          "id": "regeringen",
+          "name": "Regeringen — Utbildningsdepartementet",
+          "url": "https://www.regeringen.se/sveriges-regering/utbildningsdepartementet/",
+          "rss": "https://www.regeringen.se/pressmeddelanden/?department=utbildningsdepartementet&rss=1",
+          "rss_manual": "https://www.regeringen.se/prenumerera-pa-nyheter-fran-regeringen.se",
+          "language": "sv",
+          "tier": 1,
+          "country": "SE",
+          "update_freq": "several/week",
+          "notes": "Statsministern och utbildningsministerns pressmeddelanden, skollagar, reformer"
+        },
+        {
+          "id": "riksdagen",
+          "name": "Riksdagen — Utbildningsutskottet",
+          "url": "https://www.riksdagen.se/sv/utskott-och-namner/utskott/utbildningsutskottet/",
+          "rss": "https://openrss.org/riksdagen.se",
+          "language": "sv",
+          "tier": 3,
+          "country": "SE",
+          "update_freq": "irregular",
+          "notes": "Riksdagsbeslut och propositioner. Följ under aktiva reformperioder."
+        },
+        {
+          "id": "skolledaren",
+          "name": "Skolledaren (Sveriges Skolledare)",
+          "url": "https://www.skolledaren.se/aktuellt/nyheter/",
+          "rss": "https://openrss.org/skolledaren.se/aktuellt/nyheter",
+          "language": "sv",
+          "tier": 1,
+          "country": "SE",
+          "update_freq": "several/week",
+          "notes": "Nyheter för rektorer och skolchefer — Johans primära målgrupp. Reformer, AI i skolan."
+        },
+        {
+          "id": "edufi",
+          "name": "Finnish National Agency for Education (EDUFI/OPH)",
+          "url": "https://www.oph.fi/en/news",
+          "rss": "https://www.oph.fi/en/latest.rss",
+          "language": "en",
+          "tier": 1,
+          "country": "FI",
+          "update_freq": "weekly",
+          "notes": "Official Finnish education authority. Constant reference in Swedish education debates."
+        },
+        {
+          "id": "harno",
+          "name": "Harno (Estonian Education and Youth Board)",
+          "url": "https://harno.ee/en",
+          "rss": "https://openrss.org/harno.ee/en",
+          "language": "en",
+          "tier": 2,
+          "country": "EE",
+          "update_freq": "weekly",
+          "notes": "Estonia's education agency (replaced Innove). Primary PISA overachiever reference."
+        },
+        {
+          "id": "estonia_moe",
+          "name": "Estonian Ministry of Education",
+          "url": "https://www.hm.ee/en",
+          "rss": "https://openrss.org/hm.ee/en",
+          "language": "en",
+          "tier": 2,
+          "country": "EE",
+          "update_freq": "weekly",
+          "notes": "Policy-level complement to Harno. AI-in-education agenda, ISTP summits."
+        },
+        {
+          "id": "singapore_moe",
+          "name": "Singapore Ministry of Education",
+          "url": "https://www.moe.gov.sg/newsroom",
+          "rss": "https://openrss.org/moe.gov.sg/newsroom",
+          "language": "en",
+          "tier": 2,
+          "country": "SG",
+          "update_freq": "weekly",
+          "notes": "Top-5 PISA. Structured, tech-integrated education. Official policy only."
+        },
+        {
+          "id": "korea_moe",
+          "name": "South Korea Ministry of Education",
+          "url": "https://english.moe.go.kr/",
+          "rss": null,
+          "rss_monitor": "https://english.moe.go.kr/",
+          "language": "en",
+          "tier": 3,
+          "country": "KR",
+          "update_freq": "irregular",
+          "notes": "Major policy signals on AI education. Low update frequency — supplement with Korea Herald."
+        },
+        {
+          "id": "koreaherald",
+          "name": "Korea Herald — Education",
+          "url": "https://www.koreaherald.com/list.php?ud=education",
+          "rss": "https://www.koreaherald.com/rss/education.xml",
+          "language": "en",
+          "tier": 2,
+          "country": "KR",
+          "update_freq": "daily",
+          "notes": "Best daily source for Korean education news in English"
+        },
+        {
+          "id": "education_canada",
+          "name": "Education News Canada",
+          "url": "https://educationnewscanada.com/",
+          "rss": "https://openrss.org/educationnewscanada.com",
+          "language": "en",
+          "tier": 2,
+          "country": "CA",
+          "update_freq": "daily",
+          "notes": "Best aggregator for Canadian K-12 news. Quebec and Alberta top PISA performers."
+        },
+        {
+          "id": "conversation_canada",
+          "name": "The Conversation — Canada Education",
+          "url": "https://theconversation.com/ca/education",
+          "rss": "https://theconversation.com/ca/education/articles.atom",
+          "language": "en",
+          "tier": 2,
+          "country": "CA",
+          "update_freq": "several/week",
+          "notes": "Research-backed Canadian education commentary from university experts"
+        },
+        {
+          "id": "oecd_pisa",
+          "name": "OECD PISA and Education Policy",
+          "url": "https://www.oecd.org/en/topics/education.html",
+          "rss": "https://www.oecd.org/en/topics/education.xml",
+          "language": "en",
+          "tier": 1,
+          "country": "INT",
+          "update_freq": "weekly",
+          "notes": "Definitive PISA data source, country comparisons, education at a glance"
+        }
+      ]
+    }
+  }
+}
