@@ -48,7 +48,7 @@ def esc(s):
     return str(s).replace("&","&amp;").replace("<","&lt;").replace(">","&gt;").replace('"',"&quot;")
 
 def card_ai(i):
-    return (f'<div class="news-card" data-title="{esc(i["t"])}" data-source="{esc(i["s"])}" data-category="ai" data-desc="{esc(i["d"])}">'
+    return (f'<div class="news-card" data-title="{esc(i["t"])}" data-source="{esc(i["s"])}" data-category="ai" data-desc="{esc(i["d"])}" data-url="{esc(i["u"])}" data-lang="{esc(i.get("lang","en"))}">'
             f'<input type="checkbox" class="news-checkbox">'
             f'<div class="news-content"><div class="news-meta">'
             f'<span class="news-source news-source-ai">{esc(i["s"])}</span>'
@@ -59,7 +59,7 @@ def card_ai(i):
             f'</div></div>')
 
 def card_dig(i):
-    return (f'<div class="news-card" data-title="{esc(i["t"])}" data-source="{esc(i["s"])}" data-category="digital" data-desc="{esc(i["d"])}">'
+    return (f'<div class="news-card" data-title="{esc(i["t"])}" data-source="{esc(i["s"])}" data-category="digital" data-desc="{esc(i["d"])}" data-url="{esc(i["u"])}" data-lang="{esc(i.get("lang","en"))}">'
             f'<input type="checkbox" class="news-checkbox">'
             f'<div class="news-content"><div class="news-meta">'
             f'<span class="news-source news-source-digital">{esc(i["s"])}</span>'
@@ -72,7 +72,7 @@ def card_dig(i):
 def card_sch(i):
     badge = (f'<div class="news-dot"></div><span class="news-country">{i["c"]}</span>'
              if i.get("c") else "")
-    return (f'<div class="news-card" data-title="{esc(i["t"])}" data-source="{esc(i["s"])}" data-category="school" data-desc="{esc(i["d"])}">'
+    return (f'<div class="news-card" data-title="{esc(i["t"])}" data-source="{esc(i["s"])}" data-category="school" data-desc="{esc(i["d"])}" data-url="{esc(i["u"])}" data-lang="{esc(i.get("lang","en"))}">'
             f'<input type="checkbox" class="news-checkbox">'
             f'<div class="news-content"><div class="news-meta">'
             f'<span class="news-source news-source-school">{esc(i["s"])}</span>'
