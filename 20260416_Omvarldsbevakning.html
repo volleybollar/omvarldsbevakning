@@ -1,0 +1,729 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Omvärldsbevakning — 20260416</title>
+  <style>
+    /* ===== RESET & BASE ===== */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --dark-blue:   #1B2A4A;
+      --dark-blue2:  #243660;
+      --light-blue:  #2E7DB5;
+      --light-blue2: #1C6499;
+      --orange:      #E8792B;
+      --orange2:     #C96320;
+      --bg:          #0F1923;
+      --bg2:         #161F2E;
+      --surface:     #1E2C3F;
+      --surface2:    #263345;
+      --border:      rgba(255,255,255,0.08);
+      --text:        #E8EDF5;
+      --text-muted:  #8A9BB5;
+      --text-dim:    #5C6E8A;
+      --white:       #FFFFFF;
+      --shadow:      0 4px 24px rgba(0,0,0,0.4);
+      --radius:      12px;
+      --radius-sm:   8px;
+    }
+
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    /* ===== TOPBAR / HEADER ===== */
+    .topbar {
+      background: linear-gradient(135deg, var(--dark-blue) 0%, #0D1829 100%);
+      border-bottom: 1px solid var(--border);
+      padding: 0 2rem;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 64px;
+      backdrop-filter: blur(12px);
+    }
+    .topbar-brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .topbar-icon {
+      width: 36px; height: 36px;
+      background: linear-gradient(135deg, var(--light-blue), var(--dark-blue));
+      border-radius: 8px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 18px;
+    }
+    .topbar-title { font-size: 1.1rem; font-weight: 700; letter-spacing: -0.02em; color: var(--white); }
+    .topbar-date { font-size: 0.8rem; color: var(--text-muted); margin-top: 1px; }
+    .topbar-actions { display: flex; gap: 10px; align-items: center; }
+
+    /* ===== BUTTONS ===== */
+    .btn {
+      display: inline-flex; align-items: center; gap: 6px;
+      padding: 8px 16px; border-radius: 8px; font-size: 0.82rem;
+      font-weight: 600; cursor: pointer; border: none; transition: all 0.15s ease;
+      text-decoration: none; white-space: nowrap;
+    }
+    .btn-primary { background: var(--light-blue); color: var(--white); }
+    .btn-primary:hover { background: var(--light-blue2); transform: translateY(-1px); }
+    .btn-orange { background: var(--orange); color: var(--white); }
+    .btn-orange:hover { background: var(--orange2); transform: translateY(-1px); }
+    .btn-ghost {
+      background: rgba(255,255,255,0.06); color: var(--text-muted);
+      border: 1px solid var(--border);
+    }
+    .btn-ghost:hover { background: rgba(255,255,255,0.12); color: var(--text); }
+    .btn-sm { padding: 6px 12px; font-size: 0.78rem; }
+
+    /* ===== MAIN LAYOUT ===== */
+    .main-wrapper { max-width: 1280px; margin: 0 auto; padding: 2rem; }
+
+    /* ===== STATS BAR ===== */
+    .stats-bar {
+      display: grid; grid-template-columns: repeat(3, 1fr);
+      gap: 1rem; margin-bottom: 2rem;
+    }
+    .stat-card {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: 1.2rem 1.5rem;
+      display: flex; align-items: center; gap: 14px;
+      transition: transform 0.15s;
+    }
+    .stat-card:hover { transform: translateY(-2px); }
+    .stat-dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; }
+    .stat-dot-blue { background: var(--dark-blue); box-shadow: 0 0 8px var(--dark-blue); }
+    .stat-dot-lblue { background: var(--light-blue); box-shadow: 0 0 8px var(--light-blue); }
+    .stat-dot-orange { background: var(--orange); box-shadow: 0 0 8px var(--orange); }
+    .stat-label { font-size: 0.78rem; color: var(--text-muted); margin-bottom: 2px; }
+    .stat-count { font-size: 1.4rem; font-weight: 800; color: var(--white); }
+
+    /* ===== SECTION HEADERS ===== */
+    .section { margin-bottom: 3rem; }
+    .section-header {
+      display: flex; align-items: center; gap: 14px;
+      padding: 1.2rem 1.5rem; border-radius: var(--radius) var(--radius) 0 0;
+      margin-bottom: 0;
+    }
+    .section-header-ai      { background: linear-gradient(135deg, var(--dark-blue), var(--dark-blue2)); border-left: 4px solid var(--dark-blue); }
+    .section-header-digital { background: linear-gradient(135deg, var(--light-blue2), var(--light-blue)); border-left: 4px solid var(--light-blue); }
+    .section-header-school  { background: linear-gradient(135deg, var(--orange2), var(--orange)); border-left: 4px solid var(--orange); }
+    .section-header-icon { font-size: 1.5rem; }
+    .section-header-text h2 { font-size: 1.15rem; font-weight: 800; color: var(--white); letter-spacing: -0.02em; }
+    .section-header-text p  { font-size: 0.78rem; color: rgba(255,255,255,0.65); margin-top: 2px; }
+    .section-header-badge {
+      margin-left: auto; background: rgba(0,0,0,0.2);
+      padding: 4px 12px; border-radius: 20px; font-size: 0.75rem;
+      font-weight: 700; color: rgba(255,255,255,0.8);
+    }
+
+    /* ===== NEWS GRID ===== */
+    .news-grid {
+      display: grid; gap: 1px;
+      background: var(--border);
+      border: 1px solid var(--border);
+      border-top: none;
+      border-radius: 0 0 var(--radius) var(--radius);
+      overflow: hidden;
+    }
+    .news-card {
+      background: var(--surface);
+      padding: 1.4rem 1.5rem;
+      display: grid;
+      grid-template-columns: 24px 1fr;
+      gap: 14px;
+      align-items: start;
+      transition: background 0.15s;
+      cursor: default;
+    }
+    .news-card:hover { background: var(--surface2); }
+    .news-card.selected { background: rgba(46,125,181,0.12); }
+    .news-card.selected-orange { background: rgba(232,121,43,0.12); }
+
+    /* Checkbox styling */
+    .news-checkbox {
+      width: 20px; height: 20px; border-radius: 5px;
+      border: 2px solid var(--border);
+      background: transparent; cursor: pointer;
+      appearance: none; -webkit-appearance: none;
+      transition: all 0.15s; margin-top: 2px; flex-shrink: 0;
+    }
+    .news-checkbox:hover { border-color: var(--light-blue); }
+    .news-checkbox:checked {
+      background: var(--light-blue); border-color: var(--light-blue);
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 16 16' fill='white' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12.207 4.793a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0l-2-2a1 1 0 011.414-1.414L6.5 9.086l4.293-4.293a1 1 0 011.414 0z'/%3E%3C/svg%3E");
+    }
+    .section-header-school ~ .news-grid .news-checkbox:checked,
+    .school-check:checked {
+      background: var(--orange); border-color: var(--orange);
+    }
+
+    /* News content */
+    .news-content {}
+    .news-meta {
+      display: flex; align-items: center; gap: 8px;
+      margin-bottom: 6px; flex-wrap: wrap;
+    }
+    .news-source {
+      font-size: 0.72rem; font-weight: 700; text-transform: uppercase;
+      letter-spacing: 0.08em; color: var(--text-muted);
+    }
+    .news-source-ai     { color: #7BA3D8; }
+    .news-source-digital{ color: #5BB8F5; }
+    .news-source-school { color: #F5A04F; }
+    .news-time { font-size: 0.72rem; color: var(--text-dim); }
+    .news-dot { width: 3px; height: 3px; border-radius: 50%; background: var(--text-dim); }
+    .news-country {
+      font-size: 0.68rem; padding: 1px 7px; border-radius: 10px;
+      background: rgba(255,255,255,0.06); color: var(--text-muted);
+      font-weight: 600;
+    }
+    .news-title {
+      font-size: 0.98rem; font-weight: 700; color: var(--white);
+      line-height: 1.35; margin-bottom: 8px; letter-spacing: -0.01em;
+    }
+    .news-desc {
+      font-size: 0.855rem; color: var(--text-muted);
+      line-height: 1.6; margin-bottom: 10px;
+    }
+    .news-link {
+      font-size: 0.78rem; color: var(--light-blue);
+      text-decoration: none; font-weight: 600;
+      display: inline-flex; align-items: center; gap: 4px;
+    }
+    .news-link:hover { color: #7AC3F5; text-decoration: underline; }
+    .news-link-orange { color: var(--orange); }
+    .news-link-orange:hover { color: #F5A04F; }
+
+    /* ===== CAROUSEL TOOLBAR ===== */
+    .carousel-toolbar {
+      position: fixed; bottom: 2rem; left: 50%; transform: translateX(-50%);
+      background: var(--surface); border: 1px solid rgba(46,125,181,0.4);
+      border-radius: 50px; padding: 10px 20px;
+      display: flex; align-items: center; gap: 16px;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.6), 0 0 0 1px rgba(46,125,181,0.2);
+      backdrop-filter: blur(12px);
+      transition: all 0.2s ease; opacity: 0; pointer-events: none;
+      z-index: 200;
+    }
+    .carousel-toolbar.visible { opacity: 1; pointer-events: all; }
+    .carousel-toolbar-count {
+      font-size: 0.85rem; color: var(--text-muted); white-space: nowrap;
+    }
+    .carousel-toolbar-count strong { color: var(--light-blue); }
+
+    /* ===== EXPORT BAR ===== */
+    .export-bar {
+      display: flex; gap: 10px; align-items: center;
+      padding: 1rem 1.5rem; background: var(--bg2);
+      border: 1px solid var(--border); border-radius: var(--radius);
+      margin-bottom: 2rem; flex-wrap: wrap;
+    }
+    .export-bar-label { font-size: 0.82rem; color: var(--text-muted); margin-right: 6px; }
+
+    /* ===== FOOTER ===== */
+    .footer {
+      text-align: center; padding: 3rem 2rem;
+      border-top: 1px solid var(--border);
+      color: var(--text-dim); font-size: 0.78rem;
+    }
+    .footer a { color: var(--text-muted); text-decoration: none; }
+    .footer a:hover { color: var(--text); }
+
+    /* ===== CAROUSEL MODAL ===== */
+    .modal-overlay {
+      display: none; position: fixed; inset: 0;
+      background: rgba(0,0,0,0.85); z-index: 1000;
+      align-items: center; justify-content: center;
+      padding: 2rem;
+    }
+    .modal-overlay.open { display: flex; }
+    .modal {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 16px; width: 100%; max-width: 900px;
+      max-height: 90vh; overflow-y: auto;
+      box-shadow: 0 24px 80px rgba(0,0,0,0.8);
+    }
+    .modal-header {
+      padding: 1.5rem 2rem; border-bottom: 1px solid var(--border);
+      display: flex; align-items: center; justify-content: space-between;
+      position: sticky; top: 0; background: var(--surface); z-index: 10;
+    }
+    .modal-header h3 { font-size: 1.1rem; font-weight: 800; color: var(--white); }
+    .modal-close {
+      width: 32px; height: 32px; border-radius: 8px;
+      background: rgba(255,255,255,0.06); border: 1px solid var(--border);
+      color: var(--text-muted); cursor: pointer; font-size: 1.1rem;
+      display: flex; align-items: center; justify-content: center;
+      transition: all 0.15s;
+    }
+    .modal-close:hover { background: rgba(255,255,255,0.12); color: var(--white); }
+    .modal-body { padding: 2rem; }
+
+    /* ===== CAROUSEL PREVIEW ===== */
+    .carousel-preview-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      gap: 12px; margin-bottom: 1.5rem;
+    }
+    .carousel-slide {
+      aspect-ratio: 4/5; border-radius: 12px; padding: 1.8rem 1.5rem;
+      display: flex; flex-direction: column; justify-content: space-between;
+      cursor: default; border: 1px solid rgba(255,255,255,0.06);
+      position: relative;
+    }
+    .slide-arrow {
+      position: absolute; bottom: 1rem; right: 1.2rem;
+      color: rgba(255,255,255,0.75); font-size: 1.5rem; font-weight: 300;
+      line-height: 1; pointer-events: none;
+    }
+    .carousel-slide-0 { background: linear-gradient(135deg, var(--dark-blue), #0D1829); }
+    .carousel-slide-ai { background: linear-gradient(145deg, var(--dark-blue), var(--dark-blue2)); }
+    .carousel-slide-digital { background: linear-gradient(145deg, var(--light-blue2), var(--light-blue)); }
+    .carousel-slide-school { background: linear-gradient(145deg, var(--orange2), var(--orange)); }
+    .slide-number { font-size: 0.7rem; font-weight: 800; color: rgba(255,255,255,0.4); letter-spacing: 0.1em; }
+    .slide-logo { font-size: 0.75rem; font-weight: 800; color: rgba(255,255,255,0.5); text-transform: uppercase; letter-spacing: 0.1em; }
+    .slide-title { font-size: 1rem; font-weight: 800; color: var(--white); line-height: 1.3; letter-spacing: -0.02em; }
+    .slide-source { font-size: 0.7rem; color: rgba(255,255,255,0.5); }
+    .slide-category { font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: rgba(255,255,255,0.4); }
+
+    /* ===== PRINT STYLES ===== */
+    @media print {
+      .topbar, .export-bar, .carousel-toolbar, .modal-overlay, .news-checkbox { display: none !important; }
+      body { background: white; color: #111; }
+      .news-card { background: white; border-bottom: 1px solid #eee; }
+      .section-header-ai      { background: #1B2A4A; }
+      .section-header-digital { background: #2E7DB5; }
+      .section-header-school  { background: #E8792B; }
+    }
+
+    /* ===== RESPONSIVE ===== */
+    @media (max-width: 768px) {
+      .main-wrapper { padding: 1rem; }
+      .stats-bar { grid-template-columns: 1fr; }
+      .topbar-actions .btn-ghost { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ===== STICKY TOPBAR ===== -->
+<header class="topbar">
+  <div class="topbar-brand">
+    <div class="topbar-icon">🌐</div>
+    <div>
+      <div class="topbar-title">Omvärldsbevakning</div>
+      <div class="topbar-date">16 april 2026 &nbsp;·&nbsp; Genererad kl 05:16</div>
+    </div>
+  </div>
+  <div class="topbar-actions">
+    <button class="btn btn-ghost btn-sm" onclick="window.print()">🖨 Skriv ut</button>
+    <button class="btn btn-ghost btn-sm" onclick="copyAllHeadlines()">📋 Kopiera rubriker</button>
+    <button class="btn btn-orange btn-sm" onclick="openCarouselModal()">✦ Skapa LinkedIn-karusell</button>
+  </div>
+</header>
+
+<!-- ===== MAIN CONTENT ===== -->
+<main class="main-wrapper">
+
+  <!-- STATS BAR -->
+  <div class="stats-bar">
+    <div class="stat-card">
+      <div class="stat-dot stat-dot-blue"></div>
+      <div>
+        <div class="stat-label">AI-nyheter</div>
+        <div class="stat-count" id="count-ai">6</div>
+      </div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-dot stat-dot-lblue"></div>
+      <div>
+        <div class="stat-label">Digitalisering</div>
+        <div class="stat-count" id="count-digital">2</div>
+      </div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-dot stat-dot-orange"></div>
+      <div>
+        <div class="stat-label">Skola &amp; Utbildning</div>
+        <div class="stat-count" id="count-school">2</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- EXPORT BAR -->
+  <div class="export-bar">
+    <span class="export-bar-label">Exportera:</span>
+    <button class="btn btn-ghost btn-sm" onclick="downloadHTML()">⬇ Ladda ner HTML</button>
+    <button class="btn btn-ghost btn-sm" onclick="copyAllHeadlines()">📋 Kopiera alla rubriker</button>
+    <button class="btn btn-ghost btn-sm" onclick="window.print()">🖨 PDF via utskrift</button>
+    <span style="margin-left:auto; font-size:0.75rem; color:var(--text-dim);">Markera nyheter i listan → Skapa LinkedIn-karusell</span>
+  </div>
+
+  <!-- ===== SECTION 1: AI-NYHETER (DARK BLUE) ===== -->
+  <section class="section" id="section-ai">
+    <div class="section-header section-header-ai">
+      <div class="section-header-icon">🤖</div>
+      <div class="section-header-text">
+        <h2>AI-nyheter</h2>
+        <p>Google · Microsoft · Apple · Anthropic · OpenAI · Higgsfield · OpenArt · Seedance · Nano Banana · m.fl.</p>
+      </div>
+      <div class="section-header-badge" id="badge-ai">6 nyheter</div>
+    </div>
+    <div class="news-grid" id="grid-ai">
+      <div class="news-card" data-title="Anthropic's Claude Code gets automated 'routines' and a desktop makeover" data-source="SiliconANGLE" data-category="ai" data-desc="Anthropic redesigned the Claude Code desktop app for Mac and Windows on April 14, adding automated 'Routines' in research preview that can chain complex developer tasks together. The update brings an integrated terminal, a faster diff viewer, an in-app file editor, and an expanded preview area — marking a major push toward professional developer tooling." data-url="https://siliconangle.com/2026/04/14/anthropics-claude-code-gets-automated-routines-desktop-makeover/" data-lang="en"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-ai">SiliconANGLE</span><div class="news-dot"></div><span class="news-time">~41 hours ago</span></div><div class="news-title">Anthropic's Claude Code gets automated 'routines' and a desktop makeover</div><div class="news-desc">Anthropic redesigned the Claude Code desktop app for Mac and Windows on April 14, adding automated 'Routines' in research preview that can chain complex developer tasks together. The update brings an integrated terminal, a faster diff viewer, an in-app file editor, and an expanded preview area — marking a major push toward professional developer tooling.</div><a href="https://siliconangle.com/2026/04/14/anthropics-claude-code-gets-automated-routines-desktop-makeover/" class="news-link" target="_blank" rel="noopener">Las mer &#8594;</a></div></div><div class="news-card" data-title="Anthropic is facing a wave of user backlash over reports of performance issues with its Claude AI chatbot" data-source="Fortune" data-category="ai" data-desc="Anthropic's most active users are revolting over a perceived decline in Claude's reasoning quality, traced to undisclosed changes that reduced the model's default 'effort' level to cut token usage costs. The backlash is putting pressure on the company — valued at $380 billion and reportedly heading toward an IPO — to restore full performance." data-url="https://fortune.com/2026/04/14/anthropic-claude-performance-decline-user-complaints-backlash-lack-of-transparency-accusations-compute-crunch/" data-lang="en"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-ai">Fortune</span><div class="news-dot"></div><span class="news-time">~41 hours ago</span></div><div class="news-title">Anthropic is facing a wave of user backlash over reports of performance issues with its Claude AI chatbot</div><div class="news-desc">Anthropic's most active users are revolting over a perceived decline in Claude's reasoning quality, traced to undisclosed changes that reduced the model's default 'effort' level to cut token usage costs. The backlash is putting pressure on the company — valued at $380 billion and reportedly heading toward an IPO — to restore full performance.</div><a href="https://fortune.com/2026/04/14/anthropic-claude-performance-decline-user-complaints-backlash-lack-of-transparency-accusations-compute-crunch/" class="news-link" target="_blank" rel="noopener">Las mer &#8594;</a></div></div><div class="news-card" data-title="Google adds AI Skills to Chrome to help you save favorite workflows" data-source="TechCrunch" data-category="ai" data-desc="Google introduced 'Skills' — a feature in Gemini for Chrome that turns AI-generated responses into reusable prompt templates for recurring tasks. Over 50 Skills are available at launch through a new prompt library, covering use cases from summarizing YouTube videos to drafting emails and gift recommendations." data-url="https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/" data-lang="en"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-ai">TechCrunch</span><div class="news-dot"></div><span class="news-time">~41 hours ago</span></div><div class="news-title">Google adds AI Skills to Chrome to help you save favorite workflows</div><div class="news-desc">Google introduced 'Skills' — a feature in Gemini for Chrome that turns AI-generated responses into reusable prompt templates for recurring tasks. Over 50 Skills are available at launch through a new prompt library, covering use cases from summarizing YouTube videos to drafting emails and gift recommendations.</div><a href="https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/" class="news-link" target="_blank" rel="noopener">Las mer &#8594;</a></div></div><div class="news-card" data-title="Microsoft Copilot Specifically Targets Lawyers With New Capabilities" data-source="Artificial Lawyer" data-category="ai" data-desc="Microsoft rolled out new Copilot in Word features built for legal professionals, including word-level Track Changes to provide an audit trail when AI edits documents. The update also sees Microsoft 365 Copilot Chat (Frontier) gain Anthropic's Claude Sonnet as a model option alongside existing OpenAI models." data-url="https://www.artificiallawyer.com/2026/04/15/microsoft-copilot-specifically-targets-lawyers-with-new-capabilities/" data-lang="en"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-ai">Artificial Lawyer</span><div class="news-dot"></div><span class="news-time">~17 hours ago</span></div><div class="news-title">Microsoft Copilot Specifically Targets Lawyers With New Capabilities</div><div class="news-desc">Microsoft rolled out new Copilot in Word features built for legal professionals, including word-level Track Changes to provide an audit trail when AI edits documents. The update also sees Microsoft 365 Copilot Chat (Frontier) gain Anthropic's Claude Sonnet as a model option alongside existing OpenAI models.</div><a href="https://www.artificiallawyer.com/2026/04/15/microsoft-copilot-specifically-targets-lawyers-with-new-capabilities/" class="news-link" target="_blank" rel="noopener">Las mer &#8594;</a></div></div><div class="news-card" data-title="Apple could win the AI race without running" data-source="Axios" data-category="ai" data-desc="Axios argues that Apple's measured AI approach — launching a $9.99/month 'Apple Intelligence+' subscription and building the A19 chip with an Ultra Neural Engine for on-device AI — could pay off as rivals race to spend billions on cloud compute. Siri is undergoing a major overhaul targeting multi-step task completion, with Google Gemini handling broader web-knowledge queries." data-url="https://www.axios.com/2026/04/14/apple-ai-openai-anthropic" data-lang="en"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-ai">Axios</span><div class="news-dot"></div><span class="news-time">~41 hours ago</span></div><div class="news-title">Apple could win the AI race without running</div><div class="news-desc">Axios argues that Apple's measured AI approach — launching a $9.99/month 'Apple Intelligence+' subscription and building the A19 chip with an Ultra Neural Engine for on-device AI — could pay off as rivals race to spend billions on cloud compute. Siri is undergoing a major overhaul targeting multi-step task completion, with Google Gemini handling broader web-knowledge queries.</div><a href="https://www.axios.com/2026/04/14/apple-ai-openai-anthropic" class="news-link" target="_blank" rel="noopener">Las mer &#8594;</a></div></div><div class="news-card" data-title="Claude was down — here's everything we know" data-source="TechRadar" data-category="ai" data-desc="Anthropic's Claude AI experienced a significant outage on April 15, 2026, leaving users and Claude Code workflows unable to connect to the service. The disruption came amid already-heightened scrutiny over perceived performance degradation, further compounding user frustration with the platform." data-url="https://www.techradar.com/news/live/claude-anthropic-down-outage-april-15-2026" data-lang="en"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-ai">TechRadar</span><div class="news-dot"></div><span class="news-time">~17 hours ago</span></div><div class="news-title">Claude was down — here's everything we know</div><div class="news-desc">Anthropic's Claude AI experienced a significant outage on April 15, 2026, leaving users and Claude Code workflows unable to connect to the service. The disruption came amid already-heightened scrutiny over perceived performance degradation, further compounding user frustration with the platform.</div><a href="https://www.techradar.com/news/live/claude-anthropic-down-outage-april-15-2026" class="news-link" target="_blank" rel="noopener">Las mer &#8594;</a></div></div>
+    </div>
+  </section>
+
+  <!-- ===== SECTION 2: DIGITALISERING (LIGHT BLUE) ===== -->
+  <section class="section" id="section-digital">
+    <div class="section-header section-header-digital">
+      <div class="section-header-icon">💡</div>
+      <div class="section-header-text">
+        <h2>Digitalisering i skolan</h2>
+        <p>Pedagogisk användning av digitala verktyg · Lärande · Didaktik · Tidsbesparande</p>
+      </div>
+      <div class="section-header-badge" id="badge-digital">2 nyheter</div>
+    </div>
+    <div class="news-grid" id="grid-digital">
+      <div class="news-card" data-title="El Paso schools work to adapt to rise of AI in education: policies, programs and literacy lessons" data-source="El Paso Matters" data-category="digital" data-desc="Schools in El Paso are rolling out AI literacy curricula and updating acceptable-use policies as students lean on ChatGPT and Gemini for homework. District leaders are weighing the technology's potential for personalized learning against concerns about academic integrity, equity, and the need for teacher training." data-url="https://elpasomatters.org/2026/04/13/ai-artificial-intelligence-in-el-paso-texas-schools-chatgpt-gemini-ai-literacy/" data-lang="en"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-digital">El Paso Matters</span><div class="news-dot"></div><span class="news-time">~65 hours ago</span></div><div class="news-title">El Paso schools work to adapt to rise of AI in education: policies, programs and literacy lessons</div><div class="news-desc">Schools in El Paso are rolling out AI literacy curricula and updating acceptable-use policies as students lean on ChatGPT and Gemini for homework. District leaders are weighing the technology's potential for personalized learning against concerns about academic integrity, equity, and the need for teacher training.</div><a href="https://elpasomatters.org/2026/04/13/ai-artificial-intelligence-in-el-paso-texas-schools-chatgpt-gemini-ai-literacy/" class="news-link" target="_blank" rel="noopener">Las mer &#8594;</a></div></div><div class="news-card" data-title="AI Tools for Education in 2026: A Practical Guide for Students, Teachers &amp; Schools" data-source="Nerdbot" data-category="digital" data-desc="A practical overview of the most effective AI tools now embedded in classrooms, from adaptive tutoring platforms to AI writing assistants and lesson-planning tools for teachers. The guide emphasizes that the most impactful implementations pair powerful AI capabilities with ethical safeguards that support learning outcomes rather than bypass critical thinking." data-url="https://nerdbot.com/2026/04/14/ai-tools-for-education-in-2026-a-practical-guide-for-students-teachers-schools/" data-lang="en"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-digital">Nerdbot</span><div class="news-dot"></div><span class="news-time">~41 hours ago</span></div><div class="news-title">AI Tools for Education in 2026: A Practical Guide for Students, Teachers &amp; Schools</div><div class="news-desc">A practical overview of the most effective AI tools now embedded in classrooms, from adaptive tutoring platforms to AI writing assistants and lesson-planning tools for teachers. The guide emphasizes that the most impactful implementations pair powerful AI capabilities with ethical safeguards that support learning outcomes rather than bypass critical thinking.</div><a href="https://nerdbot.com/2026/04/14/ai-tools-for-education-in-2026-a-practical-guide-for-students-teachers-schools/" class="news-link" target="_blank" rel="noopener">Las mer &#8594;</a></div></div>
+    </div>
+  </section>
+
+  <!-- ===== SECTION 3: SKOLA & UTBILDNING (ORANGE) ===== -->
+  <section class="section" id="section-school">
+    <div class="section-header section-header-school">
+      <div class="section-header-icon">🎓</div>
+      <div class="section-header-text">
+        <h2>Skola och utbildning</h2>
+        <p>Sverige · Estland · Finland · Sydkorea · Singapore · Kanada · PISA-toppländer</p>
+      </div>
+      <div class="section-header-badge" id="badge-school">2 nyheter</div>
+    </div>
+    <div class="news-grid" id="grid-school">
+      <div class="news-card" data-title="SETT 2026 – Skandinaviens mötesplats för innovativt lärande hölls i Stockholm" data-source="SETT-dagarna" data-category="school" data-desc="Den 14–15 april 2026 samlades lärare, skolledare och pedagoger på Kistamässan i Stockholm för SETT 2026 med över 130 utställare och 150 talare. Årets program fokuserade på hur digitala verktyg och AI kan användas pedagogiskt för att höja kunskapsresultaten i hela Norden." data-url="https://www.settdagarna.se/en/programme/" data-lang="sv"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-school">SETT-dagarna</span><div class="news-dot"></div><span class="news-time">~17 hours ago</span><div class="news-dot"></div><span class="news-country">SE</span></div><div class="news-title">SETT 2026 – Skandinaviens mötesplats för innovativt lärande hölls i Stockholm</div><div class="news-desc">Den 14–15 april 2026 samlades lärare, skolledare och pedagoger på Kistamässan i Stockholm för SETT 2026 med över 130 utställare och 150 talare. Årets program fokuserade på hur digitala verktyg och AI kan användas pedagogiskt för att höja kunskapsresultaten i hela Norden.</div><a href="https://www.settdagarna.se/en/programme/" class="news-link news-link-orange" target="_blank" rel="noopener">Las mer &#8594;</a></div></div><div class="news-card" data-title="Final Education Dept. Rule Prioritizes AI in Federal Grants" data-source="MeriTalk" data-category="school" data-desc="The U.S. Department of Education finalized a rule on April 13, 2026, requiring that discretionary grant competitions give priority to projects expanding AI literacy, computer science education, and ethical AI use in K-12 and higher education. Proposals integrating AI into teacher preparation and early intervention for special education receive extra weight under the new framework." data-url="https://meritalk.com/articles/final-education-dept-rule-prioritizes-ai-in-federal-grants/" data-lang="en"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-school">MeriTalk</span><div class="news-dot"></div><span class="news-time">~65 hours ago</span><div class="news-dot"></div><span class="news-country">US</span></div><div class="news-title">Final Education Dept. Rule Prioritizes AI in Federal Grants</div><div class="news-desc">The U.S. Department of Education finalized a rule on April 13, 2026, requiring that discretionary grant competitions give priority to projects expanding AI literacy, computer science education, and ethical AI use in K-12 and higher education. Proposals integrating AI into teacher preparation and early intervention for special education receive extra weight under the new framework.</div><a href="https://meritalk.com/articles/final-education-dept-rule-prioritizes-ai-in-federal-grants/" class="news-link news-link-orange" target="_blank" rel="noopener">Las mer &#8594;</a></div></div>
+    </div>
+  </section>
+
+</main>
+
+<!-- ===== FLOATING CAROUSEL TOOLBAR ===== -->
+<div class="carousel-toolbar" id="carouselToolbar">
+  <span class="carousel-toolbar-count"><strong id="selectedCount">0</strong> valda för karusell</span>
+  <button class="btn btn-orange btn-sm" onclick="openCarouselModal()">✦ Skapa karusell</button>
+  <button class="btn btn-ghost btn-sm" onclick="clearSelection()">✕ Rensa</button>
+</div>
+
+<!-- ===== CAROUSEL MODAL ===== -->
+<div class="modal-overlay" id="carouselModal">
+  <div class="modal">
+    <div class="modal-header">
+      <h3>✦ LinkedIn-karusell — Förhandsgranskning</h3>
+      <button class="modal-close" onclick="closeCarouselModal()">✕</button>
+    </div>
+    <div class="modal-body">
+      <div id="carousel-preview-container"></div>
+      <div style="display:flex; gap:10px; flex-wrap:wrap; margin-top:1rem;">
+        <button class="btn btn-primary" onclick="downloadCarouselHTML()">⬇ Ladda ner karusell som HTML</button>
+        <button class="btn btn-ghost" onclick="window.print()">🖨 Skriv ut / PDF</button>
+        <button class="btn btn-ghost" onclick="closeCarouselModal()">Stäng</button>
+      </div>
+      <p style="font-size:0.78rem; color:var(--text-muted); margin-top:1rem;">
+        Tips: Ladda ner HTML → öppna i webbläsaren → Skriv ut → Spara som PDF → Ladda upp som karusell på LinkedIn.
+      </p>
+    </div>
+  </div>
+</div>
+
+<!-- ===== FOOTER ===== -->
+<footer class="footer">
+  <p>
+    Omvärldsbevakning för <strong>Johan Lindström</strong> &nbsp;·&nbsp;
+    <a href="https://jlsu.se" target="_blank">jlsu.se</a> &nbsp;·&nbsp;
+    Genererad 16 april 2026 kl 05:16
+  </p>
+  <p style="margin-top:0.5rem;">
+    Källor: 39 verifierade nyhetskällor inom AI, EdTech och utbildning
+  </p>
+</footer>
+
+<!-- ===== JAVASCRIPT ===== -->
+<script>
+  // ─── Checkbox management ──────────────────────────────────────────────────
+  const toolbar = document.getElementById('carouselToolbar');
+  const selectedCountEl = document.getElementById('selectedCount');
+
+  document.addEventListener('change', function(e) {
+    if (e.target.classList.contains('news-checkbox')) {
+      const card = e.target.closest('.news-card');
+      if (e.target.checked) {
+        card.classList.add('selected');
+      } else {
+        card.classList.remove('selected');
+      }
+      updateToolbar();
+    }
+  });
+
+  function updateToolbar() {
+    const count = document.querySelectorAll('.news-checkbox:checked').length;
+    selectedCountEl.textContent = count;
+    toolbar.classList.toggle('visible', count > 0);
+  }
+
+  function clearSelection() {
+    document.querySelectorAll('.news-checkbox:checked').forEach(cb => {
+      cb.checked = false;
+      cb.closest('.news-card').classList.remove('selected');
+    });
+    updateToolbar();
+  }
+
+  // ─── Carousel generation ─────────────────────────────────────────────────
+  function getSelectedItems() {
+    const items = [];
+    document.querySelectorAll('.news-checkbox:checked').forEach(cb => {
+      const card = cb.closest('.news-card');
+      items.push({
+        title:    card.dataset.title    || '',
+        source:   card.dataset.source   || '',
+        category: card.dataset.category || 'ai',
+        desc:     card.dataset.desc     || '',
+        url:      card.dataset.url      || '',
+        lang:     card.dataset.lang     || 'en'
+      });
+    });
+    return items;
+  }
+
+  function getCategoryClass(cat) {
+    if (cat === 'digital') return 'carousel-slide-digital';
+    if (cat === 'school')  return 'carousel-slide-school';
+    return 'carousel-slide-ai';
+  }
+
+  function getCategoryLabel(cat) {
+    if (cat === 'digital') return 'DIGITALIZATION';
+    if (cat === 'school')  return 'EDUCATION';
+    return 'AI NEWS';
+  }
+
+  function openCarouselModal() {
+    const items = getSelectedItems();
+    if (items.length === 0) {
+      alert('Kryssa i minst en nyhet i listan för att skapa en karusell.');
+      return;
+    }
+    renderCarouselPreview(items);
+    document.getElementById('carouselModal').classList.add('open');
+  }
+
+  function closeCarouselModal() {
+    document.getElementById('carouselModal').classList.remove('open');
+  }
+
+  function renderCarouselPreview(items) {
+    const container = document.getElementById('carousel-preview-container');
+
+    // Cover slide
+    const today = document.querySelector('.topbar-date')?.textContent?.split('·')[0]?.trim() || '';
+    const coverHTML = `
+      <div class="carousel-slide carousel-slide-0" style="grid-column:1/-1; max-width:280px;">
+        <div>
+          <div class="slide-logo">NEWS YOU NEED TO KNOW</div>
+        </div>
+        <div>
+          <div class="slide-title" style="font-size:1.3rem;">Important news about AI, digitalization and education</div>
+        </div>
+        <div>
+          <div class="slide-source">${today}</div>
+          <div class="slide-source" style="margin-top:4px;">Johan Lindström · jlsu.se</div>
+        </div>
+        <div class="slide-arrow">→</div>
+      </div>`;
+
+    const ctaSlide = `
+      <div class="carousel-slide carousel-slide-0">
+        <div>
+          <div class="slide-logo">JOHAN LINDSTRÖM</div>
+        </div>
+        <div>
+          <div class="slide-title" style="font-size:1.05rem;">Follow me for updates about AI, digitalization and education</div>
+          <a href="https://www.linkedin.com/in/johan-lindström-b290a85" target="_blank" style="display:inline-block;margin-top:0.8rem;background:#2E7DB5;color:#fff;text-decoration:none;padding:8px 14px;border-radius:7px;font-size:0.72rem;font-weight:700;letter-spacing:0.02em;">Follow on LinkedIn →</a>
+        </div>
+        <div>
+          <div class="slide-source">jlsu.se</div>
+        </div>
+      </div>`;
+
+    const slidesHTML = items.map((item, i) => `
+      <div class="carousel-slide ${getCategoryClass(item.category)}">
+        <div>
+          <div class="slide-number">${String(i + 1).padStart(2, '0')} / ${String(items.length).padStart(2, '0')}</div>
+          <div class="slide-category" style="margin-top:6px;">${getCategoryLabel(item.category)}</div>
+        </div>
+        <div class="slide-title">${escapeHtml(item.title)}</div>
+        <div>
+          <div class="slide-source">${escapeHtml(item.source)}</div>
+          <div class="slide-logo" style="margin-top:8px;">JOHAN LINDSTRÖM</div>
+        </div>
+        <div class="slide-arrow">→</div>
+      </div>`).join('');
+
+    container.innerHTML = `<div class="carousel-preview-grid">${coverHTML}${slidesHTML}${ctaSlide}</div>`;
+  }
+
+  // ─── Download carousel as self-contained HTML ────────────────────────────
+  function downloadCarouselHTML() {
+    const items = getSelectedItems();
+    const today = document.title.replace('Omvärldsbevakning — ', '');
+
+    const slideItems = items.map((item, i) => `
+      <div class="slide ${item.category}">
+        <div class="slide-top">
+          <span class="slide-num">${String(i + 1).padStart(2,'0')} / ${String(items.length).padStart(2,'0')}</span>
+          <span class="slide-cat">${getCategoryLabel(item.category)}</span>
+        </div>
+        <div class="slide-title">${escapeHtml(item.title)}</div>
+        ${item.url ? `<a class="slide-more" href="${escapeHtml(item.url)}" target="_blank" rel="noopener">${item.lang === 'sv' ? 'För mer info — klicka här' : 'More info: click this link'}</a>` : ''}
+        <div class="slide-bottom">
+          <div class="slide-source">${escapeHtml(item.source)}</div>
+          <div class="slide-brand">JOHAN LINDSTRÖM</div>
+        </div>
+        <div class="slide-arrow">→</div>
+      </div>`).join('');
+
+    const html = `<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<title>LinkedIn Karusell — ${today}</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background:#0F1923; color:#fff; padding:2rem; }
+  h1 { color:#8A9BB5; font-size:0.85rem; text-transform:uppercase; letter-spacing:0.1em; margin-bottom:1.5rem; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:12px; }
+  .slide { aspect-ratio:4/5; border-radius:14px; padding:2rem 1.75rem; display:flex; flex-direction:column; justify-content:space-between; position:relative; }
+  .slide-arrow { position:absolute; bottom:1rem; right:1.2rem; color:rgba(255,255,255,0.75); font-size:1.5rem; font-weight:300; line-height:1; }
+  .linkedin-btn { display:inline-block; background:#2E7DB5; color:#fff; text-decoration:none; padding:10px 18px; border-radius:8px; font-size:0.8rem; font-weight:700; margin-top:1rem; }
+  .slide.ai       { background:linear-gradient(145deg,#1B2A4A,#243660); }
+  .slide.digital  { background:linear-gradient(145deg,#1C6499,#2E7DB5); }
+  .slide.school   { background:linear-gradient(145deg,#C96320,#E8792B); }
+  .slide-top { display:flex; justify-content:space-between; align-items:flex-start; }
+  .slide-num  { font-size:0.7rem; font-weight:800; color:rgba(255,255,255,0.35); letter-spacing:0.1em; }
+  .slide-cat  { font-size:0.62rem; font-weight:700; text-transform:uppercase; letter-spacing:0.08em; color:rgba(255,255,255,0.4); text-align:right; }
+  .slide-title { font-size:1.05rem; font-weight:800; line-height:1.3; letter-spacing:-0.02em; color:#fff; }
+  .slide-bottom { }
+  .slide-source { font-size:0.7rem; color:rgba(255,255,255,0.5); }
+  .slide-brand  { font-size:0.7rem; font-weight:800; color:rgba(255,255,255,0.35); text-transform:uppercase; letter-spacing:0.1em; margin-top:6px; }
+  .slide-more   { display:inline-block; font-size:0.78rem; font-weight:700; color:#fff; background:rgba(255,255,255,0.14); padding:8px 14px; border-radius:8px; text-decoration:underline; margin:0.6rem 0; word-break:break-word; }
+  .slide-more:hover { background:rgba(255,255,255,0.22); }
+  .cover { background:linear-gradient(135deg,#1B2A4A,#0D1829); }
+  .cover-title { font-size:1.25rem; font-weight:800; line-height:1.3; letter-spacing:-0.02em; color:#fff; }
+  @media print {
+    @page { size: 216mm 270mm; margin: 0; }
+    body { background:transparent; padding:0; margin:0; width:216mm; }
+    h1 { display:none; }
+    .grid { display:block; padding:0; margin:0; }
+    .slide {
+      width:216mm; height:270mm; aspect-ratio:auto; border-radius:0;
+      padding:22mm 20mm; margin:0;
+      page-break-after:always; break-after:page;
+      page-break-inside:avoid; break-inside:avoid;
+      -webkit-print-color-adjust:exact; print-color-adjust:exact;
+    }
+    .slide:last-child { page-break-after:auto; break-after:auto; }
+    .slide-title { font-size:32pt; line-height:1.25; }
+    .slide-num { font-size:11pt; }
+    .slide-cat { font-size:10pt; }
+    .slide-source { font-size:11pt; }
+    .slide-brand { font-size:11pt; }
+    .slide-arrow { font-size:28pt; bottom:12mm; right:15mm; }
+    .slide-more  { font-size:14pt; padding:10pt 16pt; border-radius:10pt; margin:12pt 0; }
+    .cover-title { font-size:38pt; line-height:1.25; }
+    .linkedin-btn { font-size:13pt; padding:16px 32px; border-radius:12px; }
+    .slide-brand:last-of-type { font-size:11pt; }
+  }
+</style>
+</head>
+<body>
+<h1>LinkedIn-karusell · Omvärldsbevakning · ${today}</h1>
+<div class="grid">
+  <div class="slide cover">
+    <div class="slide-brand">NEWS YOU NEED TO KNOW</div>
+    <div class="cover-title">Important news about AI, digitalization and education</div>
+    <div>
+      <div class="slide-source">${today}</div>
+      <div class="slide-brand" style="margin-top:6px;">Johan Lindström · jlsu.se</div>
+    </div>
+    <div class="slide-arrow">→</div>
+  </div>
+  ${slideItems}
+  <div class="slide cover">
+    <div class="slide-brand">JOHAN LINDSTRÖM</div>
+    <div class="cover-title">Follow me for updates about AI, digitalization and education</div>
+    <div>
+      <a href="https://www.linkedin.com/in/johan-lindström-b290a85" class="linkedin-btn" target="_blank">Follow on LinkedIn →</a>
+    </div>
+  </div>
+</div>
+</body>
+</html>`;
+
+    const blob = new Blob([html], {type:'text/html;charset=utf-8'});
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = '20260416_LinkedIn_Karusell.html';
+    a.click();
+  }
+
+  // ─── Download page HTML ──────────────────────────────────────────────────
+  function downloadHTML() {
+    const blob = new Blob([document.documentElement.outerHTML], {type:'text/html;charset=utf-8'});
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = '20260416_Omvarldsbevakning.html';
+    a.click();
+  }
+
+  // ─── Copy all headlines to clipboard ────────────────────────────────────
+  function copyAllHeadlines() {
+    const lines = [];
+    lines.push('=== OMVÄRLDSBEVAKNING 16 april 2026 ===\n');
+
+    ['ai','digital','school'].forEach(cat => {
+      const section = cat === 'ai' ? 'AI-NYHETER' : cat === 'digital' ? 'DIGITALISERING' : 'SKOLA & UTBILDNING';
+      lines.push(`\n--- ${section} ---`);
+      document.querySelectorAll(`#grid-${cat} .news-card`).forEach(card => {
+        lines.push(`• ${card.dataset.title} (${card.dataset.source})`);
+      });
+    });
+
+    navigator.clipboard.writeText(lines.join('\n'))
+      .then(() => { alert('Rubriker kopierade till urklipp!'); })
+      .catch(() => { alert('Kunde inte kopiera — prova ctrl+A, ctrl+C manuellt.'); });
+  }
+
+  // ─── Utilities ───────────────────────────────────────────────────────────
+  function escapeHtml(str) {
+    return String(str)
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+      .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+  }
+
+  // Close modal on overlay click
+  document.getElementById('carouselModal').addEventListener('click', function(e) {
+    if (e.target === this) closeCarouselModal();
+  });
+</script>
+
+</body>
+</html>
