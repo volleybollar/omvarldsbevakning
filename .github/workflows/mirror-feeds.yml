@@ -1,0 +1,34 @@
+name: Spegla RSS-floden
+
+# Nyhetsagenten kor i en sandlada vars proxy blockerar alla nyhetsdomaner.
+# GitHub Actions har fri internetatkomst, sa harifran hamtas floden och
+# resultatet committas till repot. Agenten far dem via sin utcheckning.
+
+on:
+  schedule:
+    # 02:30 UTC = 30 minuter innan nyhetsagenten kor 03:00 UTC
+    - cron: "30 2 * * *"
+  workflow_dispatch: # gor att jobbet ocksa kan startas manuellt
+
+permissions:
+  contents: write # behovs for att kunna committa tillbaka
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Hamta alla floden
+        run: python3 mirror_feeds.py
+
+      - name: Plocka ut artiklar fran senaste 72 timmarna
+        run: python3 recent_items.py 72 > feeds/recent.json
+
+      - name: Committa om nagot andrats
+        run: |
+          git config user.name "Omvarldsbevakning Mirror"
+          git config user.email "mirror@omvarldsbevakning"
+          git add feeds/recent.json feeds/_status.json
+          git diff --staged --quiet || git commit -m "Spegla floden $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

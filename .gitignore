@@ -1,0 +1,3 @@
+# Rå-XML hämtas om vid varje körning och väger ihop ca 4 MB. Bara det
+# extraherade urvalet (feeds/recent.json) committas.
+feeds/*.xml

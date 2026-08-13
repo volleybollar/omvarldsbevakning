@@ -1,0 +1,135 @@
+[
+  {
+    "id": "openai",
+    "name": "OpenAI News",
+    "cat": "ai",
+    "lang": "en",
+    "url": "https://openai.com/news/rss.xml"
+  },
+  {
+    "id": "anthropic",
+    "name": "Anthropic News",
+    "cat": "ai",
+    "lang": "en",
+    "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/refs/heads/main/feeds/feed_anthropic_news.xml"
+  },
+  {
+    "id": "google_ai",
+    "name": "Google AI Blog",
+    "cat": "ai",
+    "lang": "en",
+    "url": "http://feeds.feedburner.com/blogspot/gJZg"
+  },
+  {
+    "id": "google_deepmind",
+    "name": "Google DeepMind Blog",
+    "cat": "ai",
+    "lang": "en",
+    "url": "https://deepmind.google/blog/rss.xml"
+  },
+  {
+    "id": "microsoft",
+    "name": "Microsoft AI Blog",
+    "cat": "ai",
+    "lang": "en",
+    "url": "https://blogs.microsoft.com/feed/"
+  },
+  {
+    "id": "apple",
+    "name": "Apple Newsroom",
+    "cat": "ai",
+    "lang": "en",
+    "url": "https://www.apple.com/newsroom/rss-feed.rss"
+  },
+  {
+    "id": "venturebeat",
+    "name": "VentureBeat AI",
+    "cat": "ai",
+    "lang": "en",
+    "url": "https://venturebeat.com/category/ai/feed/"
+  },
+  {
+    "id": "techcrunch",
+    "name": "TechCrunch AI",
+    "cat": "ai",
+    "lang": "en",
+    "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+  },
+  {
+    "id": "huggingface",
+    "name": "Hugging Face Blog",
+    "cat": "ai",
+    "lang": "en",
+    "url": "https://huggingface.co/blog/feed.xml"
+  },
+  {
+    "id": "midjourney",
+    "name": "Midjourney Updates",
+    "cat": "ai",
+    "lang": "en",
+    "url": "https://updates.midjourney.com/feed"
+  },
+  {
+    "id": "edsurge",
+    "name": "EdSurge",
+    "cat": "digitalisering",
+    "lang": "en",
+    "url": "https://edsurge.com/articles_rss"
+  },
+  {
+    "id": "classtechtips",
+    "name": "Class Tech Tips",
+    "cat": "digitalisering",
+    "lang": "en",
+    "url": "https://classtechtips.com/feed"
+  },
+  {
+    "id": "cultofpedagogy",
+    "name": "Cult of Pedagogy",
+    "cat": "digitalisering",
+    "lang": "en",
+    "url": "https://cultofpedagogy.com/feed"
+  },
+  {
+    "id": "thejournal",
+    "name": "THE Journal",
+    "cat": "digitalisering",
+    "lang": "en",
+    "url": "https://thejournal.com/rss-feeds/all-articles.aspx"
+  },
+  {
+    "id": "eschoolnews",
+    "name": "eSchool News",
+    "cat": "digitalisering",
+    "lang": "en",
+    "url": "https://www.eschoolnews.com/feed/"
+  },
+  {
+    "id": "conversation_edu",
+    "name": "The Conversation — Education",
+    "cat": "digitalisering",
+    "lang": "en",
+    "url": "https://theconversation.com/us/education/articles.atom"
+  },
+  {
+    "id": "edtechmagazine",
+    "name": "EdTech Magazine K-12",
+    "cat": "digitalisering",
+    "lang": "en",
+    "url": "https://edtechmagazine.com/k12/rss.xml"
+  },
+  {
+    "id": "edufi",
+    "name": "Finnish National Agency for Education (EDUFI/OPH)",
+    "cat": "skola",
+    "lang": "en",
+    "url": "https://www.oph.fi/en/latest.rss"
+  },
+  {
+    "id": "conversation_canada",
+    "name": "The Conversation — Canada Education",
+    "cat": "skola",
+    "lang": "en",
+    "url": "https://theconversation.com/ca/education/articles.atom"
+  }
+]
