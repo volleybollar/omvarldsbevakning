@@ -6,8 +6,18 @@
   "title": "The foundation for student success is a positive classroom culture",
   "url": "https://www.eschoolnews.com/sel/2026/08/13/the-foundation-for-student-success-is-a-positive-classroom-culture/",
   "published": "2026-08-13T10:00Z",
-  "age_hours": 0,
+  "age_hours": 1,
   "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/08/positive-classroom-culture.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"A positive classroom culture is built not built on a single activity but through thousands of intentional interactions.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https"
+ },
+ {
+  "source": "Skolledaren",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Krönika: ”Någon” finns inte på schemat",
+  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/8/kronika-nagon-finns-inte-pa-schemat/",
+  "published": "2026-08-12T23:11Z",
+  "age_hours": 13,
+  "summary": "Varje valrörelse tycks börja med att ingen har läst skollagen sedan förra valet. I år handlar det om mobilfri skoldag och skärpta ordningsregler. Det låter som om konsekvensen gör comeback. Det gör den inte. Men den har också väntat på ”Någon”, skriver rektor Anna Lena Oscarson."
  },
  {
   "source": "TechCrunch AI",
@@ -56,7 +66,7 @@
   "title": "Cloud Crime on the Rise as Attackers Exploit Trust",
   "url": "https://thejournal.com/articles/2026/08/12/cloud-crime-on-the-rise-as-attackers-exploit-trust.aspx",
   "published": "2026-08-12T17:54Z",
-  "age_hours": 16,
+  "age_hours": 17,
   "summary": "CrowdStrike's latest Threat Hunting Report traces a multiyear shift from conventional intrusions toward attacks that exploit trusted identities, cloud services, AI systems, and software dependencies."
  },
  {
@@ -66,7 +76,7 @@
   "title": "As AI safety concerns mount, three pioneers make the case for staying open",
   "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
   "published": "2026-08-12T17:51Z",
-  "age_hours": 16,
+  "age_hours": 17,
   "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia."
  },
  {
@@ -86,7 +96,7 @@
   "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
   "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
   "published": "2026-08-12T16:57Z",
-  "age_hours": 17,
+  "age_hours": 18,
   "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app."
  },
  {
@@ -96,7 +106,7 @@
   "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
   "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
   "published": "2026-08-12T16:46Z",
-  "age_hours": 17,
+  "age_hours": 18,
   "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.&#160; One of [&#8"
  },
  {
@@ -126,7 +136,7 @@
   "title": "Lovable confirms new $13.3B valuation, raises another $400M",
   "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
   "published": "2026-08-12T16:04Z",
-  "age_hours": 18,
+  "age_hours": 19,
   "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch."
  },
  {
@@ -136,7 +146,7 @@
   "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
   "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
   "published": "2026-08-12T15:44Z",
-  "age_hours": 18,
+  "age_hours": 19,
   "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases."
  },
  {
@@ -166,7 +176,7 @@
   "title": "Putting sign language AI into users’ hands",
   "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
   "published": "2026-08-12T14:01Z",
-  "age_hours": 20,
+  "age_hours": 21,
   "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
  },
  {
@@ -176,7 +186,7 @@
   "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
   "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
   "published": "2026-08-12T14:00Z",
-  "age_hours": 20,
+  "age_hours": 21,
   "summary": ""
  },
  {
@@ -186,7 +196,7 @@
   "title": "K–12 Technology Leaders Are Doing Too Much: 3 Ways to Reclaim Strategic Focus",
   "url": "https://thejournal.com/articles/2026/08/12/k12-technology-leaders-are-doing-too-much-3-ways-to-reclaim-strategic-focus.aspx",
   "published": "2026-08-12T14:00Z",
-  "age_hours": 20,
+  "age_hours": 21,
   "summary": "Technology directors touch nearly everything that happens in a school system. Here are three strategies these IT leaders can use to navigate their many duties without losing strategic focus, influence, or sustainability."
  },
  {
@@ -200,13 +210,23 @@
   "summary": "The EdTech Quality Collaborative, a group of six education-focused organizations, recently released a new tool for assessing and purchasing K–12 technology. The guide grew from an issue that touches every district in the nation: tech sprawl. The average district accesses nearly 3,000 distinct ed tech products in a year, but until now there was no K–12-specific framework for evaluating these tools."
  },
  {
+  "source": "Regeringen",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Utbildnings- och integrationsministern bjuder in till pressbriefing om migranters värderingar i Sverige",
+  "url": "https://www.regeringen.se/pressmeddelanden/2026/08/utbildnings--och-integrationsministern-bjuder-in-till-pressbriefing-om-migranters-varderingar-i-sverige/",
+  "published": "2026-08-12T13:00Z",
+  "age_hours": 24,
+  "summary": "Fredag den 14 augusti håller utbildnings- och integrationsminister Simona Mohamsson en pressbriefing tillsammans med Bi Puranen, forskningsledare och generalsekreterare för World Values Survey. Under pressbriefingen presenterar Bi Puranen de viktigaste resultaten och slutsatserna från en ny studie om migranters värderingar i Sverige, följt av en reflektion från Simona Mohamsson."
+ },
+ {
   "source": "TechCrunch AI",
   "cat": "ai",
   "lang": "en",
   "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
   "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
   "published": "2026-08-12T11:00Z",
-  "age_hours": 23,
+  "age_hours": 24,
   "summary": "Blacksmith says revenue has grown more than tenfold over the past year."
  },
  {
@@ -216,7 +236,7 @@
   "title": "The biggest back-to-school challenge",
   "url": "https://www.eschoolnews.com/innovative-teaching/2026/08/12/the-biggest-back-to-school-challenge/",
   "published": "2026-08-12T10:00Z",
-  "age_hours": 24,
+  "age_hours": 25,
   "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/08/listening-students.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Teaching listening gives students practical tools they can use to remain mentally present, organize information and ask meaningful questions.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://www."
  },
  {
@@ -226,7 +246,7 @@
   "title": "From assistance to execution: How enterprises put AI to work",
   "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
   "published": "2026-08-12T06:00Z",
-  "age_hours": 28,
+  "age_hours": 29,
   "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
  },
  {
@@ -236,7 +256,7 @@
   "title": "The K-12 Silo Won’t Survive AI — But Our Relationships Might",
   "url": "https://edsurge.com/news/the-k-12-silo-wont-survive-ai-but-our-relationships-might",
   "published": "2026-08-12T00:00Z",
-  "age_hours": 34,
+  "age_hours": 35,
   "summary": "I left my school to ask tech executives how to prepare students for the future."
  },
  {
@@ -246,7 +266,7 @@
   "title": "What Do the Youngest Learners in the Building Actually Need?",
   "url": "https://edsurge.com/news/what-do-the-youngest-learners-in-the-building-actually-need",
   "published": "2026-08-12T00:00Z",
-  "age_hours": 34,
+  "age_hours": 35,
   "summary": "The guests on this episode of This Week with EdSurge say good tools fail without good follow-through."
  },
  {
@@ -256,7 +276,7 @@
   "title": "How RingCentral builds AI-native work from engineering to ops",
   "url": "https://openai.com/index/ringcentral",
   "published": "2026-08-12T00:00Z",
-  "age_hours": 34,
+  "age_hours": 35,
   "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations."
  },
  {
@@ -286,7 +306,7 @@
   "title": "Google’s Gemini app surges to 1 billion users",
   "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
   "published": "2026-08-11T18:49Z",
-  "age_hours": 39,
+  "age_hours": 40,
   "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google."
  },
  {
@@ -326,7 +346,7 @@
   "title": "K–12 Schools are Shifting To a Longer-Term Cyber Resilience Strategy",
   "url": "https://edtechmagazine.com/k12/article/2026/08/k-12-schools-are-shifting-longer-term-cyber-resilience-strategy",
   "published": "2026-08-11T14:49Z",
-  "age_hours": 39,
+  "age_hours": 40,
   "summary": "Data from a recent Comparitech report shows a 9% decline in the number of confirmed ransomware attacks on U.S. educational institutions from 2024 to 2025. While incidents may not be rising as fast as they once were, and though average ransom amounts are down 33%, the overall rate of attacks and the severity of breaches is still high. The bottom line is that cyberattacks of any kind aren't going an"
  },
  {
@@ -346,7 +366,7 @@
   "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
   "url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
   "published": "2026-08-11T13:59Z",
-  "age_hours": 44,
+  "age_hours": 45,
   "summary": "Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+."
  },
  {
@@ -366,7 +386,7 @@
   "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
   "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
   "published": "2026-08-11T13:00Z",
-  "age_hours": 45,
+  "age_hours": 46,
   "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default."
  },
  {
@@ -386,7 +406,7 @@
   "title": "How to build a positive classroom in the first 5 days of school",
   "url": "https://www.eschoolnews.com/innovative-teaching/2026/08/11/how-to-build-a-positive-classroom-in-the-first-5-days-of-school/",
   "published": "2026-08-11T10:00Z",
-  "age_hours": 48,
+  "age_hours": 49,
   "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/08/classroom-culture.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"The most important thing educators can do at the start of a new school year is build trust and create a positive classroom culture.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://"
  },
  {
@@ -396,7 +416,7 @@
   "title": "Testing ads in ChatGPT",
   "url": "https://openai.com/index/testing-ads-in-chatgpt",
   "published": "2026-08-11T10:00Z",
-  "age_hours": 48,
+  "age_hours": 49,
   "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
  },
  {
@@ -406,7 +426,7 @@
   "title": "Daybreak models are now available on AWS",
   "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
   "published": "2026-08-11T10:00Z",
-  "age_hours": 48,
+  "age_hours": 49,
   "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows."
  },
  {
@@ -416,7 +436,7 @@
   "title": "One of My Favorite Ways to Introduce AI Images – Easy EdTech Podcast 383",
   "url": "https://classtechtips.com/2026/08/11/introduce-ai-images-383/",
   "published": "2026-08-11T09:00Z",
-  "age_hours": 49,
+  "age_hours": 50,
   "summary": "<p>Introduce AI Images with a quick, engaging “guess the prompt” activity that sparks meaningful AI literacy conversations.</p> <p>The post <a href=\"https://classtechtips.com/2026/08/11/introduce-ai-images-383/\">One of My Favorite Ways to Introduce AI Images &#8211; Easy EdTech Podcast 383</a> appeared first on <a href=\"https://classtechtips.com\">Class Tech Tips</a>.</p>"
  },
  {
@@ -426,7 +446,7 @@
   "title": "AI Attacks Push Organizations Toward Autonomous Cybersecurity Defense",
   "url": "https://thejournal.com/articles/2026/08/10/ai-attacks-push-organizations-toward-autonomous-cybersecurity-defense.aspx",
   "published": "2026-08-10T17:51Z",
-  "age_hours": 64,
+  "age_hours": 65,
   "summary": "Artificial intelligence is raising the stakes of cyber conflict as attackers use the technology to accelerate reconnaissance, uncover vulnerabilities, and launch attacks faster than many security teams can respond, according to a new report from agentic AI security company Kai."
  },
  {
@@ -446,7 +466,7 @@
   "title": "What building an AI-native finance function taught me",
   "url": "https://openai.com/index/building-an-ai-native-finance-function",
   "published": "2026-08-10T17:00Z",
-  "age_hours": 65,
+  "age_hours": 66,
   "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI."
  },
  {
@@ -466,7 +486,7 @@
   "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
   "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
   "published": "2026-08-10T14:59Z",
-  "age_hours": 67,
+  "age_hours": 68,
   "summary": "Apple and Major League Baseball unveiled the September schedule for “Friday Night Baseball.”"
  },
  {
@@ -476,8 +496,18 @@
   "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
   "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
   "published": "2026-08-10T14:00Z",
-  "age_hours": 68,
+  "age_hours": 69,
   "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans."
+ },
+ {
+  "source": "Regeringen",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Åtgärder mot långtidsarbetslöshet ska utredas",
+  "url": "https://www.regeringen.se/pressmeddelanden/2026/08/atgarder-mot-langtidsarbetsloshet-ska-utredas/",
+  "published": "2026-08-10T13:19Z",
+  "age_hours": 71,
+  "summary": "En särskild utredare ska analysera orsakerna till den höga långtidsarbetslösheten och föreslå åtgärder för att fler ska komma i arbete eller utbildning. Utredaren ska också analysera hur stödet till långtidsarbetslösa personer med funktionsnedsättning kan bli mer ändamålsenligt."
  },
  {
   "source": "The Conversation — Education",
@@ -496,7 +526,7 @@
   "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
   "url": "https://openai.com/index/model-ml",
   "published": "2026-08-10T12:00Z",
-  "age_hours": 70,
+  "age_hours": 71,
   "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks."
  }
 ]

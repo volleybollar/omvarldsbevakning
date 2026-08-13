@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T10:14:12Z",
-  "ok": 19,
+  "updated": "2026-08-13T10:35:42Z",
+  "ok": 21,
   "failed": 0,
   "feeds": [
     {
@@ -173,6 +173,37 @@
       "url": "https://theconversation.com/ca/education/articles.atom",
       "ok": true,
       "bytes": 319418
+    },
+    {
+      "id": "skolledaren",
+      "name": "Skolledaren",
+      "cat": "skola",
+      "lang": "sv",
+      "url": "https://www.skolledaren.se/rss",
+      "ok": true,
+      "bytes": 36491
+    },
+    {
+      "id": "regeringen",
+      "name": "Regeringen",
+      "cat": "skola",
+      "lang": "sv",
+      "url": "https://www.regeringen.se/Filter/RssFeed?filterType=Taxonomy&filterByType=FilterablePageBase",
+      "keywords": [
+        "utbildning",
+        "skola",
+        "skolan",
+        "elev",
+        "lärare",
+        "förskol",
+        "gymnasi",
+        "högskol",
+        "universitet",
+        "studie",
+        "undervisning"
+      ],
+      "ok": true,
+      "bytes": 104442
     }
   ]
 }

@@ -131,5 +131,32 @@
     "cat": "skola",
     "lang": "en",
     "url": "https://theconversation.com/ca/education/articles.atom"
+  },
+  {
+    "id": "skolledaren",
+    "name": "Skolledaren",
+    "cat": "skola",
+    "lang": "sv",
+    "url": "https://www.skolledaren.se/rss"
+  },
+  {
+    "id": "regeringen",
+    "name": "Regeringen",
+    "cat": "skola",
+    "lang": "sv",
+    "url": "https://www.regeringen.se/Filter/RssFeed?filterType=Taxonomy&filterByType=FilterablePageBase",
+    "keywords": [
+      "utbildning",
+      "skola",
+      "skolan",
+      "elev",
+      "lärare",
+      "förskol",
+      "gymnasi",
+      "högskol",
+      "universitet",
+      "studie",
+      "undervisning"
+    ]
   }
 ]

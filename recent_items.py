@@ -70,6 +70,16 @@ for path in sorted((here / "feeds").glob("*.xml")):
         if not title or not url:
             continue
         summary = first(it, "description", "a:summary", "a:content")
+
+        # Vissa flöden går inte att filtrera på serversidan. Regeringens RSS
+        # innehåller till exempel hela regeringens utgivning, alla departement.
+        # Har flödet "keywords" i feeds.json släpps bara det som matchar igenom.
+        words = meta.get("keywords")
+        if words:
+            hay = (title + " " + summary).lower()
+            if not any(w in hay for w in words):
+                continue
+
         out.append({
             "source": meta["name"],
             "cat": meta["cat"],
