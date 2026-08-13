@@ -1,48 +1,21 @@
 #!/usr/bin/env python3
 """
-assemble.py - Reads /tmp/news.json, fetches HTML template from GitHub,
-assembles full page, uploads index.html + dated archive to GitHub.
+assemble.py - Reads /tmp/news.json, fills template.html from the repo checkout,
+writes index.html + a dated archive file into the repo working tree.
 
-Usage: python3 assemble.py <GITHUB_TOKEN>
-Called by the nightly CCR agent after it writes /tmp/news.json.
+Usage: python3 assemble.py <REPO_DIR>
+
+Called by the nightly CCR agent, which then commits and pushes the result.
+No GitHub token and no network access are needed - the agent's sandbox proxy
+blocks api.github.com, so publishing goes through git push instead.
 """
-import base64, json, sys, urllib.request
+import json, os, sys
 
 if len(sys.argv) < 2:
-    print("Usage: python3 assemble.py <GITHUB_TOKEN>")
+    print("Usage: python3 assemble.py <REPO_DIR>")
     sys.exit(1)
 
-TOKEN = sys.argv[1]
-REPO  = "volleybollar/omvarldsbevakning"
-API   = "https://api.github.com/repos/" + REPO + "/contents/"
-RAW   = "https://raw.githubusercontent.com/" + REPO + "/main/"
-HDR   = {"Authorization": "token " + TOKEN,
-         "Content-Type": "application/json",
-         "User-Agent": "omvarldsbevakning-bot"}
-
-def gh_get(path):
-    req = urllib.request.Request(API + path, headers=HDR)
-    try:
-        return json.loads(urllib.request.urlopen(req).read())
-    except:
-        return {}
-
-def gh_put(path, msg, content_b64, sha=None):
-    body = {"message": msg, "content": content_b64}
-    if sha:
-        body["sha"] = sha
-    data = json.dumps(body).encode("utf-8")
-    req = urllib.request.Request(API + path, data=data, headers=HDR, method="PUT")
-    try:
-        res = json.loads(urllib.request.urlopen(req).read())
-        return res.get("commit", {}).get("sha", "error")[:12]
-    except Exception as e:
-        print("ERROR putting", path, str(e))
-        return "error"
-
-def fetch_raw(path):
-    req = urllib.request.Request(RAW + path)
-    return urllib.request.urlopen(req).read().decode("utf-8")
+REPO_DIR = sys.argv[1]
 
 def esc(s):
     return str(s).replace("&","&amp;").replace("<","&lt;").replace(">","&gt;").replace('"',"&quot;")
@@ -90,9 +63,12 @@ ai_items  = news.get("ai",  [])
 dig_items = news.get("dig", [])
 sch_items = news.get("sch", [])
 
-# Fetch template and substitute
-print("Fetching template...")
-html = fetch_raw("template.html")
+# Read template from the repo checkout
+template_path = os.path.join(REPO_DIR, "template.html")
+print("Reading template from", template_path, "...")
+with open(template_path, "r", encoding="utf-8") as f:
+    html = f.read()
+
 html = html.replace("{{DATE}}",          news["date"])
 html = html.replace("{{DATE_LONG}}",     news["date_long"])
 html = html.replace("{{TIME}}",          news["time"])
@@ -103,21 +79,13 @@ html = html.replace("{{NEWS_AI}}",       "".join(card_ai(i)  for i in ai_items))
 html = html.replace("{{NEWS_DIGITAL}}",  "".join(card_dig(i) for i in dig_items))
 html = html.replace("{{NEWS_SCHOOL}}",   "".join(card_sch(i) for i in sch_items))
 
-content_b64 = base64.b64encode(html.encode("utf-8")).decode("ascii")
-
-# Upload index.html
-print("Uploading index.html...")
-sha = gh_get("index.html").get("sha", "")
-r1 = gh_put("index.html", f'Daily news {news["date"]}', content_b64, sha)
-print("  index.html:", r1)
-
-# Upload dated archive
+# Write index.html and the dated archive into the repo working tree
 datefile = news["date"] + "_Omvarldsbevakning.html"
-print(f"Uploading {datefile}...")
-sha2 = gh_get(datefile).get("sha", "")
-r2 = gh_put(datefile, f"Archive {datefile}", content_b64, sha2 or None)
-print(f"  {datefile}:", r2)
+for name in ("index.html", datefile):
+    path = os.path.join(REPO_DIR, name)
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(html)
+    print(f"  wrote {name} ({len(html.encode('utf-8'))} bytes)")
 
-print(f"\nDone! https://volleybollar.github.io/omvarldsbevakning/")
-if "error" in [r1, r2]:
-    sys.exit(1)
+print(f"\nDone. {len(ai_items)} AI / {len(dig_items)} digitalisering / {len(sch_items)} skola.")
+print(f"Now commit and push {REPO_DIR}.")
