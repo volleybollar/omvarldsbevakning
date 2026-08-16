@@ -3,10 +3,40 @@
   "source": "TechCrunch AI",
   "cat": "ai",
   "lang": "en",
+  "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+  "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+  "published": "2026-08-15T21:29Z",
+  "age_hours": 6,
+  "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+  "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+  "published": "2026-08-15T18:58Z",
+  "age_hours": 8,
+  "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "SpaceX officially closes its Cursor acquisition",
+  "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+  "published": "2026-08-15T16:30Z",
+  "age_hours": 11,
+  "summary": "AI coding startup Cursor is now officially a part of SpaceX."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
   "title": "Google will now allow users to remove visible watermark from its AI generations",
   "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
   "published": "2026-08-14T16:13Z",
-  "age_hours": 11,
+  "age_hours": 35,
   "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
  },
  {
@@ -16,7 +46,7 @@
   "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
   "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
   "published": "2026-08-14T15:43Z",
-  "age_hours": 12,
+  "age_hours": 36,
   "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s ["
  },
  {
@@ -26,7 +56,7 @@
   "title": "Kog is going deeper to squeeze more inference out of GPUs",
   "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
   "published": "2026-08-14T14:50Z",
-  "age_hours": 12,
+  "age_hours": 37,
   "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
  },
  {
@@ -36,7 +66,7 @@
   "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
   "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
   "published": "2026-08-14T14:05Z",
-  "age_hours": 13,
+  "age_hours": 37,
   "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
  },
  {
@@ -46,7 +76,7 @@
   "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
   "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
   "published": "2026-08-14T14:00Z",
-  "age_hours": 13,
+  "age_hours": 37,
   "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s ["
  },
  {
@@ -56,7 +86,7 @@
   "title": "Staying hopeful and true to oneself is a lesson these 5 kids books offer to kindergartners and other children",
   "url": "https://theconversation.com/staying-hopeful-and-true-to-oneself-is-a-lesson-these-5-kids-books-offer-to-kindergartners-and-other-children-289453",
   "published": "2026-08-14T12:39Z",
-  "age_hours": 15,
+  "age_hours": 39,
   "summary": "A children’s writer explains how ‘Where the Wild Things Are,’ ‘The Rabbit Listened’ and other stories can help prepare kindergarten students for this next phase of life."
  },
  {
@@ -66,7 +96,7 @@
   "title": "Public schools at the starting line: Beginning a new pathway with scholarship granting organizations",
   "url": "https://www.eschoolnews.com/educational-leadership/2026/08/14/beginning-a-new-pathway-with-scholarship-granting-organizations/",
   "published": "2026-08-14T10:00Z",
-  "age_hours": 17,
+  "age_hours": 41,
   "summary": "<img width=\"500\" height=\"290\" src=\"https://www.eschoolnews.com/files/2026/08/SGOs-SGO.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Scholarship funds from SGOs can be used for qualified expenses, which include academic tutoring and special needs services and supports.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" />For the firs"
  },
  {
@@ -76,7 +106,7 @@
   "title": "How to Build a Back-to-School Writing Routine Students Love – Bonus Episode with WeWillWrite",
   "url": "https://classtechtips.com/2026/08/14/back-to-school-writing-bonus/",
   "published": "2026-08-14T09:00Z",
-  "age_hours": 18,
+  "age_hours": 42,
   "summary": "<p>Make back-to-school writing engaging with Erlend Klouman Høiner and Bonnie Watson’s simple routines for energized student writing.</p> <p>The post <a href=\"https://classtechtips.com/2026/08/14/back-to-school-writing-bonus/\">How to Build a Back-to-School Writing Routine Students Love &#8211; Bonus Episode with WeWillWrite</a> appeared first on <a href=\"https://classtechtips.com\">Class Tech Tips<"
  },
  {
@@ -86,7 +116,7 @@
   "title": "How Claude’s text watermark works",
   "url": "https://www.anthropic.com/news/claude-text-watermark",
   "published": "2026-08-14T00:00Z",
-  "age_hours": 27,
+  "age_hours": 51,
   "summary": "How Claude’s text watermark works"
  },
  {
@@ -96,7 +126,7 @@
   "title": "State of Open Models: Summer 2026 Observations",
   "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
   "published": "2026-08-14T00:00Z",
-  "age_hours": 27,
+  "age_hours": 51,
   "summary": ""
  },
  {
@@ -106,7 +136,7 @@
   "title": "Förslag: Ny utbildning för speciallärare",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/8/forslag-ny-utbildning-for-speciallarare/",
   "published": "2026-08-13T21:44Z",
-  "age_hours": 31,
+  "age_hours": 56,
   "summary": "Om tre år kan en ny speciallärarutbildning rulla igång. Den ersätter dagens två utbildningar som till stor del liknar varandra."
  },
  {
@@ -116,7 +146,7 @@
   "title": "Tre skolledare: Så startar vi terminen",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/8/tre-skolledare-sa-startar-vi-terminen/",
   "published": "2026-08-13T21:31Z",
-  "age_hours": 32,
+  "age_hours": 56,
   "summary": "Röda mattan, PDV-utbildning och gemensamma aktiviteter. Här svarar tre skolledare på frågan: Hur startar du terminen?"
  },
  {
@@ -126,7 +156,7 @@
   "title": "Writer introduces new AI model and upgraded harness to contain token costs",
   "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
   "published": "2026-08-13T21:13Z",
-  "age_hours": 30,
+  "age_hours": 54,
   "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price."
  },
  {
@@ -136,7 +166,7 @@
   "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
   "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
   "published": "2026-08-13T20:14Z",
-  "age_hours": 31,
+  "age_hours": 55,
   "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned."
  },
  {
@@ -146,7 +176,7 @@
   "title": "Klubbat: Skärpta villkor för friskolor",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/8/klubbat-skarpta-villkor-for-friskolor/",
   "published": "2026-08-13T20:13Z",
-  "age_hours": 33,
+  "age_hours": 57,
   "summary": "Skärpta villkor för friskolesektorn var ämnet på riksdagsårets sista beslut och debatt. – De förslag som riksdagen fattar beslut om i dag är välkomna och kommer i viss mån att bidra till en bättre fungerande utbildningsmarknad. Men de räcker inte, konstaterar Ann-Charlotte Gavelin Rydman, förbundsordförande för Sveriges Skolledare."
  },
  {
@@ -156,7 +186,7 @@
   "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
   "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
   "published": "2026-08-13T19:22Z",
-  "age_hours": 32,
+  "age_hours": 56,
   "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
  },
  {
@@ -166,7 +196,7 @@
   "title": "IBM partners with OpenAI to bolster enterprise AI push",
   "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
   "published": "2026-08-13T19:19Z",
-  "age_hours": 32,
+  "age_hours": 56,
   "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal."
  },
  {
@@ -176,7 +206,7 @@
   "title": "Apple opens Advanced Manufacturing Center in Houston",
   "url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
   "published": "2026-08-13T18:30Z",
-  "age_hours": 33,
+  "age_hours": 57,
   "summary": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses."
  },
  {
@@ -186,7 +216,7 @@
   "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
   "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
   "published": "2026-08-13T18:28Z",
-  "age_hours": 33,
+  "age_hours": 57,
   "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems."
  },
  {
@@ -196,7 +226,7 @@
   "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
   "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
   "published": "2026-08-13T17:16Z",
-  "age_hours": 34,
+  "age_hours": 58,
   "summary": ""
  },
  {
@@ -206,7 +236,7 @@
   "title": "OpenAI hires new CRO as executive shake-up continues",
   "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
   "published": "2026-08-13T17:07Z",
-  "age_hours": 34,
+  "age_hours": 58,
   "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job."
  },
  {
@@ -216,7 +246,7 @@
   "title": "Introducing Gemini 3.7 Flash",
   "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
   "published": "2026-08-13T17:04Z",
-  "age_hours": 34,
+  "age_hours": 58,
   "summary": ""
  },
  {
@@ -226,7 +256,7 @@
   "title": "Lotta Edholm tog emot utredning om en ny speciallärarutbildning",
   "url": "https://www.regeringen.se/pressmeddelanden/2026/08/lotta-edholm-tog-emot-utredning-om-en-ny-speciallararutbildning/",
   "published": "2026-08-13T16:44Z",
-  "age_hours": 36,
+  "age_hours": 61,
   "summary": "I dag tog gymnasie-, högskole- och forskningsminister Lotta Edholm emot betänkandet från Utredningen om speciallärar- och specialpedagogutbildningarna."
  },
  {
@@ -236,7 +266,7 @@
   "title": "En ny speciallärarutbildning",
   "url": "https://www.regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/2026/08/sou-202650/",
   "published": "2026-08-13T16:43Z",
-  "age_hours": 37,
+  "age_hours": 61,
   "summary": "Betänkande av Utredningen om speciallärar- och specialpedagogutbildningarna."
  },
  {
@@ -246,7 +276,7 @@
   "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
   "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
   "published": "2026-08-13T15:30Z",
-  "age_hours": 36,
+  "age_hours": 60,
   "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character."
  },
  {
@@ -256,7 +286,7 @@
   "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
   "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
   "published": "2026-08-13T15:08Z",
-  "age_hours": 36,
+  "age_hours": 60,
   "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts."
  },
  {
@@ -266,7 +296,7 @@
   "title": "Apple in talks to pay publishers to provide Siri with current news: report",
   "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
   "published": "2026-08-13T14:34Z",
-  "age_hours": 37,
+  "age_hours": 61,
   "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ."
  },
  {
@@ -276,7 +306,7 @@
   "title": "6 Data Governance Best Practices for K–12",
   "url": "https://edtechmagazine.com/k12/article/2026/08/6-data-governance-best-practices-k-12",
   "published": "2026-08-13T13:32Z",
-  "age_hours": 34,
+  "age_hours": 58,
   "summary": "K–12 districts are entrusted with a wide range of student data. Attendance records, grades, behavior logs, Individualized Education Programs and health records are gathered and stored in school systems, often for years after children move on to other districts or graduate. And as schools adopt more ed tech tools, they’re responsible for even more data. With that responsibility comes risk: A single"
  },
  {
@@ -286,7 +316,7 @@
   "title": "‘Hello, just circling back!’ Not responding to emails is common across higher education but bad for morale",
   "url": "https://theconversation.com/hello-just-circling-back-not-responding-to-emails-is-common-across-higher-education-but-bad-for-morale-289540",
   "published": "2026-08-13T12:31Z",
-  "age_hours": 39,
+  "age_hours": 63,
   "summary": "Several colleges and universities instruct students on how to navigate email communication on their campus, but more could consider the practice."
  },
  {
@@ -296,7 +326,7 @@
   "title": "New AI Literacy Lessons for Elementary Students",
   "url": "https://classtechtips.com/2026/08/13/ai-literacy-lessons/",
   "published": "2026-08-13T12:05Z",
-  "age_hours": 39,
+  "age_hours": 63,
   "summary": "<p>Looking for AI literacy lessons? Here is a teacher-friendly, game-based way to help elementary students understand AI and think critically.</p> <p>The post <a href=\"https://classtechtips.com/2026/08/13/ai-literacy-lessons/\">New AI Literacy Lessons for Elementary Students</a> appeared first on <a href=\"https://classtechtips.com\">Class Tech Tips</a>.</p>"
  },
  {
@@ -306,7 +336,7 @@
   "title": "The builder’s guide to GPT‑5.6",
   "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
   "published": "2026-08-13T11:00Z",
-  "age_hours": 40,
+  "age_hours": 64,
   "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
  },
  {
@@ -316,7 +346,7 @@
   "title": "The foundation for student success is a positive classroom culture",
   "url": "https://www.eschoolnews.com/sel/2026/08/13/the-foundation-for-student-success-is-a-positive-classroom-culture/",
   "published": "2026-08-13T10:00Z",
-  "age_hours": 41,
+  "age_hours": 65,
   "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/08/positive-classroom-culture.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"A positive classroom culture is built not built on a single activity but through thousands of intentional interactions.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://www.eschoolnews.co"
  },
  {
@@ -326,7 +356,7 @@
   "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
   "url": "https://openai.com/index/previewing-ultrafast",
   "published": "2026-08-13T10:00Z",
-  "age_hours": 41,
+  "age_hours": 65,
   "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
  },
  {
@@ -336,207 +366,7 @@
   "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
   "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
   "published": "2026-08-13T09:00Z",
-  "age_hours": 42,
+  "age_hours": 66,
   "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI."
- },
- {
-  "source": "EdSurge",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "On AI Policy, Students Have Plenty to Say",
-  "url": "https://edsurge.com/news/on-ai-policy-students-have-plenty-to-say",
-  "published": "2026-08-13T00:00Z",
-  "age_hours": 51,
-  "summary": "At a gathering in Boston, ‘student senators’ proposed a first-of-its-kind national AI policy for K-12 classrooms."
- },
- {
-  "source": "Hugging Face Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "What We Learned by Reproducing 2,200 papers from ICML",
-  "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-  "published": "2026-08-13T00:00Z",
-  "age_hours": 51,
-  "summary": ""
- },
- {
-  "source": "Skolledaren",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Krönika: ”Någon” finns inte på schemat",
-  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/8/kronika-nagon-finns-inte-pa-schemat/",
-  "published": "2026-08-12T23:11Z",
-  "age_hours": 54,
-  "summary": "Varje valrörelse tycks börja med att ingen har läst skollagen sedan förra valet. I år handlar det om mobilfri skoldag och skärpta ordningsregler. Det låter som om konsekvensen gör comeback. Det gör den inte. Men den har också väntat på ”Någon”, skriver rektor Anna Lena Oscarson."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-  "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-  "published": "2026-08-12T22:26Z",
-  "age_hours": 53,
-  "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is."
- },
- {
-  "source": "THE Journal",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "Check Point Researchers: AI Has Crossed into the Live Attack Chain",
-  "url": "https://thejournal.com/articles/2026/08/12/check-point-researchers-ai-has-crossed-into-the-live-attack-chain.aspx",
-  "published": "2026-08-12T21:22Z",
-  "age_hours": 54,
-  "summary": "AI is moving beyond assisting cybercriminals and beginning to operate within live attacks, according to a recent report from Check Point Research. The technology is making sophisticated capabilities faster and more accessible while creating new security risks for businesses deploying their own AI systems."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-  "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-  "published": "2026-08-12T20:10Z",
-  "age_hours": 55,
-  "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\""
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-  "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-  "published": "2026-08-12T18:19Z",
-  "age_hours": 57,
-  "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
- },
- {
-  "source": "THE Journal",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "Cloud Crime on the Rise as Attackers Exploit Trust",
-  "url": "https://thejournal.com/articles/2026/08/12/cloud-crime-on-the-rise-as-attackers-exploit-trust.aspx",
-  "published": "2026-08-12T17:54Z",
-  "age_hours": 57,
-  "summary": "CrowdStrike's latest Threat Hunting Report traces a multiyear shift from conventional intrusions toward attacks that exploit trusted identities, cloud services, AI systems, and software dependencies."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-  "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-  "published": "2026-08-12T17:51Z",
-  "age_hours": 57,
-  "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-  "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-  "published": "2026-08-12T17:41Z",
-  "age_hours": 58,
-  "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-  "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-  "published": "2026-08-12T16:57Z",
-  "age_hours": 58,
-  "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app."
- },
- {
-  "source": "The Conversation — Canada Education",
-  "cat": "skola",
-  "lang": "en",
-  "title": "Toronto students who live in residence get better grades, study finds",
-  "url": "https://theconversation.com/toronto-students-who-live-in-residence-get-better-grades-study-finds-282947",
-  "published": "2026-08-12T16:37Z",
-  "age_hours": 59,
-  "summary": "A study of more than 750,000 student records from four Toronto universities finds that living in residence is linked to better grades and higher satisfaction, especially for first-year students."
- },
- {
-  "source": "Hugging Face Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-  "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-  "published": "2026-08-12T16:14Z",
-  "age_hours": 59,
-  "summary": ""
- },
- {
-  "source": "Google DeepMind Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Putting sign language AI into users’ hands",
-  "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-  "published": "2026-08-12T14:01Z",
-  "age_hours": 61,
-  "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
- },
- {
-  "source": "Hugging Face Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-  "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-  "published": "2026-08-12T14:00Z",
-  "age_hours": 61,
-  "summary": ""
- },
- {
-  "source": "THE Journal",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "K–12 Technology Leaders Are Doing Too Much: 3 Ways to Reclaim Strategic Focus",
-  "url": "https://thejournal.com/articles/2026/08/12/k12-technology-leaders-are-doing-too-much-3-ways-to-reclaim-strategic-focus.aspx",
-  "published": "2026-08-12T14:00Z",
-  "age_hours": 61,
-  "summary": "Technology directors touch nearly everything that happens in a school system. Here are three strategies these IT leaders can use to navigate their many duties without losing strategic focus, influence, or sustainability."
- },
- {
-  "source": "EdTech Magazine K-12",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "New Ed Tech Procurement Guide Simplifies Purchasing",
-  "url": "https://edtechmagazine.com/k12/article/2026/08/new-ed-tech-procurement-guide-simplifies-purchasing",
-  "published": "2026-08-12T13:37Z",
-  "age_hours": 58,
-  "summary": "The EdTech Quality Collaborative, a group of six education-focused organizations, recently released a new tool for assessing and purchasing K–12 technology. The guide grew from an issue that touches every district in the nation: tech sprawl. The average district accesses nearly 3,000 distinct ed tech products in a year, but until now there was no K–12-specific framework for evaluating these tools."
- },
- {
-  "source": "Regeringen",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Utbildnings- och integrationsministern bjuder in till pressbriefing om migranters värderingar i Sverige",
-  "url": "https://www.regeringen.se/pressmeddelanden/2026/08/utbildnings--och-integrationsministern-bjuder-in-till-pressbriefing-om-migranters-varderingar-i-sverige/",
-  "published": "2026-08-12T13:00Z",
-  "age_hours": 64,
-  "summary": "Fredag den 14 augusti håller utbildnings- och integrationsminister Simona Mohamsson en pressbriefing tillsammans med Bi Puranen, forskningsledare och generalsekreterare för World Values Survey. Under pressbriefingen presenterar Bi Puranen de viktigaste resultaten och slutsatserna från en ny studie om migranters värderingar i Sverige, följt av en reflektion från Simona Mohamsson."
- },
- {
-  "source": "eSchool News",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "The biggest back-to-school challenge",
-  "url": "https://www.eschoolnews.com/innovative-teaching/2026/08/12/the-biggest-back-to-school-challenge/",
-  "published": "2026-08-12T10:00Z",
-  "age_hours": 65,
-  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/08/listening-students.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Teaching listening gives students practical tools they can use to remain mentally present, organize information and ask meaningful questions.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" srcse"
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "From assistance to execution: How enterprises put AI to work",
-  "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-  "published": "2026-08-12T06:00Z",
-  "age_hours": 69,
-  "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
  }
 ]
