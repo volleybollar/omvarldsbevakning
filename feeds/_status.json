@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T03:25:50Z",
+  "updated": "2026-08-20T03:25:21Z",
   "ok": 21,
   "failed": 0,
   "feeds": [
@@ -10,7 +10,7 @@
       "lang": "en",
       "url": "https://openai.com/news/rss.xml",
       "ok": true,
-      "bytes": 691731
+      "bytes": 693557
     },
     {
       "id": "anthropic",
@@ -55,7 +55,7 @@
       "lang": "en",
       "url": "https://www.apple.com/newsroom/rss-feed.rss",
       "ok": true,
-      "bytes": 18424
+      "bytes": 18428
     },
     {
       "id": "venturebeat",
@@ -64,7 +64,7 @@
       "lang": "en",
       "url": "https://venturebeat.com/category/ai/feed/",
       "ok": true,
-      "bytes": 121490
+      "bytes": 111725
     },
     {
       "id": "techcrunch",
@@ -73,7 +73,7 @@
       "lang": "en",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "ok": true,
-      "bytes": 17007
+      "bytes": 17193
     },
     {
       "id": "huggingface",
@@ -82,7 +82,7 @@
       "lang": "en",
       "url": "https://huggingface.co/blog/feed.xml",
       "ok": true,
-      "bytes": 248862
+      "bytes": 248838
     },
     {
       "id": "midjourney",
@@ -100,7 +100,7 @@
       "lang": "en",
       "url": "https://edsurge.com/articles_rss",
       "ok": true,
-      "bytes": 429388
+      "bytes": 436050
     },
     {
       "id": "classtechtips",
@@ -136,7 +136,7 @@
       "lang": "en",
       "url": "https://www.eschoolnews.com/feed/",
       "ok": true,
-      "bytes": 2005196
+      "bytes": 2007978
     },
     {
       "id": "conversation_edu",
@@ -145,7 +145,7 @@
       "lang": "en",
       "url": "https://theconversation.com/us/education/articles.atom",
       "ok": true,
-      "bytes": 400110
+      "bytes": 401384
     },
     {
       "id": "edtechmagazine",
@@ -181,7 +181,7 @@
       "lang": "sv",
       "url": "https://www.skolledaren.se/rss",
       "ok": true,
-      "bytes": 36169
+      "bytes": 36362
     },
     {
       "id": "regeringen",
@@ -203,7 +203,7 @@
         "undervisning"
       ],
       "ok": true,
-      "bytes": 101009
+      "bytes": 100588
     }
   ]
 }
