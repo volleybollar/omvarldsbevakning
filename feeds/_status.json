@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-21T03:30:32Z",
-  "ok": 21,
-  "failed": 0,
+  "updated": "2026-08-22T03:21:33Z",
+  "ok": 20,
+  "failed": 1,
   "feeds": [
     {
       "id": "openai",
@@ -37,7 +37,7 @@
       "lang": "en",
       "url": "https://deepmind.google/blog/rss.xml",
       "ok": true,
-      "bytes": 75409
+      "bytes": 75352
     },
     {
       "id": "microsoft",
@@ -45,8 +45,8 @@
       "cat": "ai",
       "lang": "en",
       "url": "https://blogs.microsoft.com/feed/",
-      "ok": true,
-      "bytes": 134430
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "apple",
@@ -73,7 +73,7 @@
       "lang": "en",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "ok": true,
-      "bytes": 17122
+      "bytes": 17372
     },
     {
       "id": "huggingface",
@@ -82,7 +82,7 @@
       "lang": "en",
       "url": "https://huggingface.co/blog/feed.xml",
       "ok": true,
-      "bytes": 249146
+      "bytes": 249451
     },
     {
       "id": "midjourney",
@@ -91,7 +91,7 @@
       "lang": "en",
       "url": "https://updates.midjourney.com/feed",
       "ok": true,
-      "bytes": 42228
+      "bytes": 45772
     },
     {
       "id": "edsurge",
@@ -100,7 +100,7 @@
       "lang": "en",
       "url": "https://edsurge.com/articles_rss",
       "ok": true,
-      "bytes": 427122
+      "bytes": 433225
     },
     {
       "id": "classtechtips",
@@ -109,7 +109,7 @@
       "lang": "en",
       "url": "https://classtechtips.com/feed",
       "ok": true,
-      "bytes": 14979
+      "bytes": 15523
     },
     {
       "id": "cultofpedagogy",
@@ -136,7 +136,7 @@
       "lang": "en",
       "url": "https://www.eschoolnews.com/feed/",
       "ok": true,
-      "bytes": 2010112
+      "bytes": 2017454
     },
     {
       "id": "conversation_edu",
@@ -145,7 +145,7 @@
       "lang": "en",
       "url": "https://theconversation.com/us/education/articles.atom",
       "ok": true,
-      "bytes": 404577
+      "bytes": 409190
     },
     {
       "id": "edtechmagazine",
@@ -154,7 +154,7 @@
       "lang": "en",
       "url": "https://edtechmagazine.com/k12/rss.xml",
       "ok": true,
-      "bytes": 11386
+      "bytes": 11412
     },
     {
       "id": "edufi",
@@ -181,7 +181,7 @@
       "lang": "sv",
       "url": "https://www.skolledaren.se/rss",
       "ok": true,
-      "bytes": 36362
+      "bytes": 36054
     },
     {
       "id": "regeringen",
@@ -203,7 +203,7 @@
         "undervisning"
       ],
       "ok": true,
-      "bytes": 101749
+      "bytes": 101490
     }
   ]
 }
