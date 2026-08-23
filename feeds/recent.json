@@ -3,10 +3,50 @@
   "source": "TechCrunch AI",
   "cat": "ai",
   "lang": "en",
+  "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+  "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+  "published": "2026-08-22T21:46Z",
+  "age_hours": 6,
+  "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+  "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+  "published": "2026-08-22T19:00Z",
+  "age_hours": 8,
+  "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "OpenAI says California should strengthen its AI safety bill",
+  "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+  "published": "2026-08-22T16:30Z",
+  "age_hours": 11,
+  "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+  "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+  "published": "2026-08-22T16:00Z",
+  "age_hours": 11,
+  "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
   "title": "Anthropic’s Opus 4.6 is a smut-machine",
   "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
   "published": "2026-08-21T23:07Z",
-  "age_hours": 4,
+  "age_hours": 28,
   "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction."
  },
  {
@@ -16,7 +56,7 @@
   "title": "En död i skolattack i Fagersta",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/8/en-dod-i-skolattack-i-fagersta/",
   "published": "2026-08-21T22:46Z",
-  "age_hours": 7,
+  "age_hours": 31,
   "summary": "En person är död och två svårt skadade sedan en man med svärd gått till attack på en gymnasieskola i Fagersta, säger lokalpolisområdeschef Tommy Alriksson under en pressträff."
  },
  {
@@ -26,7 +66,7 @@
   "title": "Nvidia partners with data center developer Cloverleaf",
   "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
   "published": "2026-08-21T22:37Z",
-  "age_hours": 5,
+  "age_hours": 29,
   "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia."
  },
  {
@@ -36,7 +76,7 @@
   "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
   "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
   "published": "2026-08-21T19:43Z",
-  "age_hours": 8,
+  "age_hours": 32,
   "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
  },
  {
@@ -46,7 +86,7 @@
   "title": "Changelog - 8/20/26",
   "url": "https://updates.midjourney.com/changelog-8-20-26/",
   "published": "2026-08-21T16:48Z",
-  "age_hours": 11,
+  "age_hours": 35,
   "summary": "<p>Two weeks ago, we launched a very rough draft of some big changes to <a href=\"https://alpha.midjourney.com\">alpha.midjourney.com</a>. Since then, thousands of you have been testing and hundreds have given us thoughtful feedback, both positive and negative (Thank you! Yes, even the brutal stuff.). That&apos;s the deal with alpha:</p>"
  },
  {
@@ -56,7 +96,7 @@
   "title": "Why Every K–12 Leader Should Be Paying Attention to E-Rate Funding Right Now",
   "url": "https://edtechmagazine.com/k12/article/2026/08/why-every-k-12-leader-should-be-paying-attention-e-rate-funding-right-now",
   "published": "2026-08-21T16:07Z",
-  "age_hours": 7,
+  "age_hours": 31,
   "summary": "For nearly three decades, E-Rate has made connectivity and network infrastructure accessible for even the smallest and most rural schools. Now, the Federal Communications Commission is taking another look at the program and deciding whether it should continue in its current form. The reason? Leaders have raised questions about whether screen time on E-Rate–funded networks can be tied to educationa"
  },
  {
@@ -66,7 +106,7 @@
   "title": "Flera skadade med svärd på skola i Fagersta – en gripen",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/8/flera-skadade-med-svard-pa-skola-i-fagersta--en-gripen/",
   "published": "2026-08-21T15:28Z",
-  "age_hours": 14,
+  "age_hours": 38,
   "summary": "En person beväpnad, som enligt medieuppgifter var beväpnad med svärd, har skadat flera personer på en gymnasieskola i Fagersta, skriver kommunen på sin sajt. En person har gripits, uppger polisen."
  },
  {
@@ -76,18 +116,8 @@
   "title": "Ökad användning av statsbidraget för regionalt yrkesvux",
   "url": "https://www.regeringen.se/pressmeddelanden/2026/08/okad-anvandning-av-statsbidraget-for-regionalt-yrkesvux/",
   "published": "2026-08-21T14:10Z",
-  "age_hours": 15,
+  "age_hours": 39,
   "summary": "Skolverket har under sommaren redovisat användningen av statsbidraget för yrkesinriktad utbildning på gymnasial nivå inom kommunal vuxenutbildning (regionalt yrkesvux) 2025. Av redovisningen framgår att nyttjandegraden nu ökar bland kommunerna."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-  "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-  "published": "2026-08-21T14:00Z",
-  "age_hours": 13,
-  "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrus"
  },
  {
   "source": "TechCrunch AI",
@@ -96,8 +126,18 @@
   "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
   "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
   "published": "2026-08-21T14:00Z",
-  "age_hours": 13,
+  "age_hours": 37,
   "summary": "There's about to be a big fight to secure access to space."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+  "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+  "published": "2026-08-21T14:00Z",
+  "age_hours": 37,
+  "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrus"
  },
  {
   "source": "Regeringen",
@@ -106,7 +146,7 @@
   "title": "Regeringen genomför ytterligare åtgärder för att stärka tillgången på hållbart producerad inhemsk biomassa",
   "url": "https://www.regeringen.se/pressmeddelanden/2026/08/regeringen-genomfor-ytterligare-atgarder-for-att-starka-tillgangen-pa-hallbart-producerad-inhemsk-biomassa/",
   "published": "2026-08-21T13:02Z",
-  "age_hours": 16,
+  "age_hours": 40,
   "summary": "Regeringen har beslutat om ändringar i Skogsstyrelsens och Sveriges lantbruksuniversitets (SLU) regleringsbrev för budgetåret 2026 samt om en ändring i Skogsstyrelsens instruktion. Besluten innebär flera nya uppdrag som ska bidra till ett mer systematiskt beslutsunderlag och ett långsiktigt hållbart nyttjande av skogens resurser."
  },
  {
@@ -116,7 +156,7 @@
   "title": "A seemingly technical change to international student visas could disrupt teaching and research at US universities",
   "url": "https://theconversation.com/a-seemingly-technical-change-to-international-student-visas-could-disrupt-teaching-and-research-at-us-universities-290021",
   "published": "2026-08-21T12:35Z",
-  "age_hours": 15,
+  "age_hours": 39,
   "summary": "US colleges and universities hosted nearly 1.2 million international students in the 2024-25 school year, an all-time high."
  },
  {
@@ -126,7 +166,7 @@
   "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
   "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
   "published": "2026-08-21T11:59Z",
-  "age_hours": 15,
+  "age_hours": 39,
   "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
  },
  {
@@ -136,7 +176,7 @@
   "title": "Attendance is the scoreboard–connection is the game",
   "url": "https://www.eschoolnews.com/educational-leadership/2026/08/21/attendance-is-the-scoreboard-connection-is-the-game/",
   "published": "2026-08-21T10:00Z",
-  "age_hours": 17,
+  "age_hours": 41,
   "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/08/student-attendance-ithaca.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Don&#039;t wait for the school district to solve student disconnection and attendance challenges on its own--it won&#039;t, because it can&#039;t.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpri"
  },
  {
@@ -146,7 +186,7 @@
   "title": "Åke är rektor för unga i fängelse: ”Skolan är så viktig”",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/8/ake-ar-rektor-for-unga-i-fangelse-skolan-ar-sa-viktig/",
   "published": "2026-08-21T09:02Z",
-  "age_hours": 20,
+  "age_hours": 44,
   "summary": "Rektor Åke Svensson på Kriminalvårdens barn- och ungdomsavdelningar har förberett skolverksamheten för barn i flera år. Från den 1 juli i år kan unga från 15 år dömas till fängelse i Sverige. Och för en vecka sedan klubbade riksdagen att sänka åldersgränsen ytterligare till 14 år."
  },
  {
@@ -156,7 +196,7 @@
   "title": "Så kan en skoldag se ut på anstalt",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/8/sa-kan-en-skoldag-se-ut-pa-anstalt/",
   "published": "2026-08-21T09:01Z",
-  "age_hours": 20,
+  "age_hours": 44,
   "summary": "Rektor Åke Svensson och kollegorna förbereder för skolverksamheten inom Kriminalvårdens barn- och ungdomsavdelningar. Här berättar Camilla Davidsson och Amanda Bjerkell, kriminalvårdare, om hur en dag kan se ut på Rosersbergsanstalten i Sigtuna."
  },
  {
@@ -166,7 +206,7 @@
   "title": "How Jotform Is Making Forms Accessible for Everyone with Alper Donmez – Bonus Episode with Jotform",
   "url": "https://classtechtips.com/2026/08/21/making-forms-accessible-bonus/",
   "published": "2026-08-21T09:00Z",
-  "age_hours": 18,
+  "age_hours": 42,
   "summary": "<p>Making forms accessible with Alper Donmez of Jotform and tips for creating inclusive school forms with built-in accessibility tools.</p> <p>The post <a href=\"https://classtechtips.com/2026/08/21/making-forms-accessible-bonus/\">How Jotform Is Making Forms Accessible for Everyone with Alper Donmez &#8211; Bonus Episode with Jotform</a> appeared first on <a href=\"https://classtechtips.com\">Class T"
  },
  {
@@ -176,7 +216,7 @@
   "title": "Ny forskarskola i kognitionsvetenskap ska stärka lärarutbildningarna",
   "url": "https://www.regeringen.se/pressmeddelanden/2026/08/ny-forskarskola-i-kognitionsvetenskap-ska-starka-lararutbildningarna/",
   "published": "2026-08-21T07:00Z",
-  "age_hours": 22,
+  "age_hours": 46,
   "summary": "I december 2025 beslutade regeringen att reformera lärarutbildningen. En del av reformen är att kognitionsvetenskap ska ges större utrymme i utbildningarna. För att stärka genomförandet av reformen får Vetenskapsrådet nu i uppdrag att finansiera en forskarskola i kognitionsvetenskap som ska bidra till utvecklingen av lärarutbildningarna."
  },
  {
@@ -186,7 +226,7 @@
   "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
   "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
   "published": "2026-08-21T00:13Z",
-  "age_hours": 27,
+  "age_hours": 51,
   "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
  },
  {
@@ -196,7 +236,7 @@
   "title": "EdSurge Welcomes Top Journalists and Educators to Advisory Board",
   "url": "https://edsurge.com/news/edsurge-welcomes-top-journalists-and-educators-to-advisory-board",
   "published": "2026-08-21T00:00Z",
-  "age_hours": 27,
+  "age_hours": 51,
   "summary": "Bringing together award-winning reporters and leading educators, the board will provide strategic guidance on newsroom priorities and emerging issues ..."
  },
  {
@@ -206,7 +246,7 @@
   "title": "Measuring benchmark optimization in speech recognition",
   "url": "https://huggingface.co/blog/asr-benchmark-optimization",
   "published": "2026-08-21T00:00Z",
-  "age_hours": 27,
+  "age_hours": 51,
   "summary": ""
  },
  {
@@ -216,7 +256,7 @@
   "title": "Department of Education Issues New Guidance on Education Technology and Screen Time",
   "url": "https://thejournal.com/articles/2026/08/20/department-of-education-issues-new-guidance-on-education-technology-and-screen-time.aspx",
   "published": "2026-08-20T22:46Z",
-  "age_hours": 29,
+  "age_hours": 53,
   "summary": "In an Aug. 20 Dear Colleague Letter from Kirsten Baesler, assistant secretary of the United States Department of Education's Office of Elementary and Secondary Education, ED outlines new guidance to frame the national conversation around the educational value of technology in schools."
  },
  {
@@ -226,7 +266,7 @@
   "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
   "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
   "published": "2026-08-20T22:36Z",
-  "age_hours": 29,
+  "age_hours": 53,
   "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is."
  },
  {
@@ -236,7 +276,7 @@
   "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
   "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
   "published": "2026-08-20T22:09Z",
-  "age_hours": 29,
+  "age_hours": 53,
   "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration."
  },
  {
@@ -246,7 +286,7 @@
   "title": "OK, can we actually cool data centers with our pee?",
   "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
   "published": "2026-08-20T20:53Z",
-  "age_hours": 30,
+  "age_hours": 55,
   "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous."
  },
  {
@@ -256,7 +296,7 @@
   "title": "Google gives publishers a new way to fight AI-driven traffic losses",
   "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
   "published": "2026-08-20T19:18Z",
-  "age_hours": 32,
+  "age_hours": 56,
   "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web."
  },
  {
@@ -266,7 +306,7 @@
   "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
   "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
   "published": "2026-08-20T19:15Z",
-  "age_hours": 32,
+  "age_hours": 56,
   "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product."
  },
  {
@@ -276,7 +316,7 @@
   "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
   "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
   "published": "2026-08-20T18:20Z",
-  "age_hours": 33,
+  "age_hours": 57,
   "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
  },
  {
@@ -286,7 +326,7 @@
   "title": "Grok keeps sending gibberish responses to users",
   "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
   "published": "2026-08-20T17:32Z",
-  "age_hours": 34,
+  "age_hours": 58,
   "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning."
  },
  {
@@ -296,7 +336,7 @@
   "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
   "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
   "published": "2026-08-20T17:18Z",
-  "age_hours": 34,
+  "age_hours": 58,
   "summary": "ChatGPT and other AI models are now authoring and editing much of the new web."
  },
  {
@@ -306,7 +346,7 @@
   "title": "What dandelions and bees can teach us about our responsibilities to the natural world",
   "url": "https://theconversation.com/what-dandelions-and-bees-can-teach-us-about-our-responsibilities-to-the-natural-world-287022",
   "published": "2026-08-20T17:00Z",
-  "age_hours": 34,
+  "age_hours": 58,
   "summary": "In an early childhood program, everyday encounters remind participants that acknowledging land is something we live through relationships and responsibilities."
  },
  {
@@ -316,7 +356,7 @@
   "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
   "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
   "published": "2026-08-20T16:52Z",
-  "age_hours": 34,
+  "age_hours": 59,
   "summary": ""
  },
  {
@@ -326,7 +366,7 @@
   "title": "Ramp launches its own AI model router, called Router",
   "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
   "published": "2026-08-20T16:46Z",
-  "age_hours": 35,
+  "age_hours": 59,
   "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API."
  },
  {
@@ -336,18 +376,8 @@
   "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
   "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
   "published": "2026-08-20T16:07Z",
-  "age_hours": 35,
+  "age_hours": 59,
   "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-  "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-  "published": "2026-08-20T16:00Z",
-  "age_hours": 35,
-  "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant."
  },
  {
   "source": "The Conversation — Canada Education",
@@ -356,7 +386,7 @@
   "title": "What cannabis use really tells us about university students’ eating habits",
   "url": "https://theconversation.com/what-cannabis-use-really-tells-us-about-university-students-eating-habits-288050",
   "published": "2026-08-20T12:52Z",
-  "age_hours": 38,
+  "age_hours": 63,
   "summary": "Researchers surveyed more than 1,500 students at a large Canadian university to better understand the relationship between cannabis use and diet quality."
  },
  {
@@ -366,18 +396,8 @@
   "title": "Cursive is making a comeback. But does it deserve one?",
   "url": "https://theconversation.com/cursive-is-making-a-comeback-but-does-it-deserve-one-288260",
   "published": "2026-08-20T12:39Z",
-  "age_hours": 39,
+  "age_hours": 63,
   "summary": "More than 25 states require students to learn to read and write in cursive."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Meta AI’s new Mac app wants you to talk to your apps",
-  "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-  "published": "2026-08-20T12:11Z",
-  "age_hours": 39,
-  "summary": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue."
  },
  {
   "source": "Class Tech Tips",
@@ -386,7 +406,7 @@
   "title": "Low-Prep Back to School Writing Activities for the First Weeks of School",
   "url": "https://classtechtips.com/2026/08/20/back-to-school-writing-activities/",
   "published": "2026-08-20T12:05Z",
-  "age_hours": 39,
+  "age_hours": 63,
   "summary": "<p>Try these back to school writing activities to build a writing routine, lower the stakes for students, and set classroom culture in week one.</p> <p>The post <a href=\"https://classtechtips.com/2026/08/20/back-to-school-writing-activities/\">Low-Prep Back to School Writing Activities for the First Weeks of School</a> appeared first on <a href=\"https://classtechtips.com\">Class Tech Tips</a>.</p>"
  },
  {
@@ -396,7 +416,7 @@
   "title": "When In-House Break/Fix Works (and When To Call for Backup)",
   "url": "https://edtechmagazine.com/k12/article/2026/08/when-house-breakfix-works-and-when-call-backup",
   "published": "2026-08-20T11:58Z",
-  "age_hours": 35,
+  "age_hours": 60,
   "summary": "Virtually every school district has it: A closet, back room or office corner cluttered with broken devices that nobody has time to fix. What felt manageable when a device fleet was a year or two old can quickly become overwhelming as Chromebooks, laptops and tablets age and begin needing maintenance or repairs. When K–12 IT teams are already working at maximum capacity and wearing multiple hats, d"
  },
  {
@@ -406,18 +426,8 @@
   "title": "What it really takes to accelerate adolescent literacy across our district",
   "url": "https://www.eschoolnews.com/innovative-teaching/2026/08/20/what-it-really-takes-to-accelerate-adolescent-literacy-across-our-district/",
   "published": "2026-08-20T10:00Z",
-  "age_hours": 41,
+  "age_hours": 65,
   "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/08/adolescent-literacy.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Gaps in foundational skills, from decoding and spelling to fluency, undermined the district’s adolescent literacy efforts.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://www.eschoolnews.com/fi"
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-  "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-  "published": "2026-08-20T09:30Z",
-  "age_hours": 42,
-  "summary": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor."
  },
  {
   "source": "OpenAI News",
@@ -426,117 +436,7 @@
   "title": "Introducing AI Futures",
   "url": "https://openai.com/index/introducing-ai-futures",
   "published": "2026-08-20T07:00Z",
-  "age_hours": 44,
+  "age_hours": 68,
   "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
- },
- {
-  "source": "EdSurge",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "Department of Education Issues Long-Awaited Edtech Guidance for States and Districts",
-  "url": "https://edsurge.com/news/department-of-education-issues-long-awaited-edtech-guidance-for-states-and-districts",
-  "published": "2026-08-20T00:00Z",
-  "age_hours": 51,
-  "summary": "The letter emphasizes outcomes and evidence but stops short of issuing federal regulations."
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-  "url": "https://openai.com/index/stampli",
-  "published": "2026-08-20T00:00Z",
-  "age_hours": 51,
-  "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-  "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-  "published": "2026-08-19T23:32Z",
-  "age_hours": 52,
-  "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason."
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Offering Zero Data Retention for frontier models",
-  "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-  "published": "2026-08-19T19:00Z",
-  "age_hours": 56,
-  "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
- },
- {
-  "source": "VentureBeat AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-  "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-  "published": "2026-08-19T14:18Z",
-  "age_hours": 61,
-  "summary": "<p>Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying,"
- },
- {
-  "source": "The Conversation — Education",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "Nearly 1 in 4 students are chronically absent from school – kids who feel happy and safe are less likely to miss class",
-  "url": "https://theconversation.com/nearly-1-in-4-students-are-chronically-absent-from-school-kids-who-feel-happy-and-safe-are-less-likely-to-miss-class-289195",
-  "published": "2026-08-19T12:29Z",
-  "age_hours": 63,
-  "summary": "Research on absenteeism often focuses on factors like unreliable transportation, overlooking what schools themselves can do to help kids maintain a steady attendance record."
- },
- {
-  "source": "eSchool News",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "Uncovering the college and career readiness shifts that exceptional school systems are making",
-  "url": "https://www.eschoolnews.com/innovative-teaching/2026/08/19/uncovering-college-and-career-readiness-shifts/",
-  "published": "2026-08-19T10:00Z",
-  "age_hours": 65,
-  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/08/college-career-readiness.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Instilling college and career readiness in students is the cumulative result of thousands of intentional moments across 13 years of schooling\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\""
- },
- {
-  "source": "Skolledaren",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Ledare: Alla har inte förstått hur mycket arbete reformerna kräver",
-  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/8/ledare-alla-har-inte-forstatt-hur-mycket-arbete-reformerna-kraver/",
-  "published": "2026-08-19T09:34Z",
-  "age_hours": 68,
-  "summary": "”Att följa utvecklingen av reformimplementeringen ser jag som en av mina, och förbundets, viktigaste uppgifter framöver”, skriver Ann-Charlotte Gavelin Rydman, förbundsordförande för Sveriges Skolledare."
- },
- {
-  "source": "Regeringen",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Parallella samhällsstrukturer påverkar integrationen och utanförskapet i samhället",
-  "url": "https://www.regeringen.se/pressmeddelanden/2026/08/parallella-samhallsstrukturer-paverkar-integrationen-och-utanforskapet-i-samhallet/",
-  "published": "2026-08-19T09:30Z",
-  "age_hours": 68,
-  "summary": "Utredningen om parallella samhällsstrukturer, med Mathias Wahlsten som särskild utredare, har överlämnat sitt slutbetänkande till utbildnings- och integrationsminister Simona Mohamsson. Betänkandet innehåller en fördjupad analys av konsekvenser för integrationen och utanförskapet i Sverige. Utredningen lämnar förslag om hur arbetet mot parallella samhällsstrukturer kan stärkas."
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Replit expands access to software creation with GPT-5.6 Luna",
-  "url": "https://openai.com/index/replit",
-  "published": "2026-08-19T07:00Z",
-  "age_hours": 68,
-  "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
- },
- {
-  "source": "Regeringen",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Utredning om akademisk frihet presenterar förslag",
-  "url": "https://www.regeringen.se/pressmeddelanden/2026/08/utredning-om-akademisk-frihet-presenterar-forslag/",
-  "published": "2026-08-19T07:00Z",
-  "age_hours": 70,
-  "summary": "Torsdag den 20 augusti kl. 14.00 håller gymnasie-, högskole- och forskningsminister Lotta Edholm en pressträff tillsammans med Utredningen om stärkt skydd av den akademiska friheten. Under pressträffen kommer den särskilda utredaren Anna-Sara Lind att presentera utredningens förslag."
  }
 ]

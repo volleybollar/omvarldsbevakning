@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T03:21:33Z",
+  "updated": "2026-08-23T03:29:45Z",
   "ok": 20,
   "failed": 1,
   "feeds": [
@@ -73,7 +73,7 @@
       "lang": "en",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "ok": true,
-      "bytes": 17372
+      "bytes": 17573
     },
     {
       "id": "huggingface",
@@ -127,7 +127,7 @@
       "lang": "en",
       "url": "https://thejournal.com/rss-feeds/all-articles.aspx",
       "ok": true,
-      "bytes": 16506
+      "bytes": 15056
     },
     {
       "id": "eschoolnews",
