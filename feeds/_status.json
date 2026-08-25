@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-24T03:32:04Z",
-  "ok": 19,
-  "failed": 2,
+  "updated": "2026-08-25T03:26:40Z",
+  "ok": 21,
+  "failed": 0,
   "feeds": [
     {
       "id": "openai",
@@ -10,7 +10,7 @@
       "lang": "en",
       "url": "https://openai.com/news/rss.xml",
       "ok": true,
-      "bytes": 694646
+      "bytes": 695223
     },
     {
       "id": "anthropic",
@@ -36,8 +36,8 @@
       "cat": "ai",
       "lang": "en",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": false,
-      "error": "svaret är inte RSS eller Atom (troligen en HTML-sida)"
+      "ok": true,
+      "bytes": 75352
     },
     {
       "id": "microsoft",
@@ -45,8 +45,8 @@
       "cat": "ai",
       "lang": "en",
       "url": "https://blogs.microsoft.com/feed/",
-      "ok": false,
-      "error": "HTTP Error 403: Forbidden"
+      "ok": true,
+      "bytes": 134430
     },
     {
       "id": "apple",
@@ -73,7 +73,7 @@
       "lang": "en",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "ok": true,
-      "bytes": 17293
+      "bytes": 17773
     },
     {
       "id": "huggingface",
@@ -82,7 +82,7 @@
       "lang": "en",
       "url": "https://huggingface.co/blog/feed.xml",
       "ok": true,
-      "bytes": 249451
+      "bytes": 249742
     },
     {
       "id": "midjourney",
@@ -127,7 +127,7 @@
       "lang": "en",
       "url": "https://thejournal.com/rss-feeds/all-articles.aspx",
       "ok": true,
-      "bytes": 15056
+      "bytes": 15694
     },
     {
       "id": "eschoolnews",
@@ -136,7 +136,7 @@
       "lang": "en",
       "url": "https://www.eschoolnews.com/feed/",
       "ok": true,
-      "bytes": 2017454
+      "bytes": 2018458
     },
     {
       "id": "conversation_edu",
@@ -154,7 +154,7 @@
       "lang": "en",
       "url": "https://edtechmagazine.com/k12/rss.xml",
       "ok": true,
-      "bytes": 11412
+      "bytes": 11510
     },
     {
       "id": "edufi",
@@ -172,7 +172,7 @@
       "lang": "en",
       "url": "https://theconversation.com/ca/education/articles.atom",
       "ok": true,
-      "bytes": 321663
+      "bytes": 326164
     },
     {
       "id": "skolledaren",
@@ -181,7 +181,7 @@
       "lang": "sv",
       "url": "https://www.skolledaren.se/rss",
       "ok": true,
-      "bytes": 36054
+      "bytes": 36196
     },
     {
       "id": "regeringen",
@@ -203,7 +203,7 @@
         "undervisning"
       ],
       "ok": true,
-      "bytes": 101692
+      "bytes": 101566
     }
   ]
 }
