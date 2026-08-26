@@ -3,11 +3,281 @@
   "source": "TechCrunch AI",
   "cat": "ai",
   "lang": "en",
+  "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+  "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+  "published": "2026-08-26T03:30Z",
+  "age_hours": 0,
+  "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+  "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+  "published": "2026-08-26T00:40Z",
+  "age_hours": 3,
+  "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+  "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+  "published": "2026-08-26T00:06Z",
+  "age_hours": 3,
+  "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group."
+ },
+ {
+  "source": "The Conversation — Canada Education",
+  "cat": "skola",
+  "lang": "en",
+  "title": "Lunchbox labour is back — here’s how Canada’s new school food program can grow",
+  "url": "https://theconversation.com/lunchbox-labour-is-back-heres-how-canadas-new-school-food-program-can-grow-289855",
+  "published": "2026-08-25T19:10Z",
+  "age_hours": 8,
+  "summary": "Canada’s ambitious vision for improving access to school food needs to be bolstered by community collaboration and high-quality research."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+  "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+  "published": "2026-08-25T19:03Z",
+  "age_hours": 8,
+  "summary": "The company's new fundraising total now stands at $232 million."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Claude Cowork finally remembers what you told the app in chat",
+  "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+  "published": "2026-08-25T17:50Z",
+  "age_hours": 10,
+  "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context."
+ },
+ {
+  "source": "Hugging Face Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Granite 4.2 LLMs: How They're Built",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+  "published": "2026-08-25T15:14Z",
+  "age_hours": 12,
+  "summary": ""
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Gamma acquires Accel-backed design startup Lica",
+  "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+  "published": "2026-08-25T15:00Z",
+  "age_hours": 13,
+  "summary": "Lica co-founders are going to work on Gamma's new research team."
+ },
+ {
+  "source": "EdTech Magazine K-12",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Intentional Professional Development Supports Technology Investments",
+  "url": "https://edtechmagazine.com/k12/article/2026/08/intentional-professional-development-supports-technology-investments",
+  "published": "2026-08-25T14:33Z",
+  "age_hours": 9,
+  "summary": "K–12 districts aren’t slowing down on technology investments. U.S. schools spent an estimated $30 billion on ed tech in 2024, a figure that is expected to nearly double by 2033. But even the smartest investments can succeed only if the people they’re meant for actually use them. Too often, planning focuses on procurement and rollout, but skips a critical component of implementation: professional d"
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+  "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+  "published": "2026-08-25T14:22Z",
+  "age_hours": 13,
+  "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art."
+ },
+ {
+  "source": "Skolledaren",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Krönika: Inga elevkullar ska behöva stryka med i reformerna",
+  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/8/kronika-inga-elevkullar-ska-behova-stryka-med-i-reformerna/",
+  "published": "2026-08-25T13:59Z",
+  "age_hours": 16,
+  "summary": "Även om svensk skola behöver förändras över tid måste beslutsfattarna komma ihåg att våra medlemmar bara går i skolan en gång. Det är inte acceptabelt att tre, fyra elevkullar stryker med i förändringens goda minne, skriver Jonatan Lamy och Agnes Tell."
+ },
+ {
+  "source": "Apple Newsroom",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+  "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+  "published": "2026-08-25T13:00Z",
+  "age_hours": 15,
+  "summary": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Accel-backed Keenable is indexing the web for AI agents",
+  "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+  "published": "2026-08-25T13:00Z",
+  "age_hours": 15,
+  "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents."
+ },
+ {
+  "source": "Apple Newsroom",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+  "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+  "published": "2026-08-25T12:59Z",
+  "age_hours": 15,
+  "summary": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design."
+ },
+ {
+  "source": "Apple Newsroom",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+  "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+  "published": "2026-08-25T12:58Z",
+  "age_hours": 15,
+  "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities."
+ },
+ {
+  "source": "Skolledaren",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Medlemsfrågan: Hur ska vi göra för att få en god digital arbetsmiljö?",
+  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/8/medlemsfragan-hur-ska-vi-gora-for-att-fa-en-god-digital-arbetsmiljo/",
+  "published": "2026-08-25T12:53Z",
+  "age_hours": 17,
+  "summary": "Anders Forsell, arbetsmiljöexpert på Sveriges Skolledare, svarar på arbetsmiljöfrågan: Vi har många digitala system som jag behöver behärska i rektorsrollen. Hur kan jag/vi tänka för att få en god digital arbetsmiljö?"
+ },
+ {
+  "source": "The Conversation — Education",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Do more than half of Philadelphia adults really read at or below 5th grade level? It’s time for a new way to describe what they know",
+  "url": "https://theconversation.com/do-more-than-half-of-philadelphia-adults-really-read-at-or-below-5th-grade-level-its-time-for-a-new-way-to-describe-what-they-know-289464",
+  "published": "2026-08-25T12:39Z",
+  "age_hours": 15,
+  "summary": "An adult can read at a fifth grade level and still be a productive employee or caregiver who navigates practical life with competence."
+ },
+ {
+  "source": "Regeringen",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Nina Larsson och Pål Jonson besöker Högskolan i Skövde",
+  "url": "https://www.regeringen.se/pressmeddelanden/2026/08/nina-larsson-och-pal-jonson-besoker-hogskolan-i-skovde/",
+  "published": "2026-08-25T12:32Z",
+  "age_hours": 17,
+  "summary": "På onsdag den 26 augusti besöker jämställdhetsministern Nina Larsson och försvarsministern Pål Jonson Högskolan i Skövde."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+  "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+  "published": "2026-08-25T12:00Z",
+  "age_hours": 16,
+  "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product."
+ },
+ {
+  "source": "Hugging Face Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+  "published": "2026-08-25T11:39Z",
+  "age_hours": 16,
+  "summary": ""
+ },
+ {
+  "source": "Skolledaren",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Skolledarnas dag: Så kan du vara med och påverka inför valet",
+  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/8/skolledarnas-dag-sa-kan-du-vara-med-och-paverka-infor-valet/",
+  "published": "2026-08-25T11:25Z",
+  "age_hours": 18,
+  "summary": "I valspurten öppnar sig en gyllene möjlighet att påverka skolans framtid – under Skolledarnas dag den 3 september. Ett tillfälle för lokalföreningar att genomföra aktiviteter för att lyfta skolledarnas betydelse och frågor som är avgörande för skolan."
+ },
+ {
+  "source": "eSchool News",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Beyond spotting deepfakes: Teaching multilingual learners to interrogate AI",
+  "url": "https://www.eschoolnews.com/digital-learning/2026/08/25/beyond-spotting-deepfakes-teaching-multilingual-learners-to-interrogate-ai/",
+  "published": "2026-08-25T10:00Z",
+  "age_hours": 18,
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/08/deepfakes-AI-students-multilingual.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Helping multilingual students spot deepfakes in the age of AI will help them better assess authenticity of online content.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" sr"
+ },
+ {
+  "source": "Class Tech Tips",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "10 Classroom Book Study Ideas for Any Subject – Easy EdTech Podcast 385",
+  "url": "https://classtechtips.com/2026/08/25/classroom-book-study-ideas-385/",
+  "published": "2026-08-25T09:00Z",
+  "age_hours": 19,
+  "summary": "<p>Try 10 classroom book study ideas that use AI to build background knowledge, spark discussion, and support reading in any subject.</p> <p>The post <a href=\"https://classtechtips.com/2026/08/25/classroom-book-study-ideas-385/\">10 Classroom Book Study Ideas for Any Subject &#8211; Easy EdTech Podcast 385</a> appeared first on <a href=\"https://classtechtips.com\">Class Tech Tips</a>.</p>"
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "The full stack behind abundant intelligence",
+  "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+  "published": "2026-08-25T07:05Z",
+  "age_hours": 20,
+  "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost."
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+  "url": "https://openai.com/index/jalapeno-first-results",
+  "published": "2026-08-25T07:00Z",
+  "age_hours": 21,
+  "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
   "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
   "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
   "published": "2026-08-25T00:23Z",
-  "age_hours": 3,
+  "age_hours": 27,
   "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\""
+ },
+ {
+  "source": "Anthropic News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Funding better evaluations of AI’s impact on wellbeing",
+  "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+  "published": "2026-08-25T00:00Z",
+  "age_hours": 28,
+  "summary": "Funding better evaluations of AI’s impact on wellbeing"
+ },
+ {
+  "source": "EdSurge",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "As Male Teachers Vanish From the Classroom, Schools Look for Ways to Bring Them Back",
+  "url": "https://edsurge.com/news/as-male-teachers-vanish-from-the-classroom-schools-look-for-ways-to-bring-them-back",
+  "published": "2026-08-25T00:00Z",
+  "age_hours": 28,
+  "summary": "A new survey of 145 men in the profession points to mentorship, pay and a sense of belonging as the biggest levers for recruitment and retention."
  },
  {
   "source": "Hugging Face Blog",
@@ -16,8 +286,28 @@
   "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
   "url": "https://huggingface.co/blog/gradio-workflow-guide",
   "published": "2026-08-25T00:00Z",
-  "age_hours": 3,
+  "age_hours": 28,
   "summary": ""
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Disrupting a new covert influence campaign from Russia",
+  "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+  "published": "2026-08-25T00:00Z",
+  "age_hours": 28,
+  "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West."
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+  "url": "https://openai.com/index/introducing-admin-plugin",
+  "published": "2026-08-25T00:00Z",
+  "age_hours": 28,
+  "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests."
  },
  {
   "source": "TechCrunch AI",
@@ -26,7 +316,7 @@
   "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
   "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
   "published": "2026-08-24T21:24Z",
-  "age_hours": 6,
+  "age_hours": 30,
   "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135."
  },
  {
@@ -36,7 +326,7 @@
   "title": "Anthropic Intros Invisible Watermarks to Claude-Generated Text",
   "url": "https://thejournal.com/articles/2026/08/24/anthropic-intros-invisible-watermarks-to-claude-generated-text.aspx",
   "published": "2026-08-24T20:15Z",
-  "age_hours": 7,
+  "age_hours": 31,
   "summary": "Anthropic announced it is introducing machine-readable watermarks to text generated by supported Claude models as it moves to comply with European Union AI transparency rules."
  },
  {
@@ -46,7 +336,7 @@
   "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
   "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
   "published": "2026-08-24T19:54Z",
-  "age_hours": 8,
+  "age_hours": 32,
   "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it."
  },
  {
@@ -56,7 +346,7 @@
   "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
   "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
   "published": "2026-08-24T18:03Z",
-  "age_hours": 9,
+  "age_hours": 33,
   "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs."
  },
  {
@@ -66,7 +356,7 @@
   "title": "Certifieringars roll och påverkan för företag i primärproduktion och livsmedelsförädling",
   "url": "https://www.regeringen.se/rattsliga-dokument/kommittedirektiv/2026/08/dir.-202676",
   "published": "2026-08-24T16:52Z",
-  "age_hours": 13,
+  "age_hours": 37,
   "summary": "En särskild utredare ska kartlägga och bedöma hur användandet av frivilliga certifieringar och relevanta branschstandarder i svensk primärproduktion och livsmedelsförädling kan påverka konkurrenskraften, kostnader och möjligheten för företag i primärproduktion och livsmedelsförädling att träda in på marknaden. Utredaren kan föreslå åtgärder som minskar det administrativa arbetet för certifierade p"
  },
  {
@@ -76,7 +366,7 @@
   "title": "Ändring av uppdraget till Statens skolverk att förbereda införandet av en tioårig grundskola och ta fram förslag på nya läroplaner",
   "url": "https://www.regeringen.se/regeringsuppdrag/2026/08/andring-av-uppdraget-till-statens-skolverk-att-forbereda-inforandet-av-en-tioarig-grundskola-och-ta-fram-forslag-pa-nya-laroplaner/",
   "published": "2026-08-24T16:10Z",
-  "age_hours": 13,
+  "age_hours": 37,
   "summary": "Regeringen ändrar uppdraget till Statens skolverk att förbereda införandet av en tioårig grundskola och ta fram förslag på nya läroplaner (U2025/02427 och U2026/00888) enligt följande."
  },
  {
@@ -86,7 +376,7 @@
   "title": "Efter skoldådet i Fagersta: ”Drabbar hela samhället”",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/8/efter-skoldadet-i-fagersta-drabbar-hela-samhallet/",
   "published": "2026-08-24T16:10Z",
-  "age_hours": 13,
+  "age_hours": 37,
   "summary": "I dag är den första skoldagen efter skolattacken i Fagersta, där en flicka dödades och flera personer skadades. – Mina tankar går till de drabbade, deras anhöriga och till alla elever och medarbetare på skolan. När en skola drabbas av allvarligt våld påverkas inte bara de som befinner sig mitt i det som sker. Oro och rädsla sprider sig långt ut i hela vårt samhälle, säger Ann-Charlotte Gavelin Ryd"
  },
  {
@@ -96,7 +386,7 @@
   "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
   "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
   "published": "2026-08-24T15:24Z",
-  "age_hours": 12,
+  "age_hours": 36,
   "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six."
  },
  {
@@ -106,7 +396,7 @@
   "title": "OpenAI is building AI agents for everything. Will everyone use them?",
   "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
   "published": "2026-08-24T15:00Z",
-  "age_hours": 12,
+  "age_hours": 37,
   "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses."
  },
  {
@@ -116,7 +406,7 @@
   "title": "\"Framtida skoldåd måste förhindras\"",
   "url": "https://www.regeringen.se/debattartiklar/2026/08/framtida-skoldad-maste-forhindras/",
   "published": "2026-08-24T13:55Z",
-  "age_hours": 16,
+  "age_hours": 40,
   "summary": "Statsminister Ulf Kristersson, energi- och näringsminister Ebba Busch och utbildnings- och integrationsminister Simona Mohamsson den 24 augusti 2026, Svenska Dagbladet."
  },
  {
@@ -126,7 +416,7 @@
   "title": "Hugging Face reportedly in talks to be acquired for $13B",
   "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
   "published": "2026-08-24T13:47Z",
-  "age_hours": 14,
+  "age_hours": 38,
   "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen."
  },
  {
@@ -136,7 +426,7 @@
   "title": "Finding Funding for Network Modernization in K–12 Schools",
   "url": "https://edtechmagazine.com/k12/article/2026/08/finding-funding-network-modernization-k-12-schools",
   "published": "2026-08-24T12:26Z",
-  "age_hours": 11,
+  "age_hours": 35,
   "summary": "Some ed tech gets a lot of hype; it’s easy to get excited about esports setups, one-to-one device upgrades and artificial intelligence. But the infrastructure that makes all of that possible is often an afterthought. Modern network infrastructure is a building block for a modern classroom. If your network isn’t upgraded to support these projects, they are going to fail. Districts preparing to mode"
  },
  {
@@ -146,7 +436,7 @@
   "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
   "url": "https://openai.com/index/gpt-5-6-in-kiro",
   "published": "2026-08-24T12:00Z",
-  "age_hours": 15,
+  "age_hours": 40,
   "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
  },
  {
@@ -156,7 +446,7 @@
   "title": "Regeringen tillsätter skoldådskommission",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/8/regeringen-tillsatter-skoldadskommission/",
   "published": "2026-08-24T10:50Z",
-  "age_hours": 19,
+  "age_hours": 43,
   "summary": "Regeringen tillsätter en skoldådskommission efter attacken i Fagersta i fredags. – Men jag utesluter inga ytterligare åtgärder framåt, säger utbildnings- och integrationsminister Simona Mohamsson (L)."
  },
  {
@@ -166,8 +456,8 @@
   "title": "Financial education must not sacrifice student privacy",
   "url": "https://www.eschoolnews.com/educational-leadership/2026/08/24/financial-education-must-not-sacrifice-student-privacy/",
   "published": "2026-08-24T10:00Z",
-  "age_hours": 17,
-  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/08/financial-education.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Students need practical experience with financial education, but no classroom exercise should put their personal information at risk.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcset"
+  "age_hours": 42,
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/08/financial-education.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Students need practical experience with financial education, but no classroom exercise should put their personal information at risk.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://www.eschool"
  },
  {
   "source": "Regeringen",
@@ -176,7 +466,7 @@
   "title": "Inbjudan till pressbriefing om skolsäkerhet med Skolverket",
   "url": "https://www.regeringen.se/pressmeddelanden/2026/08/inbjudan-till-pressbriefing-om-skolsakerhet-med-skolverket/",
   "published": "2026-08-24T06:00Z",
-  "age_hours": 23,
+  "age_hours": 48,
   "summary": "Måndagen den 24 augusti kl 10:00 bjuder utbildnings- och integrationsminister Simona Mohamsson in till pressbriefing för att informera om regeringens och Skolverkets insatser för ökad skolsäkerhet. Vid pressbriefingen deltar också Skolverkets tillförordnade generaldirektör Christina Månberg."
  },
  {
@@ -186,7 +476,7 @@
   "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
   "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
   "published": "2026-08-23T20:01Z",
-  "age_hours": 31,
+  "age_hours": 56,
   "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation."
  },
  {
@@ -196,7 +486,7 @@
   "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
   "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
   "published": "2026-08-23T19:14Z",
-  "age_hours": 32,
+  "age_hours": 56,
   "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
  },
  {
@@ -206,7 +496,7 @@
   "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
   "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
   "published": "2026-08-23T15:30Z",
-  "age_hours": 36,
+  "age_hours": 60,
   "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused."
  },
  {
@@ -216,7 +506,7 @@
   "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
   "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
   "published": "2026-08-23T15:00Z",
-  "age_hours": 36,
+  "age_hours": 61,
   "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?"
  },
  {
@@ -226,7 +516,7 @@
   "title": "Is Gad Saad building a culture-war hero persona by distorting Canadian reality?",
   "url": "https://theconversation.com/is-gad-saad-building-a-culture-war-hero-persona-by-distorting-canadian-reality-289092",
   "published": "2026-08-23T13:41Z",
-  "age_hours": 38,
+  "age_hours": 62,
   "summary": "Some Canadians may agree with Gad Saad’s portrayal of Canada a leftist, woke hellscape. But many don’t, making him a highly unreliable narrator on Canada as he moves to the U.S."
  },
  {
@@ -236,47 +526,7 @@
   "title": "Alberta wants neutrality in classrooms, but what if ‘viewpoints’ are lived experience?",
   "url": "https://theconversation.com/alberta-wants-neutrality-in-classrooms-but-what-if-viewpoints-are-lived-experience-287130",
   "published": "2026-08-23T13:31Z",
-  "age_hours": 38,
+  "age_hours": 62,
   "summary": "Difficult stories are not obstacles to democratic education. Learning how to communicate about them are conditions for it."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-  "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-  "published": "2026-08-22T21:46Z",
-  "age_hours": 54,
-  "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-  "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-  "published": "2026-08-22T19:00Z",
-  "age_hours": 56,
-  "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "OpenAI says California should strengthen its AI safety bill",
-  "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-  "published": "2026-08-22T16:30Z",
-  "age_hours": 59,
-  "summary": "OpenAI's global affairs team post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updating them” as new risks emerge."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-  "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-  "published": "2026-08-22T16:00Z",
-  "age_hours": 59,
-  "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior."
  }
 ]
