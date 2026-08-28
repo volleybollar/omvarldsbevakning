@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T13:00:40Z",
+  "updated": "2026-08-28T14:31:35Z",
   "ok": 21,
   "failed": 0,
   "feeds": [
@@ -10,7 +10,7 @@
       "lang": "en",
       "url": "https://openai.com/news/rss.xml",
       "ok": true,
-      "bytes": 701508
+      "bytes": 702899
     },
     {
       "id": "anthropic",
@@ -19,7 +19,7 @@
       "lang": "en",
       "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/refs/heads/main/feeds/feed_anthropic_news.xml",
       "ok": true,
-      "bytes": 122851
+      "bytes": 123741
     },
     {
       "id": "google_ai",
@@ -37,7 +37,7 @@
       "lang": "en",
       "url": "https://deepmind.google/blog/rss.xml",
       "ok": true,
-      "bytes": 74743
+      "bytes": 74117
     },
     {
       "id": "microsoft",
@@ -55,7 +55,7 @@
       "lang": "en",
       "url": "https://www.apple.com/newsroom/rss-feed.rss",
       "ok": true,
-      "bytes": 18355
+      "bytes": 18250
     },
     {
       "id": "venturebeat",
@@ -64,7 +64,7 @@
       "lang": "en",
       "url": "https://venturebeat.com/category/ai/feed/",
       "ok": true,
-      "bytes": 95844
+      "bytes": 86082
     },
     {
       "id": "techcrunch",
@@ -73,7 +73,7 @@
       "lang": "en",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "ok": true,
-      "bytes": 16692
+      "bytes": 17802
     },
     {
       "id": "huggingface",
@@ -91,7 +91,7 @@
       "lang": "en",
       "url": "https://updates.midjourney.com/feed",
       "ok": true,
-      "bytes": 45772
+      "bytes": 49119
     },
     {
       "id": "edsurge",
@@ -100,7 +100,7 @@
       "lang": "en",
       "url": "https://edsurge.com/articles_rss",
       "ok": true,
-      "bytes": 440603
+      "bytes": 438459
     },
     {
       "id": "classtechtips",
@@ -109,7 +109,7 @@
       "lang": "en",
       "url": "https://classtechtips.com/feed",
       "ok": true,
-      "bytes": 15673
+      "bytes": 15193
     },
     {
       "id": "cultofpedagogy",
@@ -127,7 +127,7 @@
       "lang": "en",
       "url": "https://thejournal.com/rss-feeds/all-articles.aspx",
       "ok": true,
-      "bytes": 15694
+      "bytes": 16297
     },
     {
       "id": "eschoolnews",
@@ -136,7 +136,7 @@
       "lang": "en",
       "url": "https://www.eschoolnews.com/feed/",
       "ok": true,
-      "bytes": 2029104
+      "bytes": 2035176
     },
     {
       "id": "conversation_edu",
@@ -145,7 +145,7 @@
       "lang": "en",
       "url": "https://theconversation.com/us/education/articles.atom",
       "ok": true,
-      "bytes": 409637
+      "bytes": 409618
     },
     {
       "id": "edtechmagazine",
@@ -154,7 +154,7 @@
       "lang": "en",
       "url": "https://edtechmagazine.com/k12/rss.xml",
       "ok": true,
-      "bytes": 11506
+      "bytes": 11490
     },
     {
       "id": "edufi",
@@ -181,7 +181,7 @@
       "lang": "sv",
       "url": "https://www.skolledaren.se/rss",
       "ok": true,
-      "bytes": 36207
+      "bytes": 36204
     },
     {
       "id": "regeringen",
@@ -203,7 +203,7 @@
         "undervisning"
       ],
       "ok": true,
-      "bytes": 106401
+      "bytes": 107153
     }
   ]
 }
