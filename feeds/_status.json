@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T14:31:35Z",
+  "updated": "2026-08-29T09:18:05Z",
   "ok": 21,
   "failed": 0,
   "feeds": [
@@ -10,7 +10,7 @@
       "lang": "en",
       "url": "https://openai.com/news/rss.xml",
       "ok": true,
-      "bytes": 702899
+      "bytes": 703540
     },
     {
       "id": "anthropic",
@@ -73,7 +73,7 @@
       "lang": "en",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "ok": true,
-      "bytes": 17802
+      "bytes": 17182
     },
     {
       "id": "huggingface",
@@ -82,7 +82,7 @@
       "lang": "en",
       "url": "https://huggingface.co/blog/feed.xml",
       "ok": true,
-      "bytes": 251062
+      "bytes": 251388
     },
     {
       "id": "midjourney",
@@ -91,7 +91,7 @@
       "lang": "en",
       "url": "https://updates.midjourney.com/feed",
       "ok": true,
-      "bytes": 49119
+      "bytes": 49740
     },
     {
       "id": "edsurge",
@@ -127,7 +127,7 @@
       "lang": "en",
       "url": "https://thejournal.com/rss-feeds/all-articles.aspx",
       "ok": true,
-      "bytes": 16297
+      "bytes": 15672
     },
     {
       "id": "eschoolnews",
