@@ -1,12 +1,82 @@
 [
  {
+  "source": "Regeringen",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Pressinbjudan: Handelshögskolan förevisar idéer på samarbeten mellan E-sport, drönaranvändning och totalförsvaret",
+  "url": "https://www.regeringen.se/pressmeddelanden/2026/08/pressinbjudan-handelshogskolan-forevisar-ideer-pa-samarbeten-mellan-e-sport-dronaranvandning-och-totalforsvaret/",
+  "published": "2026-08-31T08:00Z",
+  "age_hours": 3,
+  "summary": "Tisdag 1 september besöker minister för civilt försvar Carl-Oskar Bohlin Center for Security and Resilience för att ta del av ett nytt projekt där e-sportare undersöks som en resurs för Sveriges drönarförsvar och totalförsvar."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+  "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+  "published": "2026-08-31T02:34Z",
+  "age_hours": 6,
+  "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+  "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+  "published": "2026-08-30T16:54Z",
+  "age_hours": 16,
+  "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+  "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+  "published": "2026-08-30T15:00Z",
+  "age_hours": 18,
+  "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment."
+ },
+ {
+  "source": "The Conversation — Canada Education",
+  "cat": "skola",
+  "lang": "en",
+  "title": "Why parent-child playful interactions mean so much more than fun and games",
+  "url": "https://theconversation.com/why-parent-child-playful-interactions-mean-so-much-more-than-fun-and-games-284911",
+  "published": "2026-08-30T13:28Z",
+  "age_hours": 19,
+  "summary": "Parental playfulness is about physical, cognitive and social behaviour marked by creativity, joy, imagination and humour when parents are fully present."
+ },
+ {
+  "source": "The Conversation — Canada Education",
+  "cat": "skola",
+  "lang": "en",
+  "title": "Are schools ready for racialized and immigrant students? 4 factors shaping the classroom experience",
+  "url": "https://theconversation.com/are-schools-ready-for-racialized-and-immigrant-students-4-factors-shaping-the-classroom-experience-289190",
+  "published": "2026-08-30T13:27Z",
+  "age_hours": 19,
+  "summary": "Student success depends not only on children’s readiness to learn but also on schools’ readiness to welcome and affirm who they are."
+ },
+ {
+  "source": "The Conversation — Canada Education",
+  "cat": "skola",
+  "lang": "en",
+  "title": "Dispelling 6 myths about back-to-school readiness",
+  "url": "https://theconversation.com/dispelling-6-myths-about-back-to-school-readiness-289756",
+  "published": "2026-08-30T13:27Z",
+  "age_hours": 19,
+  "summary": "Parents might often worry about academic performance. While that is important, it is also vital that children feel a sense of belonging at school."
+ },
+ {
   "source": "TechCrunch AI",
   "cat": "ai",
   "lang": "en",
   "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
   "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
   "published": "2026-08-29T18:41Z",
-  "age_hours": 14,
+  "age_hours": 38,
   "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
  },
  {
@@ -16,7 +86,7 @@
   "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
   "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
   "published": "2026-08-29T17:36Z",
-  "age_hours": 15,
+  "age_hours": 39,
   "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine."
  },
  {
@@ -26,7 +96,7 @@
   "title": "Nvidia’s AI advantage is moving beyond the GPU",
   "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
   "published": "2026-08-29T13:00Z",
-  "age_hours": 19,
+  "age_hours": 44,
   "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles."
  },
  {
@@ -36,7 +106,7 @@
   "title": "Edit Image Quality Update",
   "url": "https://updates.midjourney.com/edit-image-quality-update/",
   "published": "2026-08-29T00:35Z",
-  "age_hours": 32,
+  "age_hours": 56,
   "summary": "<p>Hey everyone, we&apos;ve updated our V8.2 edit model for better image quality. If you&apos;ve had any issues in the last 24 hours give it a new shot and keep giving us feedback. Thanks! More updates soon.</p><figure class=\"kg-card kg-image-card\"><img src=\"https://storage.ghost.io/c/95/61/95616ddb-b827-4269-ad22-ff4a6b368a1f/content/images/2026/08/Edit-Graphic-image-quality---2560.jpg\" class=\"kg"
  },
  {
@@ -46,7 +116,7 @@
   "title": "Neocloud Lambda secures $1B in debt to buy more chips",
   "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
   "published": "2026-08-28T20:24Z",
-  "age_hours": 36,
+  "age_hours": 60,
   "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom."
  },
  {
@@ -56,7 +126,7 @@
   "title": "An Anthropic researcher just gave us a peek at self-improving AI",
   "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
   "published": "2026-08-28T19:30Z",
-  "age_hours": 37,
+  "age_hours": 61,
   "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance."
  },
  {
@@ -66,7 +136,7 @@
   "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
   "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
   "published": "2026-08-28T18:19Z",
-  "age_hours": 38,
+  "age_hours": 63,
   "summary": "There's a lot of capital pouring into the business of giving models away."
  },
  {
@@ -76,7 +146,7 @@
   "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
   "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
   "published": "2026-08-28T12:46Z",
-  "age_hours": 44,
+  "age_hours": 68,
   "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington."
  },
  {
@@ -86,7 +156,7 @@
   "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
   "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
   "published": "2026-08-28T12:21Z",
-  "age_hours": 44,
+  "age_hours": 68,
   "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role."
  },
  {
@@ -96,287 +166,7 @@
   "title": "Answering the question behind the question",
   "url": "https://www.eschoolnews.com/innovative-teaching/2026/08/28/answering-the-question-behind-the-question/",
   "published": "2026-08-28T10:00Z",
-  "age_hours": 46,
-  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/08/student-questions.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Routine student questions can become an opportunity for better communication, stronger course design, and deeper learning.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www"
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Our decision on Cursor following its acquisition by SpaceX",
-  "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-  "published": "2026-08-28T06:00Z",
-  "age_hours": 50,
-  "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Supporting Thailand’s next generation of AI startups",
-  "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-  "published": "2026-08-28T02:00Z",
-  "age_hours": 54,
-  "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products."
- },
- {
-  "source": "EdSurge",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "AI Can Help One of K-12’s Biggest Challenges: Middle School Reading",
-  "url": "https://edsurge.com/news/ai-can-help-one-of-k-12s-biggest-challenges-middle-school-reading",
-  "published": "2026-08-28T00:00Z",
-  "age_hours": 56,
-  "summary": "Artificial intelligence can bridge the middle grades literacy gap by providing individualized student reading instruction at scale."
- },
- {
-  "source": "Hugging Face Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-  "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-  "published": "2026-08-28T00:00Z",
-  "age_hours": 56,
-  "summary": ""
- },
- {
-  "source": "Midjourney Updates",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Edit Model for V8",
-  "url": "https://updates.midjourney.com/edit-model-for-v8/",
-  "published": "2026-08-27T23:32Z",
-  "age_hours": 57,
-  "summary": "<p>Hey everyone! Today we&#x2019;re gonna start letting everyone test our first V8.2 image edit model!&#xA0;</p><figure class=\"kg-card kg-image-card\"><img src=\"https://storage.ghost.io/c/95/61/95616ddb-b827-4269-ad22-ff4a6b368a1f/content/images/2026/08/Edit-Graphic-1---2048.jpg\" class=\"kg-image\" alt loading=\"lazy\" width=\"2000\" height=\"2204\" srcset=\"https://storage.ghost.io/c/95/61/95616ddb-b827-42"
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-  "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-  "published": "2026-08-27T23:16Z",
-  "age_hours": 57,
-  "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-  "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-  "published": "2026-08-27T19:52Z",
-  "age_hours": 61,
-  "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-  "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-  "published": "2026-08-27T17:43Z",
-  "age_hours": 63,
-  "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats."
- },
- {
-  "source": "Regeringen",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Regeringen föreslår ett tydligare regelverk för barns och ungas utbildning i kriminalvårdsanstalt",
-  "url": "https://www.regeringen.se/pressmeddelanden/2026/08/regeringen-foreslar-ett-tydligare-regelverk-for-barns-och-ungas-utbildning-i-kriminalvardsanstalt/",
-  "published": "2026-08-27T16:17Z",
-  "age_hours": 66,
-  "summary": "Från och med den 1 juli 2026 ansvarar Kriminalvården för utbildningen av barn som avtjänar fängelsestraff. För att skapa tydligare förutsättningar för verksamheten har regeringen beslutat om lagrådsremissen Ett tydligare regelverk för barns och ungas utbildning i kriminalvårdsanstalt."
- },
- {
-  "source": "Regeringen",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Ett tydligare regelverk för barns och ungas utbildning i kriminalvårdsanstalt",
-  "url": "https://www.regeringen.se/rattsliga-dokument/lagradsremiss/2026/08/ett-tydligare-regelverk-for-barns-och-ungas-utbildning-i-kriminalvardsanstalt/",
-  "published": "2026-08-27T16:17Z",
-  "age_hours": 66,
-  "summary": "Barn och unga som är intagna i kriminalvårdsanstalt ska ges en utbildning av god kvalitet som är likvärdig med den som ges inom skolväsendet. Regeringen föreslår därför att regelverket för utbildningen för barn och unga som är intagna i kriminalvårdsanstalt förtydligas och preciseras i förhållande till den nuvarande regleringen."
- },
- {
-  "source": "Google DeepMind Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Gemini Omni 1.1 Flash lets you build with more control",
-  "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-  "published": "2026-08-27T16:11Z",
-  "age_hours": 64,
-  "summary": ""
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-  "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-  "published": "2026-08-27T16:00Z",
-  "age_hours": 64,
-  "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-  "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-  "published": "2026-08-27T14:56Z",
-  "age_hours": 66,
-  "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”"
- },
- {
-  "source": "Regeringen",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Åtgärder för lämpliga klasstorlekar",
-  "url": "https://www.regeringen.se/rattsliga-dokument/kommittedirektiv/2026/08/dir2.-202696",
-  "published": "2026-08-27T14:28Z",
-  "age_hours": 68,
-  "summary": "En särskild utredare ska utreda och lämna förslag för att uppnå att undervisning ges i undervisningsgrupper av lämplig storlek med lämplig lärartäthet. Syftet med utredningen är att alla elever ska ges undervisning av hög och likvärdig kvalitet i undervisningsgrupper av lämplig storlek och med lämplig lärartäthet, så att lärare därmed ges goda förutsättningar för undervisningsuppdraget."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "AI’s memory crunch is coming for Android apps",
-  "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-  "published": "2026-08-27T14:27Z",
-  "age_hours": 66,
-  "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Here’s all the times AI has gone rogue and hacked other companies",
-  "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-  "published": "2026-08-27T14:01Z",
-  "age_hours": 66,
-  "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet."
- },
- {
-  "source": "VentureBeat AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-  "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-  "published": "2026-08-27T14:01Z",
-  "age_hours": 66,
-  "summary": "<p><i>Presented by Gravitee </i></p><hr/><p>Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.</p><p>That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications that were never built with a machine decision-maker in mind. That&#x27"
- },
- {
-  "source": "Apple Newsroom",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
-  "url": "https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
-  "published": "2026-08-27T13:59Z",
-  "age_hours": 67,
-  "summary": "Through October 7, Sneaky Sasquatch transforms Subway Surfers+ with the charm and aesthetic of the hit open-world Apple Arcade game."
- },
- {
-  "source": "Skolledaren",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Regeringen vill lagstifta om mindre skolklasser",
-  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/8/regeringen-vill-lagstifta-om-mindre-skolklasser/",
-  "published": "2026-08-27T13:17Z",
-  "age_hours": 69,
-  "summary": "Regeringen tillsätter en utredning för att kunna lagstifta om hur stora skolklasser får vara."
- },
- {
-  "source": "Skolledaren",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Så arbetar skolchefen i Fagersta efter dådet",
-  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/8/sa-arbetar-skolchefen-i-fagersta-efter-dadet/",
-  "published": "2026-08-27T13:08Z",
-  "age_hours": 69,
-  "summary": "Det har varit en omtumlande vecka för personal, elever och skolledning på Brinellskolan efter skoldådet i Fagersta. Nu försöker man komma tillbaka till någon sorts normalitet igen. Trots att man inte har någon skolbyggnad att gå till. – I dag har flera lärare och mentorer valt att göra utflykter med sina elever, säger Eeva-Liisa Purolainen, utbildningschef i Fagersta kommun."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-  "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-  "published": "2026-08-27T13:00Z",
-  "age_hours": 67,
-  "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes."
- },
- {
-  "source": "Google DeepMind Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Piloting the world's first double-blind AI evaluations",
-  "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-  "published": "2026-08-27T12:59Z",
-  "age_hours": 68,
-  "summary": "Piloting the world's first double-blind AI evaluations"
- },
- {
-  "source": "Regeringen",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Regeringen tillsätter utredning om reglerade klasstorlekar",
-  "url": "https://www.regeringen.se/pressmeddelanden/2026/08/regeringen-tillsatter-utredning-om-reglerade-klasstorlekar/",
-  "published": "2026-08-27T12:35Z",
-  "age_hours": 70,
-  "summary": "I dag saknas reglering av undervisningsgruppernas storlek i svensk skola. Därför har regeringen beslutat att tillsätta en särskild utredare som ska föreslå åtgärder för att skolor ska ha lagom stora klasser och lämplig lärartäthet."
- },
- {
-  "source": "VentureBeat AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "When agents act on their own, governance has to live in the data layer",
-  "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-  "published": "2026-08-27T12:01Z",
-  "age_hours": 68,
-  "summary": "<p><i>Presented by EDB </i></p><hr/><p>As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it?</p><p>These are your agents, running on your models, touc"
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-  "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-  "published": "2026-08-27T11:35Z",
-  "age_hours": 69,
-  "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers."
- },
- {
-  "source": "EdTech Magazine K-12",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "How To Run a Successful K–12 Ed Tech Pilot Program",
-  "url": "https://edtechmagazine.com/k12/article/2026/08/how-run-successful-k-12-ed-tech-pilot-program-perfcon",
-  "published": "2026-08-27T10:01Z",
-  "age_hours": 66,
-  "summary": "Adopting new technology across a school district is a significant investment that’s hard to reverse if the rollout misses the mark. A pilot program can mitigate the risks by first launching a small-scale, time-limited test of a technology tool with a defined group of users before committing to full schoolwide or districtwide adoption. “A pilot helps districts validate that a solution will work in "
- },
- {
-  "source": "eSchool News",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "Students won’t remember every lesson, but here’s what’ll stick",
-  "url": "https://www.eschoolnews.com/innovative-teaching/2026/08/27/students-wont-remember-every-lesson-but-heres-whatll-stick/",
-  "published": "2026-08-27T10:00Z",
-  "age_hours": 70,
-  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/08/PBL-project-based-learning.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"How project-based learning, or PBL, builds the curiosity, empathy, and practical skills that last well beyond a student&#039;s time in school.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"htt"
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-  "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-  "published": "2026-08-27T09:00Z",
   "age_hours": 71,
-  "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/08/student-questions.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Routine student questions can become an opportunity for better communication, stronger course design, and deeper learning.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www"
  }
 ]
