@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T07:16:44Z",
+  "updated": "2026-09-03T07:19:54Z",
   "ok": 21,
   "failed": 0,
   "feeds": [
@@ -10,7 +10,7 @@
       "lang": "en",
       "url": "https://openai.com/news/rss.xml",
       "ok": true,
-      "bytes": 707231
+      "bytes": 707789
     },
     {
       "id": "anthropic",
@@ -37,7 +37,7 @@
       "lang": "en",
       "url": "https://deepmind.google/blog/rss.xml",
       "ok": true,
-      "bytes": 73550
+      "bytes": 71989
     },
     {
       "id": "microsoft",
@@ -73,7 +73,7 @@
       "lang": "en",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "ok": true,
-      "bytes": 17789
+      "bytes": 18701
     },
     {
       "id": "huggingface",
@@ -82,7 +82,7 @@
       "lang": "en",
       "url": "https://huggingface.co/blog/feed.xml",
       "ok": true,
-      "bytes": 251969
+      "bytes": 252303
     },
     {
       "id": "midjourney",
@@ -100,7 +100,7 @@
       "lang": "en",
       "url": "https://edsurge.com/articles_rss",
       "ok": true,
-      "bytes": 445140
+      "bytes": 439810
     },
     {
       "id": "classtechtips",
@@ -109,7 +109,7 @@
       "lang": "en",
       "url": "https://classtechtips.com/feed",
       "ok": true,
-      "bytes": 15153
+      "bytes": 15443
     },
     {
       "id": "cultofpedagogy",
@@ -136,7 +136,7 @@
       "lang": "en",
       "url": "https://www.eschoolnews.com/feed/",
       "ok": true,
-      "bytes": 2041486
+      "bytes": 2045790
     },
     {
       "id": "conversation_edu",
@@ -154,7 +154,7 @@
       "lang": "en",
       "url": "https://edtechmagazine.com/k12/rss.xml",
       "ok": true,
-      "bytes": 11490
+      "bytes": 11522
     },
     {
       "id": "edufi",
@@ -181,7 +181,7 @@
       "lang": "sv",
       "url": "https://www.skolledaren.se/rss",
       "ok": true,
-      "bytes": 36453
+      "bytes": 36508
     },
     {
       "id": "regeringen",
@@ -203,7 +203,7 @@
         "undervisning"
       ],
       "ok": true,
-      "bytes": 105192
+      "bytes": 105106
     }
   ]
 }
