@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T07:22:10Z",
+  "updated": "2026-09-05T07:04:18Z",
   "ok": 20,
   "failed": 1,
   "feeds": [
@@ -10,7 +10,7 @@
       "lang": "en",
       "url": "https://openai.com/news/rss.xml",
       "ok": true,
-      "bytes": 710884
+      "bytes": 711470
     },
     {
       "id": "anthropic",
@@ -73,7 +73,7 @@
       "lang": "en",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "ok": true,
-      "bytes": 17735
+      "bytes": 17906
     },
     {
       "id": "huggingface",
@@ -100,7 +100,7 @@
       "lang": "en",
       "url": "https://edsurge.com/articles_rss",
       "ok": true,
-      "bytes": 440219
+      "bytes": 450617
     },
     {
       "id": "classtechtips",
@@ -109,7 +109,7 @@
       "lang": "en",
       "url": "https://classtechtips.com/feed",
       "ok": true,
-      "bytes": 15184
+      "bytes": 14933
     },
     {
       "id": "cultofpedagogy",
@@ -136,7 +136,7 @@
       "lang": "en",
       "url": "https://www.eschoolnews.com/feed/",
       "ok": true,
-      "bytes": 2048602
+      "bytes": 2042920
     },
     {
       "id": "conversation_edu",
@@ -154,7 +154,7 @@
       "lang": "en",
       "url": "https://edtechmagazine.com/k12/rss.xml",
       "ok": true,
-      "bytes": 11613
+      "bytes": 11505
     },
     {
       "id": "edufi",
@@ -203,7 +203,7 @@
         "undervisning"
       ],
       "ok": true,
-      "bytes": 108852
+      "bytes": 108672
     }
   ]
 }
