@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T07:15:40Z",
+  "updated": "2026-09-07T07:29:40Z",
   "ok": 20,
   "failed": 1,
   "feeds": [
@@ -10,7 +10,7 @@
       "lang": "en",
       "url": "https://openai.com/news/rss.xml",
       "ok": true,
-      "bytes": 711470
+      "bytes": 712661
     },
     {
       "id": "anthropic",
@@ -73,7 +73,7 @@
       "lang": "en",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "ok": true,
-      "bytes": 17208
+      "bytes": 17072
     },
     {
       "id": "huggingface",
@@ -203,7 +203,7 @@
         "undervisning"
       ],
       "ok": true,
-      "bytes": 108887
+      "bytes": 109990
     }
   ]
 }
