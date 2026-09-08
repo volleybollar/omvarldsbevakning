@@ -3,10 +3,90 @@
   "source": "TechCrunch AI",
   "cat": "ai",
   "lang": "en",
+  "title": "Opaque recurrence, and other AI terms that you should probably know",
+  "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+  "published": "2026-09-07T19:24Z",
+  "age_hours": 12,
+  "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+ },
+ {
+  "source": "Regeringen",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Bättre insyn och kontroll i yrkeshögskolan",
+  "url": "https://www.regeringen.se/rattsliga-dokument/kommittedirektiv/2026/09/dir.-2026121",
+  "published": "2026-09-07T15:51Z",
+  "age_hours": 18,
+  "summary": "En särskild utredare ska föreslå de åtgärder som krävs för att säkerställa att utbildning i yrkeshögskolan håller en god kvalitet och att statsbidraget för yrkeshögskoleutbildning endast används till det som det är avsett för. Syftet är att ge Myndigheten för yrkeshögskolan (MYH) bättre förutsättningar för insyn och kontroll av statsbidraget och en bättre verktygslåda för att motverka att oseriösa"
+ },
+ {
+  "source": "Skolledaren",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Skolledare: Så gör vi med politiska partier i skolan",
+  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/9/skolledare-sa-gor-vi-med-politiska-partier-i-skolan/",
+  "published": "2026-09-07T13:59Z",
+  "age_hours": 19,
+  "summary": "Om en knapp vecka går Sverige till val och valrörelsen är i sin slutspurt. Här svarar tre skolledare på frågan: Släpper du in politiska partier på skolan, och på vilket sätt?"
+ },
+ {
+  "source": "The Conversation — Canada Education",
+  "cat": "skola",
+  "lang": "en",
+  "title": "The listening gap is real — how AI might help teachers bridge it",
+  "url": "https://theconversation.com/the-listening-gap-is-real-how-ai-might-help-teachers-bridge-it-287341",
+  "published": "2026-09-07T12:33Z",
+  "age_hours": 19,
+  "summary": "The very tool that generates disinformation and slop could also, when used well, be a catalyst for teaching youth to listen."
+ },
+ {
+  "source": "Regeringen",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Pressträff med Simona Mohamsson och Lotta Edholm om resultaten i Pisa",
+  "url": "https://www.regeringen.se/pressmeddelanden/2026/09/presstraff-med-simona-mohamsson-och-lotta-edholm-om-resultaten-i-pisa/",
+  "published": "2026-09-07T10:30Z",
+  "age_hours": 23,
+  "summary": "Tisdag den 8 september bjuder utbildnings- och integrationsminister Simona Mohamsson och gymnasie-, högskole- och forskningsminister Lotta Edholm in till en pressträff där de kommenterar de svenska Pisa-resultaten. Pisa är en internationell studie som undersöker kunskaper inom läsförståelse, matematik och naturvetenskap hos 15-åriga elever."
+ },
+ {
+  "source": "Regeringen",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Regeringen tillsätter en utredning om bättre insyn och kontroll i yrkeshögskolan",
+  "url": "https://www.regeringen.se/pressmeddelanden/2026/09/regeringen-tillsatter-en-utredning-om-battre-insyn-och-kontroll-i-yrkeshogskolan/",
+  "published": "2026-09-07T10:11Z",
+  "age_hours": 23,
+  "summary": "Regeringen har beslutat att tillsätta en särskild utredare som ska föreslå åtgärder för att säkerställa att utbildning i yrkeshögskolan håller god kvalitet, att statsbidrag används för avsedda ändamål och att oseriösa och kriminella aktörer kan motverkas."
+ },
+ {
+  "source": "eSchool News",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Why reading interventions plateau—and why New York’s new dyslexia center won’t change that",
+  "url": "https://www.eschoolnews.com/innovative-teaching/2026/09/07/why-reading-interventions-plateau-and-why-new-yorks-new-dyslexia-center-wont-change-that/",
+  "published": "2026-09-07T10:00Z",
+  "age_hours": 21,
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/09/reading-interventions-dyslexia.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"New York is investing in earlier dyslexia identification, but identifying struggling readers is only the first step in reading interventions.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpri"
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Supporting independent journalism in Ukraine",
+  "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+  "published": "2026-09-07T00:00Z",
+  "age_hours": 31,
+  "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
   "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
   "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
   "published": "2026-09-06T20:47Z",
-  "age_hours": 11,
+  "age_hours": 35,
   "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
  },
  {
@@ -16,7 +96,7 @@
   "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
   "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
   "published": "2026-09-06T16:45Z",
-  "age_hours": 15,
+  "age_hours": 39,
   "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\""
  },
  {
@@ -26,7 +106,7 @@
   "title": "An Alien Mind",
   "url": "https://openai.com/index/an-alien-mind",
   "published": "2026-09-06T09:00Z",
-  "age_hours": 22,
+  "age_hours": 46,
   "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
  },
  {
@@ -36,7 +116,7 @@
   "title": "Research acceleration: The view inside OpenAI",
   "url": "https://openai.com/index/research-acceleration-view-inside-openai",
   "published": "2026-09-06T08:00Z",
-  "age_hours": 23,
+  "age_hours": 47,
   "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
  },
  {
@@ -46,7 +126,7 @@
   "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
   "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
   "published": "2026-09-05T22:49Z",
-  "age_hours": 33,
+  "age_hours": 57,
   "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
  },
  {
@@ -56,7 +136,7 @@
   "title": "Hikers rescued after using Google Gemini for planning",
   "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
   "published": "2026-09-05T19:35Z",
-  "age_hours": 36,
+  "age_hours": 60,
   "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\""
  },
  {
@@ -66,137 +146,7 @@
   "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
   "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
   "published": "2026-09-05T18:05Z",
-  "age_hours": 37,
+  "age_hours": 61,
   "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-  "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-  "published": "2026-09-04T23:36Z",
-  "age_hours": 56,
-  "summary": "The round is being raised just months after the robot data startup exited from stealth."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-  "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-  "published": "2026-09-04T23:15Z",
-  "age_hours": 56,
-  "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-  "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-  "published": "2026-09-04T21:12Z",
-  "age_hours": 58,
-  "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO."
- },
- {
-  "source": "EdTech Magazine K-12",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "Hybrid Cloud for K–12: What Should Live Where?",
-  "url": "https://edtechmagazine.com/k12/article/2026/09/hybrid-cloud-k-12-what-should-live-where",
-  "published": "2026-09-04T17:53Z",
-  "age_hours": 58,
-  "summary": "Before the beginning of each school year, teachers spend time getting their classrooms ready for students. Everything has its place, from whiteboards to pens, pencils and pushpins. With the adoption of cloud computing by school districts, the IT departments of K–12 schools also must figure out what goes where, but on a much larger level. Many districts operate in hybrid cloud environments, where s"
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "What will Apple’s John Ternus era look like?",
-  "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-  "published": "2026-09-04T17:18Z",
-  "age_hours": 62,
-  "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#"
- },
- {
-  "source": "Regeringen",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Utredning föreslår mer förskola till barn vars föräldrar omfattas av aktivitetskravet",
-  "url": "https://www.regeringen.se/pressmeddelanden/2026/09/utredning-foreslar-mer-forskola-till-barn-vars-foraldrar-omfattas-av-aktivitetskravet2/",
-  "published": "2026-09-04T16:25Z",
-  "age_hours": 65,
-  "summary": "Regeringen tar emot förslag om att barn till föräldrar som omfattas av aktivitetskravet ska kunna få mer tid i förskola, fritidshem eller pedagogisk omsorg."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-  "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-  "published": "2026-09-04T16:21Z",
-  "age_hours": 63,
-  "summary": "It's the latest failure of OpenAI's internal monitoring and security systems."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-  "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-  "published": "2026-09-04T16:04Z",
-  "age_hours": 63,
-  "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#"
- },
- {
-  "source": "EdTech Magazine K-12",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "How Agentic AI Can Supplement K–12 IT Help Desks",
-  "url": "https://edtechmagazine.com/k12/article/2026/09/agentic-ai-k12-it-help-desk-support",
-  "published": "2026-09-04T15:30Z",
-  "age_hours": 60,
-  "summary": "The reality of K–12 IT teams is that most are very small — and, as a result, stretched thin. More than half of K–12 districts say they’re understaffed for everyday classroom technical support needs. On a given day, technicians may handle dozens of support requests for password resets, basic device troubleshooting, network connectivity issues, broken devices and more. When a district’s technical ne"
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Google’s Gemini Spark can now manage your Google Photos library",
-  "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-  "published": "2026-09-04T14:47Z",
-  "age_hours": 65,
-  "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-  "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
-  "published": "2026-09-04T14:00Z",
-  "age_hours": 65,
-  "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT."
- },
- {
-  "source": "Regeringen",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Uppdrag att föreslå obligatorisk förskola med språkutvecklande insatser",
-  "url": "https://www.regeringen.se/rattsliga-dokument/kommittedirektiv/2026/09/u202601573/",
-  "published": "2026-09-04T10:33Z",
-  "age_hours": 71,
-  "summary": "En utredare ges i uppdrag att lämna författningsförslag som innebär att förskola med språkutvecklande insatser ska vara obligatorisk om det bedöms att barnet behöver sådant stöd för att barnet inte exponeras i tillräcklig utsträckning för det svenska språket i sin hemmiljö och på grund av detta visar påtagliga brister i språkutvecklingen i svenska."
- },
- {
-  "source": "eSchool News",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "Career readiness in the AI era needs decision practice, not just tool access",
-  "url": "https://www.eschoolnews.com/digital-learning/2026/09/04/career-readiness-in-the-ai-era-needs-decision-practice-not-just-tool-access/",
-  "published": "2026-09-04T10:00Z",
-  "age_hours": 69,
-  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/09/career-readiness-AI.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"When it comes to career readiness, the best prep for an AI-shaped labor market is more practice making decisions when AI is in the room.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" src"
  }
 ]
