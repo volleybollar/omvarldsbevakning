@@ -6,8 +6,58 @@
   "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
   "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
   "published": "2026-09-14T00:00Z",
-  "age_hours": -41,
+  "age_hours": -16,
   "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+  "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+  "published": "2026-09-12T20:19Z",
+  "age_hours": 11,
+  "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Anthropic CEO outlines plan to slow AI development",
+  "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+  "published": "2026-09-12T19:34Z",
+  "age_hours": 12,
+  "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
+ },
+ {
+  "source": "Skolledaren",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Debatt: Sverige behöver ett nationellt frånvaroregister – nu",
+  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/9/debatt-sverige-behover-ett-nationellt-franvaroregister--nu/",
+  "published": "2026-09-12T15:27Z",
+  "age_hours": 18,
+  "summary": "”Att så många som 15 000 elever kan ha haft en frånvaro på minst 50 procent är inte en marginell avvikelse i skolstatistiken – det är en samhällskris som pågår i det tysta, skola för skola, kommun för kommun”, skriver kommunalrådet Amie Kronblad (L), som efterlyser ett nationellt frånvaroregister."
+ },
+ {
+  "source": "Skolledaren",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Pisachefen: Så kan Sverige få upp skolresultaten",
+  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/9/pisachefen-sa-kan-sverige-fa-upp-skolresultaten/",
+  "published": "2026-09-12T10:26Z",
+  "age_hours": 23,
+  "summary": "Tonåringar i Sverige och världen över har på några få år blivit markant sämre på att läsa. Ska utvecklingen vända krävs ett fullständigt omtag, hävdar OECD:s utbildningschef Andreas Schleicher. – Digitaliseringen har bara kastats på skolan, utan eftertanke, säger han."
+ },
+ {
+  "source": "Skolledaren",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Skolledarna på valsedlarna – här är deras viktigaste frågor",
+  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/9/skolledarna-pa-valsedlarna--har-ar-deras-viktigaste-fragor/",
+  "published": "2026-09-12T10:02Z",
+  "age_hours": 24,
+  "summary": "De är vana vid att bestämma i skolan. Inför valet på söndag den 13 september är det också många rektorer som vill påverka de politiska besluten. Flera skolledare finns i högt upp på partiernas valsedlar i kommunvalet."
  },
  {
   "source": "TechCrunch AI",
@@ -16,7 +66,7 @@
   "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
   "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
   "published": "2026-09-11T22:58Z",
-  "age_hours": 8,
+  "age_hours": 33,
   "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
  },
  {
@@ -26,7 +76,7 @@
   "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
   "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
   "published": "2026-09-11T20:59Z",
-  "age_hours": 10,
+  "age_hours": 35,
   "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese."
  },
  {
@@ -36,7 +86,7 @@
   "title": "OpenAI’s feud with mathematicians is only escalating",
   "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
   "published": "2026-09-11T20:57Z",
-  "age_hours": 10,
+  "age_hours": 35,
   "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
  },
  {
@@ -46,7 +96,7 @@
   "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
   "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
   "published": "2026-09-11T20:33Z",
-  "age_hours": 11,
+  "age_hours": 35,
   "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline."
  },
  {
@@ -56,7 +106,7 @@
   "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
   "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
   "published": "2026-09-11T20:30Z",
-  "age_hours": 11,
+  "age_hours": 35,
   "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT."
  },
  {
@@ -66,7 +116,7 @@
   "title": "Debatt: MP: Ta skolpolitiken på lika stort allvar som försvaret",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/9/debatt-mp-ta-skolpolitiken-pa-lika-stort-allvar-som-forsvaret/",
   "published": "2026-09-11T19:54Z",
-  "age_hours": 13,
+  "age_hours": 38,
   "summary": "Tillsätt en utbildningsberedning, likt försvarsberedningen, för att ta ett helhetsgrepp om den nationella skolpolitiken. Det skriver Camilla Hansén, Miljöpartiets utbildningspolitiska talesperson."
  },
  {
@@ -76,7 +126,7 @@
   "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
   "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
   "published": "2026-09-11T19:35Z",
-  "age_hours": 12,
+  "age_hours": 36,
   "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system."
  },
  {
@@ -86,7 +136,7 @@
   "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
   "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
   "published": "2026-09-11T18:41Z",
-  "age_hours": 13,
+  "age_hours": 37,
   "summary": "An Anthropic researcher resigned this week,&#160;warning in a post on X&#160;that the company is “racing straight to self-improving superintelligence and gambling with our lives”.&#160;The company&#8217;s own alignment&#160;lead&#160;even&#160;co-signed the message&#160;rather than walking it back.&#160;It&#8217;s&#160;the kind of&#160;doomer&#160;warning the AI industry has flirted with before, b"
  },
  {
@@ -96,7 +146,7 @@
   "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
   "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
   "published": "2026-09-11T16:46Z",
-  "age_hours": 15,
+  "age_hours": 39,
   "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023."
  },
  {
@@ -106,7 +156,7 @@
   "title": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5",
   "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
   "published": "2026-09-11T16:00Z",
-  "age_hours": 15,
+  "age_hours": 40,
   "summary": "Starting Saturday, September 12, customers can pre-order iPhone 18 Pro and iPhone 18 Pro Max."
  },
  {
@@ -116,7 +166,7 @@
   "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
   "url": "https://openai.com/index/cognition-devin-testing-with-astra",
   "published": "2026-09-11T16:00Z",
-  "age_hours": 15,
+  "age_hours": 40,
   "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
  },
  {
@@ -126,7 +176,7 @@
   "title": "Regeringens arbete för att stärka judiskt liv och motverka antisemitism",
   "url": "https://www.regeringen.se/artiklar/2026/09/regeringens-arbete-for-att-starka-judiskt-liv-och-motverka-antisemitism/",
   "published": "2026-09-11T14:10Z",
-  "age_hours": 19,
+  "age_hours": 43,
   "summary": "Sedan regeringen tillträdde 2022 har främjandet av judiskt liv och bekämpandet av antisemitism i Sverige varit högt prioriterade frågor. Regeringens arbete fokuserar på tre områden: utbildning, att öka tryggheten för judar i Sverige och att främja judiskt liv i Sverige. Under mandatperioden har regeringen genomfört flertalet insatser på området, bland annat beslutat om Sveriges första strategi för"
  },
  {
@@ -136,7 +186,7 @@
   "title": "Here’s how teachers and parents can collaborate and help Michigan’s 1.4M students succeed",
   "url": "https://theconversation.com/heres-how-teachers-and-parents-can-collaborate-and-help-michigans-1-4m-students-succeed-287763",
   "published": "2026-09-11T12:56Z",
-  "age_hours": 18,
+  "age_hours": 43,
   "summary": "Inflexible meeting times, transportation and childcare challenges can limit parents or caregivers from getting involved in their children’s education."
  },
  {
@@ -146,7 +196,7 @@
   "title": "Why the Trump administration’s bid to end diversity efforts at nonprofit schools is likely to get tied up in court",
   "url": "https://theconversation.com/why-the-trump-administrations-bid-to-end-diversity-efforts-at-nonprofit-schools-is-likely-to-get-tied-up-in-court-291338",
   "published": "2026-09-11T12:36Z",
-  "age_hours": 19,
+  "age_hours": 43,
   "summary": "A proposed Trump administration rule aimed at quashing diversity efforts could jeopardize the nonprofit status of private schools. It could take effect in mid-2027."
  },
  {
@@ -156,7 +206,7 @@
   "title": "Five Quality Indicators for Ed Tech Purchases",
   "url": "https://edtechmagazine.com/k12/article/2026/09/five-quality-indicators-ed-tech-purchases",
   "published": "2026-09-11T12:24Z",
-  "age_hours": 15,
+  "age_hours": 39,
   "summary": "With the vast selection of educational technology on the market today, it can be difficult for IT leaders to know what is appropriate for their institutions. The organizations at the helm of the EdTech Quality Collaborative — Digital Promise, 1EdTech, CAST, CoSN, ISTE and SETDA — have developed the EdTech Quality Indicators Guide, which lists five quality indicators for technology selection. This "
  },
  {
@@ -166,7 +216,7 @@
   "title": "The compliance trap waiting on the other side of Title II",
   "url": "https://www.eschoolnews.com/innovative-teaching/2026/09/11/the-compliance-trap-waiting-on-the-other-side-of-title-ii/",
   "published": "2026-09-11T10:00Z",
-  "age_hours": 21,
+  "age_hours": 46,
   "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/09/title-ii-compliance.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"A Web Content Accessibility Guidelines audit tells you if a tool passes a test--it won&#039;t tell you if students can actually use it.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcs"
  },
  {
@@ -176,7 +226,7 @@
   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
   "published": "2026-09-11T10:00Z",
-  "age_hours": 21,
+  "age_hours": 46,
   "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
  },
  {
@@ -186,7 +236,7 @@
   "title": "Parents Are Bringing AI to the IEP Meeting. How Should Teachers Respond?",
   "url": "https://edsurge.com/news/parents-are-bringing-ai-to-the-iep-meeting-heres-how-teachers-should-respond",
   "published": "2026-09-11T00:00Z",
-  "age_hours": 31,
+  "age_hours": 56,
   "summary": "Using AI in IEP meetings can benefit parents and teachers – if done correctly."
  },
  {
@@ -196,7 +246,7 @@
   "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
   "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
   "published": "2026-09-10T21:51Z",
-  "age_hours": 33,
+  "age_hours": 58,
   "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular."
  },
  {
@@ -206,7 +256,7 @@
   "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
   "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
   "published": "2026-09-10T21:35Z",
-  "age_hours": 34,
+  "age_hours": 58,
   "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
  },
  {
@@ -216,7 +266,7 @@
   "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
   "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
   "published": "2026-09-10T20:59Z",
-  "age_hours": 34,
+  "age_hours": 59,
   "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity."
  },
  {
@@ -226,7 +276,7 @@
   "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
   "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
   "published": "2026-09-10T20:57Z",
-  "age_hours": 34,
+  "age_hours": 59,
   "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified."
  },
  {
@@ -236,7 +286,7 @@
   "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
   "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
   "published": "2026-09-10T19:50Z",
-  "age_hours": 35,
+  "age_hours": 60,
   "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads."
  },
  {
@@ -246,7 +296,7 @@
   "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
   "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
   "published": "2026-09-10T17:54Z",
-  "age_hours": 37,
+  "age_hours": 62,
   "summary": "Come inside the mind of a bot trying to convince the internet it's human."
  },
  {
@@ -256,8 +306,28 @@
   "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
   "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
   "published": "2026-09-10T17:45Z",
-  "age_hours": 38,
+  "age_hours": 62,
   "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper."
+ },
+ {
+  "source": "THE Journal",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "AI Models Generate Advances in Mathematical Research",
+  "url": "https://thejournal.com/articles/2026/09/10/ai-models-generate-advances-in-mathematical-research.aspx",
+  "published": "2026-09-10T16:48Z",
+  "age_hours": 63,
+  "summary": "OpenAI has announced what it says is an AI-generated solution to the Navier-Stokes existence and smoothness problem, one of mathematics' seven Millennium Prize Problems, while Anthropic has reported separate advances in research mathematics and formal proof generation."
+ },
+ {
+  "source": "THE Journal",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "OpenAI's New Astra Model Reaches Critical Cyber Threshold",
+  "url": "https://thejournal.com/articles/2026/09/10/openais-new-astra-model-reaches-critical-cyber-threshold.aspx",
+  "published": "2026-09-10T16:28Z",
+  "age_hours": 63,
+  "summary": "OpenAI has introduced GPT-6 Astra, its most capable broadly deployed model and the first system the company says has reached the \"Critical\" cybersecurity capability threshold under its Preparedness Framework."
  },
  {
   "source": "OpenAI News",
@@ -266,7 +336,7 @@
   "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
   "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
   "published": "2026-09-10T16:00Z",
-  "age_hours": 39,
+  "age_hours": 64,
   "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
  },
  {
@@ -276,7 +346,7 @@
   "title": "Rektorn om Skolinspektionens granskning: ”Speciell situation”",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/9/rektorn-om-skolinspektionens-granskning-speciell-situation/",
   "published": "2026-09-10T15:50Z",
-  "age_hours": 41,
+  "age_hours": 66,
   "summary": "Vägga anpassade gymnasieskola i Karlshamn har fått stark kritik från Skolinspektionen och hotas nu av sanktioner. – Det är bra att vi granskas. Alla vill göra rätt. Ingen gör fel med berått mod, säger skolans rektor Linus Bromander."
  },
  {
@@ -286,7 +356,7 @@
   "title": "Now everyone can put data to work",
   "url": "https://openai.com/index/put-data-to-work",
   "published": "2026-09-10T15:00Z",
-  "age_hours": 40,
+  "age_hours": 65,
   "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
  },
  {
@@ -296,7 +366,7 @@
   "title": "AI agents are flooding public services with new requests",
   "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
   "published": "2026-09-10T14:53Z",
-  "age_hours": 40,
+  "age_hours": 65,
   "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch."
  },
  {
@@ -306,7 +376,7 @@
   "title": "Maven Robotics wants to steal your robot deployment deal",
   "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
   "published": "2026-09-10T14:17Z",
-  "age_hours": 41,
+  "age_hours": 65,
   "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments."
  },
  {
@@ -316,7 +386,7 @@
   "title": "Has gentle parenting gone too far?",
   "url": "https://theconversation.com/has-gentle-parenting-gone-too-far-287342",
   "published": "2026-09-10T13:38Z",
-  "age_hours": 42,
+  "age_hours": 66,
   "summary": "Some experts believe what we are sometimes seeing today is not true gentle parenting, but rather an anxious drift into permissive parenting."
  },
  {
@@ -326,7 +396,7 @@
   "title": "Microsoft Report Highlights Trends in K–12 AI Adoption",
   "url": "https://edtechmagazine.com/k12/article/2026/09/microsoft-report-highlights-trends-k-12-ai-adoption",
   "published": "2026-09-10T12:32Z",
-  "age_hours": 39,
+  "age_hours": 63,
   "summary": "Artificial Intelligence use in schools continues to be hotly debated, but there’s no doubt it’s widely used: About 9 in 10 students, educators and education leaders say they’ve already used AI for school. That comes from Microsoft’s third annual AI in Education Special Report, which examines how K–12 districts and higher education institutions are adopting and using AI. The report consolidates sur"
  },
  {
@@ -336,227 +406,7 @@
   "title": "The everyday access control gaps schools overlook",
   "url": "https://www.eschoolnews.com/educational-leadership/2026/09/10/the-everyday-access-control-gaps-schools-overlook/",
   "published": "2026-09-10T10:00Z",
-  "age_hours": 45,
+  "age_hours": 70,
   "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/09/access-control.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Modern access control connects people, policies, technologies, and emergency procedures into a coordinated safety program.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://www.eschoolnews.com/files/2"
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Introducing ChatGPT for Financial Services",
-  "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-  "published": "2026-09-10T07:00Z",
-  "age_hours": 48,
-  "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials."
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-  "url": "https://openai.com/index/expanding-ai-access-us-government",
-  "published": "2026-09-10T07:00Z",
-  "age_hours": 48,
-  "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
- },
- {
-  "source": "Hugging Face Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-  "url": "https://huggingface.co/blog/gradio-workflow-1111",
-  "published": "2026-09-10T00:00Z",
-  "age_hours": 55,
-  "summary": ""
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-  "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-  "published": "2026-09-10T00:00Z",
-  "age_hours": 55,
-  "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Introducing the Agents API",
-  "url": "https://openai.com/index/introducing-the-agents-api",
-  "published": "2026-09-10T00:00Z",
-  "age_hours": 55,
-  "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-  "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-  "published": "2026-09-10T00:00Z",
-  "age_hours": 55,
-  "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "OpenAI adds a prominent AI doomer to its board of directors",
-  "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-  "published": "2026-09-09T22:25Z",
-  "age_hours": 57,
-  "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board."
- },
- {
-  "source": "Apple Newsroom",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Apple unveils iPhone Duo",
-  "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
-  "published": "2026-09-09T18:15Z",
-  "age_hours": 61,
-  "summary": "Apple today introduced iPhone Duo, the first foldable iPhone."
- },
- {
-  "source": "Apple Newsroom",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Apple advances health and fitness capabilities using Apple Intelligence",
-  "url": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/",
-  "published": "2026-09-09T17:52Z",
-  "age_hours": 61,
-  "summary": "Apple today announced its most advanced health and fitness experience yet, deepening the capabilities of Apple Watch and iPhone as intelligent, science-based tools for personal health."
- },
- {
-  "source": "Apple Newsroom",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Apple unveils Apple Watch Ultra 4",
-  "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
-  "published": "2026-09-09T17:51Z",
-  "age_hours": 61,
-  "summary": "Apple today introduced Apple Watch Ultra 4, the ultimate sports and adventure watch, now with new health, fitness, and audio intelligence capabilities."
- },
- {
-  "source": "Apple Newsroom",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
-  "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-  "published": "2026-09-09T17:50Z",
-  "age_hours": 61,
-  "summary": "Apple today introduced Apple Watch Series 12, engineered to deliver the most accurate heart rate sensing in a wearable."
- },
- {
-  "source": "Apple Newsroom",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Apple introduces AirPods 5 with best-in-class open-ear Active Noise Cancellation",
-  "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-  "published": "2026-09-09T17:34Z",
-  "age_hours": 62,
-  "summary": "Apple today announced AirPods 5, delivering the industry’s best Active Noise Cancellation in an open-ear design and even better sound quality."
- },
- {
-  "source": "Apple Newsroom",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
-  "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-  "published": "2026-09-09T17:30Z",
-  "age_hours": 62,
-  "summary": "Apple announced iPhone 18 Pro and iPhone 18 Pro Max, delivering an advanced pro camera system and improved battery life and performance."
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Paul Christiano joins OpenAI Foundation Board",
-  "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-  "published": "2026-09-09T17:00Z",
-  "age_hours": 62,
-  "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
- },
- {
-  "source": "Hugging Face Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-  "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-  "published": "2026-09-09T15:36Z",
-  "age_hours": 64,
-  "summary": ""
- },
- {
-  "source": "EdTech Magazine K-12",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "5 Questions To Ask Before Choosing a Device Repair Option",
-  "url": "https://edtechmagazine.com/k12/article/2026/09/5-questions-ask-choosing-device-repair-option",
-  "published": "2026-09-09T15:00Z",
-  "age_hours": 60,
-  "summary": "Managing device repair in a K–12 environment is rarely straightforward, making it harder to identify the best school device repair option. Most districts aren’t dealing with a single, clean fleet. Instead, they are juggling devices at different ages, under different warranties and in varying states of repair. Some school districts may be covered by original equipment manufacturer warranties, while"
- },
- {
-  "source": "Skolledaren",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Krönika: Vi måste söka lösningar på flera fronter efter Pisa",
-  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/9/kronika-vi-maste-soka-losningar-pa-flera-fronter-efter-pisa/",
-  "published": "2026-09-09T14:12Z",
-  "age_hours": 67,
-  "summary": "Verkligheten bakom Pisaresultatet är mer komplex än politikernas förenklade förklaringar. För att förstå problemet måste man kunna hålla två tankar i huvudet samtidigt och för att vända trenden måste man söka lösningar på flera fronter, skriver biträdande rektor Linnea Lindquist."
- },
- {
-  "source": "EdTech Magazine K-12",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "What Is an AI Bill of Materials?",
-  "url": "https://edtechmagazine.com/k12/article/2026/09/what-ai-bill-materials",
-  "published": "2026-09-09T14:04Z",
-  "age_hours": 61,
-  "summary": "When an artificial intelligence system makes a “bad decision,” most organizations can’t really explain why. They aren’t entirely sure which data trained it, where the error was, which version it was running or which third-party components were involved. This is an ethical and regulatory blind spot that creates risk for tech leaders in districts of all sizes, and it’s driving interest in a newer fr"
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "The AI policy window is open. We need to act.",
-  "url": "https://openai.com/index/ai-policy-window",
-  "published": "2026-09-09T13:00Z",
-  "age_hours": 66,
-  "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open."
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "GPT-6 Astra: The next generation in intelligence for work",
-  "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-  "published": "2026-09-09T11:00Z",
-  "age_hours": 68,
-  "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
- },
- {
-  "source": "eSchool News",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "AACTE releases national framework on AI in educator preparation",
-  "url": "https://www.eschoolnews.com/digital-learning/2026/09/09/aacte-releases-national-framework-on-ai-in-educator-preparation/",
-  "published": "2026-09-09T10:00Z",
-  "age_hours": 69,
-  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/09/AI-educator-preparation.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"The widespread adoption of AI is changing educator preparation what educators need to know and what they need to be able to do.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" srcset=\"https:"
- },
- {
-  "source": "Regeringen",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Uppdrag att utreda nationell yrkesutbildning",
-  "url": "https://www.regeringen.se/rattsliga-dokument/kommittedirektiv/2026/09/u202601569/",
-  "published": "2026-09-09T09:42Z",
-  "age_hours": 72,
-  "summary": "Regeringen beslutade 2024 om en pilotverksamhet med en ny utbildningsform – nationell yrkesutbildning. Nu får en utredare i uppdrag att omhänderta erfarenheter från pilotverksamheten och lämna förslag för att möjliggöra ett eventuellt permanent införande av utbildningsformen."
  }
 ]

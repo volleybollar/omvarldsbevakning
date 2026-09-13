@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-12T07:18:29Z",
-  "ok": 19,
-  "failed": 2,
+  "updated": "2026-09-13T07:36:41Z",
+  "ok": 20,
+  "failed": 1,
   "feeds": [
     {
       "id": "openai",
@@ -73,7 +73,7 @@
       "lang": "en",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "ok": true,
-      "bytes": 16814
+      "bytes": 16811
     },
     {
       "id": "huggingface",
@@ -126,8 +126,8 @@
       "cat": "digitalisering",
       "lang": "en",
       "url": "https://thejournal.com/rss-feeds/all-articles.aspx",
-      "ok": false,
-      "error": "HTTP Error 520: <none>"
+      "ok": true,
+      "bytes": 14104
     },
     {
       "id": "eschoolnews",
@@ -181,7 +181,7 @@
       "lang": "sv",
       "url": "https://www.skolledaren.se/rss",
       "ok": true,
-      "bytes": 37027
+      "bytes": 36913
     },
     {
       "id": "regeringen",
