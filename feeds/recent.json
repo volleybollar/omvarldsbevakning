@@ -3,11 +3,281 @@
   "source": "TechCrunch AI",
   "cat": "ai",
   "lang": "en",
+  "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+  "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+  "published": "2026-09-16T00:20Z",
+  "age_hours": 8,
+  "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "The AI data center boom is colliding with cities scarred by big industry",
+  "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+  "published": "2026-09-15T21:47Z",
+  "age_hours": 10,
+  "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+  "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+  "published": "2026-09-15T20:12Z",
+  "age_hours": 12,
+  "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+  "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+  "published": "2026-09-15T19:00Z",
+  "age_hours": 13,
+  "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+  "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+  "published": "2026-09-15T18:29Z",
+  "age_hours": 13,
+  "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "AI agents now have a place to snitch",
+  "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+  "published": "2026-09-15T17:42Z",
+  "age_hours": 14,
+  "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities."
+ },
+ {
+  "source": "Google DeepMind Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+  "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+  "published": "2026-09-15T17:05Z",
+  "age_hours": 15,
+  "summary": ""
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Meta expands subscription push with new AI-focused plans",
+  "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+  "published": "2026-09-15T17:05Z",
+  "age_hours": 15,
+  "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp."
+ },
+ {
+  "source": "Hugging Face Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Your Agent Aced the Task. Will It Do It Again?",
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+  "published": "2026-09-15T16:00Z",
+  "age_hours": 16,
+  "summary": ""
+ },
+ {
+  "source": "THE Journal",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Microsoft Drafts AI Code of Conduct, Emphasizes Human Control",
+  "url": "https://thejournal.com/articles/2026/09/15/microsoft-drafts-ai-code-of-conduct-emphasizes-human-control.aspx",
+  "published": "2026-09-15T15:52Z",
+  "age_hours": 16,
+  "summary": "Microsoft has published a draft code of conduct that lays out how its homegrown AI models should behave, with human control taking priority over model capability, autonomy, and even task completion."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+  "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+  "published": "2026-09-15T15:47Z",
+  "age_hours": 16,
+  "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+  "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+  "published": "2026-09-15T15:22Z",
+  "age_hours": 16,
+  "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+  "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+  "published": "2026-09-15T14:42Z",
+  "age_hours": 17,
+  "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI."
+ },
+ {
+  "source": "Skolledaren",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Krönika: Askungen får aldrig sin klänning klar",
+  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/9/kronika--askungen-far-aldrig-sin-klanning-klar/",
+  "published": "2026-09-15T14:37Z",
+  "age_hours": 19,
+  "summary": "Skolan lider inte brist på nya idéer och beslut som ska implementeras i verksamheten. Många av dem rimliga. Men någonstans måste också något plockas bort. ”Annars står Askungen där till slut med nål, tråd och goda intentioner. Och klänningen blir inte klar”, skriver rektor Anna Lena Oscarson."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+  "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+  "published": "2026-09-15T14:30Z",
+  "age_hours": 17,
+  "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+  "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+  "published": "2026-09-15T14:00Z",
+  "age_hours": 18,
+  "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15."
+ },
+ {
+  "source": "THE Journal",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "5 Lessons Video Game Designers Can Teach Educators About Learning",
+  "url": "https://thejournal.com/articles/2026/09/15/5-lessons-video-game-designers-can-teach-educators-about-learning.aspx",
+  "published": "2026-09-15T14:00Z",
+  "age_hours": 18,
+  "summary": "Video game designers spend an enormous amount of time studying what keeps people engaged when something becomes difficult. They have become very good at helping people persist. Schools should pay attention."
+ },
+ {
+  "source": "EdTech Magazine K-12",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Review: Cohesity DataProtect Ensures Steadfast Backup and Recovery",
+  "url": "https://edtechmagazine.com/k12/article/2026/09/review-cohesity-dataprotect-ensures-steadfast-backup-and-recovery",
+  "published": "2026-09-15T13:29Z",
+  "age_hours": 14,
+  "summary": "School districts face growing pressure to modernize their data protection strategies while defending against sophisticated cyberthreats. Legacy backup tools often fall short, especially when ransomware targets critical systems, or when compliance requirements demand verifiable controls across multiple environments. These days, especially in K–12 settings, the focus is on resilience versus simple b"
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+  "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+  "published": "2026-09-15T13:00Z",
+  "age_hours": 19,
+  "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic."
+ },
+ {
+  "source": "The Conversation — Education",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "We paid college students about $5 a night to sleep at least 7 hours – and their grades quickly improved",
+  "url": "https://theconversation.com/we-paid-college-students-about-5-a-night-to-sleep-at-least-7-hours-and-their-grades-quickly-improved-289935",
+  "published": "2026-09-15T12:37Z",
+  "age_hours": 19,
+  "summary": "Universities and colleges won’t necessarily pay students to sleep. But they can offer other incentives that encourage them to close their eyes earlier."
+ },
+ {
+  "source": "The Conversation — Education",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "How libraries in Philadelphia, Pittsburgh and other Pennsylvania communities evolved from subscription clubs to vital public institutions",
+  "url": "https://theconversation.com/how-libraries-in-philadelphia-pittsburgh-and-other-pennsylvania-communities-evolved-from-subscription-clubs-to-vital-public-institutions-286940",
+  "published": "2026-09-15T12:37Z",
+  "age_hours": 19,
+  "summary": "The nation’s first successful circulating library was established almost 300 years ago by Benjamin Franklin in Philadelphia."
+ },
+ {
+  "source": "The Conversation — Education",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "To crack the job market, internships can be just as key for young people as the degree",
+  "url": "https://theconversation.com/to-crack-the-job-market-internships-can-be-just-as-key-for-young-people-as-the-degree-288647",
+  "published": "2026-09-15T12:36Z",
+  "age_hours": 19,
+  "summary": "Job preparation through internships matters more than ever for young people amid a precarious and fast-changing job market."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+  "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+  "published": "2026-09-15T12:00Z",
+  "age_hours": 20,
+  "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks."
+ },
+ {
+  "source": "Apple Newsroom",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Widow’s Bay triumphs as most decorated freshman comedy in Emmy history",
+  "url": "https://www.apple.com/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
+  "published": "2026-09-15T10:02Z",
+  "age_hours": 22,
+  "summary": "This evening at the 78th Primetime Emmy Awards, Apple TV shatters records to become the most-awarded network of the year, landing 29 wins overall."
+ },
+ {
+  "source": "eSchool News",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "5 questions to help every district leader make better decisions",
+  "url": "https://www.eschoolnews.com/educational-leadership/2026/09/15/5-questions-to-help-every-district-leader-make-better-decisions/",
+  "published": "2026-09-15T10:00Z",
+  "age_hours": 22,
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/09/district-leaders.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Here&#039;s what a 33,000-student science meta-analysis teaches district leaders about better decision-making for district students.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"ht"
+ },
+ {
+  "source": "Class Tech Tips",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "What to Use Instead of Worksheets with Dr. Jessica Espinoza – Easy EdTech Podcast 388",
+  "url": "https://classtechtips.com/2026/09/15/instead-of-worksheets-388/",
+  "published": "2026-09-15T09:00Z",
+  "age_hours": 23,
+  "summary": "<p>Dr. Jessica Espinoza shares meaningful learning experiences instead of worksheets, from sketchnoting and thinking maps to AI listening tasks.</p> <p>The post <a href=\"https://classtechtips.com/2026/09/15/instead-of-worksheets-388/\">What to Use Instead of Worksheets with Dr. Jessica Espinoza &#8211; Easy EdTech Podcast 388</a> appeared first on <a href=\"https://classtechtips.com\">Class Tech Tips"
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
   "title": "Jensen Huang took a call from Trump, and showed off something else, too",
   "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
   "published": "2026-09-15T01:50Z",
-  "age_hours": 6,
-  "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it."
+  "age_hours": 30,
+  "summary": "When Jensen Huang took a live call from Trump, some of us were more focused on the phone he used to take it."
+ },
+ {
+  "source": "EdSurge",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "The “October Blues” Are Coming. Here’s How Teachers Can Beat Them.",
+  "url": "https://edsurge.com/news/the-october-blues-are-coming-heres-how-teachers-can-beat-them",
+  "published": "2026-09-15T00:00Z",
+  "age_hours": 32,
+  "summary": "Mike Anderson, author of “Rekindle Your Professional Fire,” believes new teachers are especially vulnerable to an emotional letdown after the start of ..."
  },
  {
   "source": "THE Journal",
@@ -16,7 +286,7 @@
   "title": "AI Giants: It May Be Time to Slow Down",
   "url": "https://thejournal.com/articles/2026/09/14/ai-giants-it-may-be-time-to-slow-down.aspx",
   "published": "2026-09-14T22:22Z",
-  "age_hours": 10,
+  "age_hours": 33,
   "summary": "Leaders in the artificial intelligence industry have warned for years that increasingly capable AI systems could eventually become dangerous, all the while continuing to race to build them. Now, their sentiments have changed."
  },
  {
@@ -26,7 +296,7 @@
   "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
   "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
   "published": "2026-09-14T21:51Z",
-  "age_hours": 10,
+  "age_hours": 34,
   "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently."
  },
  {
@@ -36,7 +306,7 @@
   "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
   "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
   "published": "2026-09-14T20:44Z",
-  "age_hours": 11,
+  "age_hours": 35,
   "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode."
  },
  {
@@ -46,7 +316,7 @@
   "title": "Major updates for Apple’s software platforms are now available",
   "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
   "published": "2026-09-14T17:10Z",
-  "age_hours": 15,
+  "age_hours": 39,
   "summary": "Apple’s latest software updates introduce Siri AI and deliver helpful new Apple Intelligence features."
  },
  {
@@ -56,7 +326,7 @@
   "title": "With iOS 27, I’m actually using Siri again",
   "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
   "published": "2026-09-14T17:10Z",
-  "age_hours": 15,
+  "age_hours": 39,
   "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day."
  },
  {
@@ -66,7 +336,7 @@
   "title": "Siri AI, a profoundly more capable and personal assistant, is here",
   "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
   "published": "2026-09-14T17:09Z",
-  "age_hours": 15,
+  "age_hours": 39,
   "summary": "Apple today released the next generation of Apple Intelligence."
  },
  {
@@ -76,7 +346,7 @@
   "title": "Apple’s new child safety features now available",
   "url": "https://www.apple.com/newsroom/2026/09/apples-new-child-safety-features-now-available/",
   "published": "2026-09-14T17:08Z",
-  "age_hours": 15,
+  "age_hours": 39,
   "summary": "Apple’s new suite of tools that help parents create safer digital experiences for their kids is now available across iPhone, iPad, Mac, and more."
  },
  {
@@ -86,7 +356,7 @@
   "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
   "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
   "published": "2026-09-14T17:00Z",
-  "age_hours": 15,
+  "age_hours": 39,
   "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app."
  },
  {
@@ -96,7 +366,7 @@
   "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
   "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
   "published": "2026-09-14T16:27Z",
-  "age_hours": 16,
+  "age_hours": 39,
   "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles."
  },
  {
@@ -106,58 +376,8 @@
   "title": "A Realistic Approach to Differentiation",
   "url": "https://www.cultofpedagogy.com/realistic-differentiation/",
   "published": "2026-09-14T16:24Z",
-  "age_hours": 16,
+  "age_hours": 39,
   "summary": "<p>Back to Basics, Part 4: Now that the lessons are in place, we'll build in differentiation using a process that will keep things from getting overwhelming.</p> The post <a href=\"https://www.cultofpedagogy.com/realistic-differentiation/\">A Realistic Approach to Differentiation</a> first appeared on <a href=\"https://www.cultofpedagogy.com\">Cult of Pedagogy</a>."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-  "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-  "published": "2026-09-14T15:00Z",
-  "age_hours": 17,
-  "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-  "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-  "published": "2026-09-14T14:45Z",
-  "age_hours": 17,
-  "summary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-  "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-  "published": "2026-09-14T14:30Z",
-  "age_hours": 17,
-  "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
-  "url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
-  "published": "2026-09-14T14:00Z",
-  "age_hours": 18,
-  "summary": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
-  "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
-  "published": "2026-09-14T13:55Z",
-  "age_hours": 18,
-  "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making."
  },
  {
   "source": "Skolledaren",
@@ -166,7 +386,7 @@
   "title": "Ledare: Skolan kan inte börja om efter varje val",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/9/ledare-skolan-kan-inte-borja-om-efter-varje-val/",
   "published": "2026-09-14T13:14Z",
-  "age_hours": 21,
+  "age_hours": 45,
   "summary": "Valdagen har passerat och partierna har gett sina besked om skolan. Nu behöver orden omsättas i ett långsiktigt ansvarstagande. Pisaresultaten kräver handling – men utvecklingen kan inte vändas genom ännu en mandatperiod av tvära kast. Sverige behöver en bred politisk överenskommelse om skolans långsiktiga riktning, skriver Ann-Charlotte Gavelin Rydman, förbundsordförande för Sveriges Skolledare."
  },
  {
@@ -176,7 +396,7 @@
   "title": "School choice proponents say it offers families more options – but those don’t always extend to immigrant students",
   "url": "https://theconversation.com/school-choice-proponents-say-it-offers-families-more-options-but-those-dont-always-extend-to-immigrant-students-289117",
   "published": "2026-09-14T12:41Z",
-  "age_hours": 19,
+  "age_hours": 43,
   "summary": "School choice heavily influences immigrant students’ experiences in Charleston schools and can leave them in segregated academic environments, new findings show."
  },
  {
@@ -186,7 +406,7 @@
   "title": "How Fyxer built an AI executive assistant people trust",
   "url": "https://openai.com/index/fyxer",
   "published": "2026-09-14T12:00Z",
-  "age_hours": 20,
+  "age_hours": 44,
   "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
  },
  {
@@ -196,7 +416,7 @@
   "title": "Stor vänstersväng i skolvalet",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/9/stor-vanstersvang-i-skolvalet/",
   "published": "2026-09-14T11:19Z",
-  "age_hours": 23,
+  "age_hours": 47,
   "summary": "Moderaterna befäster sin plats som klart största parti i riksdagsskolvalet. Trots det syns en stor vänstersväng. Tidöpartiernas tidigare övertag på 25 procentenheter minskar till endast ett fåtal."
  },
  {
@@ -206,8 +426,8 @@
   "title": "Why K-12 cybersecurity education needs practice, not just awareness",
   "url": "https://www.eschoolnews.com/it-leadership/2026/09/14/k-12-cybersecurity-education-practice-not-just-awareness/",
   "published": "2026-09-14T10:00Z",
-  "age_hours": 22,
-  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/09/k-12-cybersecurity-education.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"K-12 cybersecurity education can do is help students build habits that remain useful as technology changes.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.esc"
+  "age_hours": 46,
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/09/k-12-cybersecurity-education.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"K-12 cybersecurity education can do is help students build habits that remain useful as technology changes.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://www.eschoolnews.com/files/20"
  },
  {
   "source": "EdSurge",
@@ -216,7 +436,7 @@
   "title": "New York and Los Angeles Ban Student-Facing AI (For Now). Should Other Schools Follow?",
   "url": "https://edsurge.com/news/new-york-and-los-angeles-ban-student-facing-ai-for-now-should-other-schools-follow",
   "published": "2026-09-14T00:00Z",
-  "age_hours": 32,
+  "age_hours": 56,
   "summary": "The bans, coupled with a new APA report, signal a shift from rapid AI adoption toward more deliberate evaluation."
  },
  {
@@ -226,28 +446,8 @@
   "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
   "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
   "published": "2026-09-14T00:00Z",
-  "age_hours": 32,
+  "age_hours": 56,
   "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "What’s behind the AI industry’s latest warnings of doom?",
-  "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-  "published": "2026-09-13T19:40Z",
-  "age_hours": 36,
-  "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-  "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-  "published": "2026-09-13T16:30Z",
-  "age_hours": 39,
-  "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety."
  },
  {
   "source": "Class Tech Tips",
@@ -256,7 +456,7 @@
   "title": "70 Reading Response Questions for Any Book",
   "url": "https://classtechtips.com/2026/09/13/reading-response-questions-for-any-book/",
   "published": "2026-09-13T15:31Z",
-  "age_hours": 40,
+  "age_hours": 64,
   "summary": "<p>Grab reading response questions for any book, for before, during, and after reading, plus digital ways for students to respond.</p> <p>The post <a href=\"https://classtechtips.com/2026/09/13/reading-response-questions-for-any-book/\">70 Reading Response Questions for Any Book</a> appeared first on <a href=\"https://classtechtips.com\">Class Tech Tips</a>.</p>"
  },
  {
@@ -266,57 +466,7 @@
   "title": "How chronic absenteeism shifted in Canadian kindergarten after COVID-19",
   "url": "https://theconversation.com/how-chronic-absenteeism-shifted-in-canadian-kindergarten-after-covid-19-289291",
   "published": "2026-09-13T12:10Z",
-  "age_hours": 44,
+  "age_hours": 68,
   "summary": "A better understanding of the factors driving kindergarten school absences is needed, as are policies aimed at reducing the number of missed days."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-  "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-  "published": "2026-09-12T20:19Z",
-  "age_hours": 60,
-  "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Anthropic CEO outlines plan to slow AI development",
-  "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-  "published": "2026-09-12T19:34Z",
-  "age_hours": 60,
-  "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
- },
- {
-  "source": "Skolledaren",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Debatt: Sverige behöver ett nationellt frånvaroregister – nu",
-  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/9/debatt-sverige-behover-ett-nationellt-franvaroregister--nu/",
-  "published": "2026-09-12T15:27Z",
-  "age_hours": 67,
-  "summary": "”Att så många som 15 000 elever kan ha haft en frånvaro på minst 50 procent är inte en marginell avvikelse i skolstatistiken – det är en samhällskris som pågår i det tysta, skola för skola, kommun för kommun”, skriver kommunalrådet Amie Kronblad (L), som efterlyser ett nationellt frånvaroregister."
- },
- {
-  "source": "Skolledaren",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Pisachefen: Så kan Sverige få upp skolresultaten",
-  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/9/pisachefen-sa-kan-sverige-fa-upp-skolresultaten/",
-  "published": "2026-09-12T10:26Z",
-  "age_hours": 72,
-  "summary": "Tonåringar i Sverige och världen över har på några få år blivit markant sämre på att läsa. Ska utvecklingen vända krävs ett fullständigt omtag, hävdar OECD:s utbildningschef Andreas Schleicher. – Digitaliseringen har bara kastats på skolan, utan eftertanke, säger han."
- },
- {
-  "source": "Skolledaren",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Skolledarna på valsedlarna – här är deras viktigaste frågor",
-  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/9/skolledarna-pa-valsedlarna--har-ar-deras-viktigaste-fragor/",
-  "published": "2026-09-12T10:02Z",
-  "age_hours": 72,
-  "summary": "De är vana vid att bestämma i skolan. Inför valet på söndag den 13 september är det också många rektorer som vill påverka de politiska besluten. Flera skolledare finns i högt upp på partiernas valsedlar i kommunvalet."
  }
 ]
