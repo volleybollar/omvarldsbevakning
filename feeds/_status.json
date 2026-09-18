@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T07:55:56Z",
+  "updated": "2026-09-18T07:33:54Z",
   "ok": 20,
   "failed": 1,
   "feeds": [
@@ -10,7 +10,7 @@
       "lang": "en",
       "url": "https://openai.com/news/rss.xml",
       "ok": true,
-      "bytes": 730789
+      "bytes": 737319
     },
     {
       "id": "anthropic",
@@ -19,7 +19,7 @@
       "lang": "en",
       "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/refs/heads/main/feeds/feed_anthropic_news.xml",
       "ok": true,
-      "bytes": 123253
+      "bytes": 123720
     },
     {
       "id": "google_ai",
@@ -46,7 +46,7 @@
       "lang": "en",
       "url": "https://blogs.microsoft.com/feed/",
       "ok": true,
-      "bytes": 145209
+      "bytes": 155516
     },
     {
       "id": "apple",
@@ -55,7 +55,7 @@
       "lang": "en",
       "url": "https://www.apple.com/newsroom/rss-feed.rss",
       "ok": true,
-      "bytes": 18825
+      "bytes": 18931
     },
     {
       "id": "venturebeat",
@@ -73,7 +73,7 @@
       "lang": "en",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "ok": true,
-      "bytes": 18456
+      "bytes": 17838
     },
     {
       "id": "huggingface",
@@ -109,7 +109,7 @@
       "lang": "en",
       "url": "https://classtechtips.com/feed",
       "ok": true,
-      "bytes": 14701
+      "bytes": 15114
     },
     {
       "id": "cultofpedagogy",
@@ -136,7 +136,7 @@
       "lang": "en",
       "url": "https://www.eschoolnews.com/feed/",
       "ok": true,
-      "bytes": 2035008
+      "bytes": 2035110
     },
     {
       "id": "conversation_edu",
@@ -154,7 +154,7 @@
       "lang": "en",
       "url": "https://edtechmagazine.com/k12/rss.xml",
       "ok": true,
-      "bytes": 11370
+      "bytes": 11435
     },
     {
       "id": "edufi",
@@ -172,7 +172,7 @@
       "lang": "en",
       "url": "https://theconversation.com/ca/education/articles.atom",
       "ok": true,
-      "bytes": 317220
+      "bytes": 317141
     },
     {
       "id": "skolledaren",
@@ -203,7 +203,7 @@
         "undervisning"
       ],
       "ok": true,
-      "bytes": 107442
+      "bytes": 106783
     }
   ]
 }
