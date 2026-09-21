@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T07:52:54Z",
+  "updated": "2026-09-21T08:08:56Z",
   "ok": 20,
   "failed": 1,
   "feeds": [
@@ -73,7 +73,7 @@
       "lang": "en",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "ok": true,
-      "bytes": 17575
+      "bytes": 16730
     },
     {
       "id": "huggingface",
@@ -172,7 +172,7 @@
       "lang": "en",
       "url": "https://theconversation.com/ca/education/articles.atom",
       "ok": true,
-      "bytes": 317142
+      "bytes": 318698
     },
     {
       "id": "skolledaren",
@@ -203,7 +203,7 @@
         "undervisning"
       ],
       "ok": true,
-      "bytes": 107145
+      "bytes": 106850
     }
   ]
 }
