@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-25T08:06:22Z",
-  "ok": 20,
-  "failed": 1,
+  "updated": "2026-09-26T07:56:50Z",
+  "ok": 19,
+  "failed": 2,
   "feeds": [
     {
       "id": "openai",
@@ -10,7 +10,7 @@
       "lang": "en",
       "url": "https://openai.com/news/rss.xml",
       "ok": true,
-      "bytes": 750049
+      "bytes": 750532
     },
     {
       "id": "anthropic",
@@ -36,8 +36,8 @@
       "cat": "ai",
       "lang": "en",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": true,
-      "bytes": 70182
+      "ok": false,
+      "error": "svaret är inte RSS eller Atom (troligen en HTML-sida)"
     },
     {
       "id": "microsoft",
@@ -46,7 +46,7 @@
       "lang": "en",
       "url": "https://blogs.microsoft.com/feed/",
       "ok": true,
-      "bytes": 155504
+      "bytes": 158035
     },
     {
       "id": "apple",
@@ -73,7 +73,7 @@
       "lang": "en",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "ok": true,
-      "bytes": 19043
+      "bytes": 19459
     },
     {
       "id": "huggingface",
@@ -136,7 +136,7 @@
       "lang": "en",
       "url": "https://www.eschoolnews.com/feed/",
       "ok": true,
-      "bytes": 2012021
+      "bytes": 2009413
     },
     {
       "id": "conversation_edu",
@@ -145,7 +145,7 @@
       "lang": "en",
       "url": "https://theconversation.com/us/education/articles.atom",
       "ok": true,
-      "bytes": 417826
+      "bytes": 424281
     },
     {
       "id": "edtechmagazine",
@@ -154,7 +154,7 @@
       "lang": "en",
       "url": "https://edtechmagazine.com/k12/rss.xml",
       "ok": true,
-      "bytes": 11361
+      "bytes": 11362
     },
     {
       "id": "edufi",
@@ -203,7 +203,7 @@
         "undervisning"
       ],
       "ok": true,
-      "bytes": 104432
+      "bytes": 104038
     }
   ]
 }
