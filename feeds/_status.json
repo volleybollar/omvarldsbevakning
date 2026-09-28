@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-27T08:28:59Z",
-  "ok": 19,
-  "failed": 2,
+  "updated": "2026-09-28T08:53:35Z",
+  "ok": 20,
+  "failed": 1,
   "feeds": [
     {
       "id": "openai",
@@ -36,8 +36,8 @@
       "cat": "ai",
       "lang": "en",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": false,
-      "error": "svaret är inte RSS eller Atom (troligen en HTML-sida)"
+      "ok": true,
+      "bytes": 70182
     },
     {
       "id": "microsoft",
@@ -73,7 +73,7 @@
       "lang": "en",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "ok": true,
-      "bytes": 18906
+      "bytes": 17839
     },
     {
       "id": "huggingface",
@@ -109,7 +109,7 @@
       "lang": "en",
       "url": "https://classtechtips.com/feed",
       "ok": true,
-      "bytes": 15564
+      "bytes": 15293
     },
     {
       "id": "cultofpedagogy",
@@ -172,7 +172,7 @@
       "lang": "en",
       "url": "https://theconversation.com/ca/education/articles.atom",
       "ok": true,
-      "bytes": 307989
+      "bytes": 305478
     },
     {
       "id": "skolledaren",
@@ -203,7 +203,7 @@
         "undervisning"
       ],
       "ok": true,
-      "bytes": 104016
+      "bytes": 104009
     }
   ]
 }
