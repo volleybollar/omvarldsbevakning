@@ -1,33 +1,353 @@
 [
  {
+  "source": "Microsoft AI Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "New Microsoft data innovations unlock what only your business knows",
+  "url": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
+  "published": "2026-09-29T06:30Z",
+  "age_hours": 2,
+  "summary": "<p>Every organization has knowledge that is uniquely its own: the way its business operates, the data it has built over time, the expertise of its people and the context behind thousands of everyday decisions. As powerful AI models become more widely available, that unique business intelligence matters more than ever. The difference will come from...</p> <p>The post <a href=\"https://blogs.microsof"
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+  "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+  "published": "2026-09-29T05:13Z",
+  "age_hours": 4,
+  "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+  "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+  "published": "2026-09-29T00:30Z",
+  "age_hours": 8,
+  "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "OpenAI reportedly ditches model over safety concerns",
+  "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+  "published": "2026-09-28T23:39Z",
+  "age_hours": 9,
+  "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+  "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+  "published": "2026-09-28T21:29Z",
+  "age_hours": 11,
+  "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago."
+ },
+ {
+  "source": "THE Journal",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "AI Platform Behind 12,000 E-mail Breaches Dismantled",
+  "url": "https://thejournal.com/articles/2026/09/28/ai-platform-behind-12000-email-breaches-dismantled.aspx",
+  "published": "2026-09-28T21:23Z",
+  "age_hours": 12,
+  "summary": "Microsoft has shut down EvilTokens, a cybercrime service that used AI to help attackers break into e-mail accounts, study their victims, and build convincing financial scams."
+ },
+ {
+  "source": "THE Journal",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "New Industry Alliance to Work Toward Common Security Model for AI Agents",
+  "url": "https://thejournal.com/articles/2026/09/28/new-industry-alliance-to-work-toward-common-security-model-for-ai-agents.aspx",
+  "published": "2026-09-28T20:54Z",
+  "age_hours": 12,
+  "summary": "A vendor coalition built on an Okta-developed blueprint is proposing a shared architecture for discovering, governing, monitoring, and containing enterprise AI agents."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+  "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+  "published": "2026-09-28T20:39Z",
+  "age_hours": 12,
+  "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Shopify opens checkout to browser-based AI agents",
+  "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+  "published": "2026-09-28T19:33Z",
+  "age_hours": 13,
+  "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "The AI boom took over Climate Week and not everyone is happy about it",
+  "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+  "published": "2026-09-28T19:21Z",
+  "age_hours": 14,
+  "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors."
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "How we will do better for Australia",
+  "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+  "published": "2026-09-28T19:00Z",
+  "age_hours": 14,
+  "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Towards safety cases for frontier AI training",
+  "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+  "published": "2026-09-28T19:00Z",
+  "age_hours": 14,
+  "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Nvidia launches new platform for reining in rogue AI agents",
+  "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+  "published": "2026-09-28T18:31Z",
+  "age_hours": 14,
+  "summary": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out."
+ },
+ {
+  "source": "The Conversation — Canada Education",
+  "cat": "skola",
+  "lang": "en",
+  "title": "Why universities must tread carefully when validating Onkwehón:we identity",
+  "url": "https://theconversation.com/why-universities-must-tread-carefully-when-validating-onkwehon-we-identity-290035",
+  "published": "2026-09-28T18:06Z",
+  "age_hours": 15,
+  "summary": "Requirements for documentation such as citizenship and status cards can disadvantage people whose relationships with their respective nations have been disrupted."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+  "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+  "published": "2026-09-28T18:00Z",
+  "age_hours": 15,
+  "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+  "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+  "published": "2026-09-28T17:29Z",
+  "age_hours": 15,
+  "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+  "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+  "published": "2026-09-28T17:09Z",
+  "age_hours": 16,
+  "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming."
+ },
+ {
+  "source": "Cult of Pedagogy",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Why School Improvement Fails So Often",
+  "url": "https://www.cultofpedagogy.com/continuous-improvement/",
+  "published": "2026-09-28T16:54Z",
+  "age_hours": 16,
+  "summary": "<p>Meaningful change takes more than a good program or process. Here’s what helps educators solve problems together and make real progress.</p> The post <a href=\"https://www.cultofpedagogy.com/continuous-improvement/\">Why School Improvement Fails So Often</a> first appeared on <a href=\"https://www.cultofpedagogy.com\">Cult of Pedagogy</a>."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+  "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+  "published": "2026-09-28T16:52Z",
+  "age_hours": 16,
+  "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+  "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+  "published": "2026-09-28T15:30Z",
+  "age_hours": 17,
+  "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass."
+ },
+ {
+  "source": "EdTech Magazine K-12",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "The Hidden Side of Student AI Use: Mental Health, Access and Risk",
+  "url": "https://edtechmagazine.com/k12/article/2026/09/hidden-side-student-ai-use-mental-health-access-and-risk",
+  "published": "2026-09-28T15:08Z",
+  "age_hours": 14,
+  "summary": "When schools talk about students using artificial intelligence, the conversation often begins with assignments. Are students using AI to brainstorm, summarize or complete work they should be doing themselves? Those questions matter, but academic use is only one part of what schools need to consider. Schoolwork-related AI use is often visible. For the past three years, I have encouraged educators t"
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+  "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+  "published": "2026-09-28T15:00Z",
+  "age_hours": 18,
+  "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+  "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+  "published": "2026-09-28T14:30Z",
+  "age_hours": 18,
+  "summary": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Modulate raises $25M for its voice models and analysis suite",
+  "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+  "published": "2026-09-28T14:05Z",
+  "age_hours": 19,
+  "summary": "Modulate deploys its models to detect deepfake, fraud and scam"
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
+  "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
+  "published": "2026-09-28T14:00Z",
+  "age_hours": 19,
+  "summary": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leaders at San Francisco's Moscone West on October 13-15."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+  "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+  "published": "2026-09-28T14:00Z",
+  "age_hours": 19,
+  "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+  "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+  "published": "2026-09-28T13:38Z",
+  "age_hours": 19,
+  "summary": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It’s an exciting, creative time, and we're just getting started,\" founder Noah Shinn said in a statement."
+ },
+ {
+  "source": "The Conversation — Education",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "College rankings, like those of US News and World Report, remain influential, despite their many flaws and decades of criticism",
+  "url": "https://theconversation.com/college-rankings-like-those-of-us-news-and-world-report-remain-influential-despite-their-many-flaws-and-decades-of-criticism-292649",
+  "published": "2026-09-28T12:39Z",
+  "age_hours": 20,
+  "summary": "College rankings can be consequential for less prestigious and less wealthy schools, giving them visibility they might not otherwise have."
+ },
+ {
+  "source": "EdTech Magazine K-12",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "How AI Is Transforming the Role of the K–12 Device",
+  "url": "https://edtechmagazine.com/k12/article/2026/09/how-ai-transforming-role-k-12-device",
+  "published": "2026-09-28T11:33Z",
+  "age_hours": 17,
+  "summary": "Digital devices used for K–12 learning have traditionally provided access to productivity software, research and digital assignments. But now, artificial intelligence technology is enabling devices to generate instructional material, guide students through problems and connect classroom workflows. The question for districts is no longer only whether a device can run required applications, but how "
+ },
+ {
+  "source": "eSchool News",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "What E-Rate makes possible: Four lessons from our district",
+  "url": "https://www.eschoolnews.com/it-leadership/2026/09/28/what-e-rate-makes-possible-four-lessons-from-lenoir-city-schools/",
+  "published": "2026-09-28T10:00Z",
+  "age_hours": 23,
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/09/E-rate-district.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Lenoir City Schools uses E-Rate to create an environment where all district students have access to the same opportunities and resources.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcset"
+ },
+ {
+  "source": "Hugging Face Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Holo4: powering generalist computer-use agents",
+  "url": "https://huggingface.co/blog/Hcompany/holo4",
+  "published": "2026-09-28T09:44Z",
+  "age_hours": 23,
+  "summary": ""
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+  "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+  "published": "2026-09-28T07:00Z",
+  "age_hours": 26,
+  "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Are you a Codex Original?",
+  "url": "https://openai.com/form/codex-originals",
+  "published": "2026-09-28T00:00Z",
+  "age_hours": 33,
+  "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below."
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+  "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+  "published": "2026-09-28T00:00Z",
+  "age_hours": 33,
+  "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use."
+ },
+ {
   "source": "TechCrunch AI",
   "cat": "ai",
   "lang": "en",
   "title": "Anthropic’s CEO is about to have dinner with President Trump",
   "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
   "published": "2026-09-27T20:34Z",
-  "age_hours": 12,
-  "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump"
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Can Muse overcome Meta’s trust issues?",
-  "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-  "published": "2026-09-27T19:57Z",
-  "age_hours": 13,
-  "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-  "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-  "published": "2026-09-27T16:30Z",
-  "age_hours": 16,
-  "summary": "\"AI is the devil and I its maker.\""
+  "age_hours": 36,
+  "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump."
  },
  {
   "source": "The Conversation — Canada Education",
@@ -36,217 +356,7 @@
   "title": "How routines, rituals and rites of passage are foundations of an inclusive classroom",
   "url": "https://theconversation.com/how-routines-rituals-and-rites-of-passage-are-foundations-of-an-inclusive-classroom-289659",
   "published": "2026-09-27T15:06Z",
-  "age_hours": 18,
+  "age_hours": 42,
   "summary": "Creating structures and routines in the classroom means providing children with predictability about what is expected, when it is expected and how."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-  "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-  "published": "2026-09-27T01:30Z",
-  "age_hours": 31,
-  "summary": "The limited test covers select products and users, with a broader rollout planned for later in October."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Insurers claim AI is already increasing healthcare costs",
-  "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-  "published": "2026-09-26T21:02Z",
-  "age_hours": 36,
-  "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "I created an interactive digital avatar of myself — and you can talk to it",
-  "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-  "published": "2026-09-26T14:00Z",
-  "age_hours": 43,
-  "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "At Meta Connect, the company’s smart glasses were everywhere",
-  "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-  "published": "2026-09-26T01:08Z",
-  "age_hours": 56,
-  "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-  "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-  "published": "2026-09-25T23:11Z",
-  "age_hours": 58,
-  "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-  "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-  "published": "2026-09-25T22:20Z",
-  "age_hours": 59,
-  "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Meta opens early access program for new Muse features",
-  "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-  "published": "2026-09-25T20:34Z",
-  "age_hours": 60,
-  "summary": "Anyone interested in joining has to ask Muse to put them on the list."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-  "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-  "published": "2026-09-25T19:13Z",
-  "age_hours": 62,
-  "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more."
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-  "url": "https://openai.com/index/proaction",
-  "published": "2026-09-25T19:00Z",
-  "age_hours": 62,
-  "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-  "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-  "published": "2026-09-25T18:48Z",
-  "age_hours": 62,
-  "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-  "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-  "published": "2026-09-25T18:33Z",
-  "age_hours": 62,
-  "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-  "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-  "published": "2026-09-25T18:22Z",
-  "age_hours": 63,
-  "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6 model updates&#160;just&#160;90 minutes&#160;later.&#160;But the company that stole the spotlight was Meta, whose&#160;"
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-  "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-  "published": "2026-09-25T17:29Z",
-  "age_hours": 63,
-  "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Astra and Opus just passed Turing’s other test",
-  "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-  "published": "2026-09-25T17:24Z",
-  "age_hours": 63,
-  "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-  "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-  "published": "2026-09-25T16:16Z",
-  "age_hours": 65,
-  "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Meta’s AI Tamagotchi bet is…working?",
-  "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-  "published": "2026-09-25T16:00Z",
-  "age_hours": 65,
-  "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6 model updates&#160;just&#160;90 minutes&#160;later.&#160;But the company that stole the spotlight was Meta, whose&#160;"
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-  "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-  "published": "2026-09-25T15:48Z",
-  "age_hours": 65,
-  "summary": "The latest unauthorized agent swarms were discovered by researchers."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Anthropic’s founders seek voting control ahead of IPO",
-  "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-  "published": "2026-09-25T15:40Z",
-  "age_hours": 65,
-  "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters."
- },
- {
-  "source": "eSchool News",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "Teachers weigh the realities of classroom technology in new national survey",
-  "url": "https://www.eschoolnews.com/innovative-teaching/2026/09/25/teachers-weigh-the-realities-of-classroom-technology-in-new-national-survey/",
-  "published": "2026-09-25T13:00Z",
-  "age_hours": 68,
-  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/09/classroom-technology.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"New report finds educators want better vetting, more input, and greater classroom oversight rather than strict technology limits.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"h"
- },
- {
-  "source": "The Conversation — Education",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "What civil rights enforcement cuts mean for students with disabilities – fewer staff, closed offices, longer waits",
-  "url": "https://theconversation.com/what-civil-rights-enforcement-cuts-mean-for-students-with-disabilities-fewer-staff-closed-offices-longer-waits-285208",
-  "published": "2026-09-25T12:42Z",
-  "age_hours": 68,
-  "summary": "Filing a civil rights complaint with the Office of Civil Rights can be parents’ last stop. Following cuts and restructuring, this federal office is no longer serving that same resource."
- },
- {
-  "source": "Microsoft AI Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Introducing the new Copilot with Home, Code and Autopilot",
-  "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-  "published": "2026-09-25T12:03Z",
-  "age_hours": 69,
-  "summary": "<p>We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. Today we’re introducing the new Copilot to connect the tools people rely on with the next generation of capabilities they’ll need to build, customize and scale AI...</p> <p>The post <a href=\"https://blogs.microsoft.com/blo"
  }
 ]
