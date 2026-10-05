@@ -1,12 +1,42 @@
 [
  {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+  "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+  "published": "2026-10-04T20:31Z",
+  "age_hours": 13,
+  "summary": "AI slop seems to be overwhelming bug bounty programs."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+  "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+  "published": "2026-10-04T20:08Z",
+  "age_hours": 13,
+  "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Trump unveils his new Super Intelligence Force",
+  "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+  "published": "2026-10-04T15:15Z",
+  "age_hours": 18,
+  "summary": "This new task force is Trump's latest response to the debate over AI safety."
+ },
+ {
   "source": "Hugging Face Blog",
   "cat": "ai",
   "lang": "en",
   "title": "The Agent Said It Was Done. The Database Disagreed.",
   "url": "https://huggingface.co/blog/microsoft/thinkingbox",
   "published": "2026-10-03T22:56Z",
-  "age_hours": 10,
+  "age_hours": 35,
   "summary": ""
  },
  {
@@ -16,7 +46,7 @@
   "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
   "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
   "published": "2026-10-03T18:43Z",
-  "age_hours": 14,
+  "age_hours": 39,
   "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers."
  },
  {
@@ -26,7 +56,7 @@
   "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
   "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
   "published": "2026-10-03T16:30Z",
-  "age_hours": 16,
+  "age_hours": 41,
   "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job."
  },
  {
@@ -36,7 +66,7 @@
   "title": "All the AI agents that can live in your text messages",
   "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
   "published": "2026-10-03T14:00Z",
-  "age_hours": 19,
+  "age_hours": 44,
   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
  },
  {
@@ -46,7 +76,7 @@
   "title": "Meta wants your next gadget to be Muse-infused",
   "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
   "published": "2026-10-03T00:45Z",
-  "age_hours": 32,
+  "age_hours": 57,
   "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free."
  },
  {
@@ -56,7 +86,7 @@
   "title": "Sean Parker is rebuilding Stability AI around music",
   "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
   "published": "2026-10-02T21:09Z",
-  "age_hours": 36,
+  "age_hours": 60,
   "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money."
  },
  {
@@ -66,7 +96,7 @@
   "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
   "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
   "published": "2026-10-02T19:15Z",
-  "age_hours": 37,
+  "age_hours": 62,
   "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people."
  },
  {
@@ -76,7 +106,7 @@
   "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
   "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
   "published": "2026-10-02T18:11Z",
-  "age_hours": 38,
+  "age_hours": 63,
   "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier."
  },
  {
@@ -86,7 +116,7 @@
   "title": "Cornell 7 case puts a spotlight on fraternity misconduct – and the limits of universities’ power to stop it",
   "url": "https://theconversation.com/cornell-7-case-puts-a-spotlight-on-fraternity-misconduct-and-the-limits-of-universities-power-to-stop-it-293305",
   "published": "2026-10-02T18:10Z",
-  "age_hours": 38,
+  "age_hours": 63,
   "summary": "While universities can suspend and expel students for committing sexual violence and other kinds of illegal misconduct, they face logistical and financial limits to preventing such behavior."
  },
  {
@@ -96,7 +126,7 @@
   "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
   "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
   "published": "2026-10-02T17:56Z",
-  "age_hours": 39,
+  "age_hours": 64,
   "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executive order&#160;officially rebranding AI as “super intelligence,” and meanwhile,&#160;Meta and OpenAI "
  },
  {
@@ -106,7 +136,7 @@
   "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
   "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
   "published": "2026-10-02T17:48Z",
-  "age_hours": 39,
+  "age_hours": 64,
   "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executive order&#160;officially rebranding AI as “super intelligence,” and meanwhile,&#160;Meta and OpenAI "
  },
  {
@@ -116,7 +146,7 @@
   "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
   "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
   "published": "2026-10-02T17:32Z",
-  "age_hours": 39,
+  "age_hours": 64,
   "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second."
  },
  {
@@ -126,7 +156,7 @@
   "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
   "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
   "published": "2026-10-02T17:00Z",
-  "age_hours": 40,
+  "age_hours": 65,
   "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that."
  },
  {
@@ -136,7 +166,7 @@
   "title": "A model guide for the GPT-6 family",
   "url": "https://openai.com/index/practical-guide-building-gpt-6",
   "published": "2026-10-02T16:15Z",
-  "age_hours": 40,
+  "age_hours": 65,
   "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
  },
  {
@@ -146,7 +176,7 @@
   "title": "Pope Leo XIV is not a fan of AI-generated art",
   "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
   "published": "2026-10-02T15:39Z",
-  "age_hours": 41,
+  "age_hours": 66,
   "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\""
  },
  {
@@ -156,7 +186,7 @@
   "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
   "url": "https://huggingface.co/blog/allenai/astabrief",
   "published": "2026-10-02T15:19Z",
-  "age_hours": 41,
+  "age_hours": 66,
   "summary": ""
  },
  {
@@ -166,7 +196,7 @@
   "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
   "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
   "published": "2026-10-02T14:30Z",
-  "age_hours": 42,
+  "age_hours": 67,
   "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off."
  },
  {
@@ -176,7 +206,7 @@
   "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
   "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
   "published": "2026-10-02T14:00Z",
-  "age_hours": 43,
+  "age_hours": 68,
   "summary": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: Will they find your startup?"
  },
  {
@@ -186,28 +216,8 @@
   "title": "How Dolly Parton’s Imagination Library is helping kids start reading when they’re very young",
   "url": "https://theconversation.com/how-dolly-partons-imagination-library-is-helping-kids-start-reading-when-theyre-very-young-292207",
   "published": "2026-10-02T12:49Z",
-  "age_hours": 44,
+  "age_hours": 69,
   "summary": "This free program mails an age-appropriate book monthly to each enrolled child from birth to age 5."
- },
- {
-  "source": "Skolledaren",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Rektor Lottas viktigaste åtgärder för att vända utsatta skolan",
-  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/10/rektor-lottas-viktigaste-atgarder-for-att-vanda-utsatta-skolan/",
-  "published": "2026-10-02T10:56Z",
-  "age_hours": 48,
-  "summary": "Från rött till grönt ljus – här är rektor Lotta Karlssons viktigaste åtgärder för att vända resultaten på Andersbergsskolan, som hade fått underkänt av Skolinspektionen och hotades av stängning. Insatserna har också spelat stor roll i arbetet med att vända utvecklingen i utsatta området Andersberg i Halmstad."
- },
- {
-  "source": "Skolledaren",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Så blev rektorn navet i vändningen av utsatta området",
-  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/10/sa-blev-rektorn-navet-i-vandningen-av-utsatta-omradet/",
-  "published": "2026-10-02T10:56Z",
-  "age_hours": 48,
-  "summary": "När Lotta Karlsson fick jobbet som rektor för Andersbergsskolan i Halmstad för fem år sedan kom hon till en skola i Hallands enda utsatta område. Skolan hade dessutom precis fått underkänt på alla punkter av Skol­inspektionen och hotades av stängning. ”Hur svårt kan det vara?”, tänkte Lotta Karlsson, som äntligen fått jobbet hon drömde om."
  },
  {
   "source": "eSchool News",
@@ -216,187 +226,7 @@
   "title": "Denver is opening more specialized classrooms as the number of students with autism grows",
   "url": "https://www.eschoolnews.com/innovative-teaching/2026/10/02/denver-is-opening-more-specialized-classrooms-as-the-number-of-students-with-autism-grows/",
   "published": "2026-10-02T10:00Z",
-  "age_hours": 47,
-  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/10/students-autism.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"As the number of children identified with autism rises nationwide, more students are needing special education services.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.esc"
- },
- {
-  "source": "Class Tech Tips",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "How to Rethink Screen Time and Build Inclusive Learning Environments – Bonus Episode with VEX Robotics",
-  "url": "https://classtechtips.com/2026/10/02/rethink-screen-time-bonus/",
-  "published": "2026-10-02T09:00Z",
-  "age_hours": 48,
-  "summary": "<p>Rethink screen time with Jason McKenna of VEX Robotics and build inclusive learning environments where every student can engage.</p> <p>The post <a href=\"https://classtechtips.com/2026/10/02/rethink-screen-time-bonus/\">How to Rethink Screen Time and Build Inclusive Learning Environments &#8211; Bonus Episode with VEX Robotics</a> appeared first on <a href=\"https://classtechtips.com\">Class Tech "
- },
- {
-  "source": "Hugging Face Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-  "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-  "published": "2026-10-02T04:01Z",
-  "age_hours": 53,
-  "summary": ""
- },
- {
-  "source": "Midjourney Updates",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Alpha Changelog - 10/1/26",
-  "url": "https://updates.midjourney.com/alpha-changelog-10-1-26/",
-  "published": "2026-10-02T00:57Z",
-  "age_hours": 56,
-  "summary": "<p>ICYMI &#x2013; last week, we launched a few features on <a href=\"https://alpha.midjourney.com/\">alpha.midjourney.com</a> that we&apos;re really excited about: style previews in the sidebar so you can see what you&#x2019;ll get before you generate, larger images in create, and setting default parameters in a folder. Mostly focused</p>"
- },
- {
-  "source": "Anthropic News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-  "url": "https://www.anthropic.com/news/claude-frontier-academy",
-  "published": "2026-10-02T00:00Z",
-  "age_hours": 57,
-  "summary": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap"
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Chatham scales its capital markets expertise with OpenAI",
-  "url": "https://openai.com/index/chatham-financial",
-  "published": "2026-10-02T00:00Z",
-  "age_hours": 57,
-  "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
-  "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-  "published": "2026-10-01T21:08Z",
-  "age_hours": 60,
-  "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "ChatGPT can now virtually try on clothes for you",
-  "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-  "published": "2026-10-01T19:21Z",
-  "age_hours": 61,
-  "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-  "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-  "published": "2026-10-01T19:18Z",
-  "age_hours": 61,
-  "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-  "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-  "published": "2026-10-01T18:14Z",
-  "age_hours": 62,
-  "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-  "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-  "published": "2026-10-01T17:50Z",
-  "age_hours": 63,
-  "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples."
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "The eternal complement",
-  "url": "https://openai.com/index/the-eternal-complement",
-  "published": "2026-10-01T17:00Z",
-  "age_hours": 64,
-  "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Amazon releases its own Jev clone as decision models flood the web",
-  "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-  "published": "2026-10-01T16:49Z",
-  "age_hours": 64,
-  "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B."
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "How Albertsons Companies is reimagining retail from the inside out",
-  "url": "https://openai.com/index/albertsons-reimagining-retail",
-  "published": "2026-10-01T16:00Z",
-  "age_hours": 65,
-  "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
- },
- {
-  "source": "Microsoft AI Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Microsoft 365 and LinkedIn leadership update",
-  "url": "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/",
-  "published": "2026-10-01T15:03Z",
-  "age_hours": 66,
-  "summary": "<p>Satya Nadella, Chairman and CEO, and Ryan Roslansky, Executive Vice President of LinkedIn and Microsoft 365, shared the below communications with Microsoft and LinkedIn employees this morning. SATYA NADELLA MESSAGE After nearly 18 years at LinkedIn and Microsoft, Ryan Roslansky has decided to leave Microsoft and embark on his next chapter. As Ryan and I...</p> <p>The post <a href=\"https://blogs"
- },
- {
-  "source": "EdTech Magazine K-12",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "Google Launches New AI Tools Purpose-Built for Education",
-  "url": "https://edtechmagazine.com/k12/article/2026/10/google-launches-new-ai-tools-purpose-built-education",
-  "published": "2026-10-01T14:16Z",
-  "age_hours": 62,
-  "summary": "Google has rolled out a wave of new artificial intelligence features across its ecosystem of products purpose-built for education. At the heart of these features sits Google Classroom, a learning hub for teachers and students globally. From bringing Classroom information directly into Gemini to bringing AI-powered scaffolding to learning journeys in Classroom, schools can now experience the best o"
- },
- {
-  "source": "EdTech Magazine K-12",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "How Interactive Displays Fit Into a K–12 Device Ecosystem",
-  "url": "https://edtechmagazine.com/k12/article/2026/10/how-interactive-displays-fit-k-12-device-ecosystem",
-  "published": "2026-10-01T14:16Z",
-  "age_hours": 62,
-  "summary": "For K–12 IT teams, managing a fleet of interactive displays spread across dozens of rooms can become a heavy lift. “Each display is a connected teaching device that needs to be configured, secured, updated and supported over many years,” says Sara Murray, executive vice president and chief product officer at SMART Technologies. “For lean IT teams, small things become significant when repeated acro"
- },
- {
-  "source": "Skolledaren",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Krönika: Formativ återkoppling har missförståtts rejält",
-  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/10/kronika-formativ-aterkoppling-har-missforstatts-rejalt/",
-  "published": "2026-10-01T11:07Z",
   "age_hours": 72,
-  "summary": "Formativ återkoppling är ett missförstått begrepp. Den viktigaste återkopplingen i klassrummet är inte den som läraren ger eleven, utan den läraren får från eleverna – så att undervisningen kan utvecklas, skriver Torbjörn Hanö."
- },
- {
-  "source": "eSchool News",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "Cheating is not the problem–it’s a solution (in a zero-sum educational system)",
-  "url": "https://www.eschoolnews.com/educational-leadership/2026/10/01/cheating-is-not-the-problem-its-a-solution-in-a-zero-sum-educational-system/",
-  "published": "2026-10-01T10:00Z",
-  "age_hours": 71,
-  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/09/cheating-cci.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"We need innovations to reinvent schooling around a positive mindset--and eliminate the breeding ground for cheating oneself out of learning.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://www.eschool"
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/10/students-autism.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"As the number of children identified with autism rises nationwide, more students are needing special education services.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.esc"
  }
 ]

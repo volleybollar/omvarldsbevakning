@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T08:40:25Z",
+  "updated": "2026-10-05T09:30:46Z",
   "ok": 20,
   "failed": 1,
   "feeds": [
@@ -19,7 +19,7 @@
       "lang": "en",
       "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/refs/heads/main/feeds/feed_anthropic_news.xml",
       "ok": true,
-      "bytes": 125692
+      "bytes": 127142
     },
     {
       "id": "google_ai",
@@ -73,7 +73,7 @@
       "lang": "en",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "ok": true,
-      "bytes": 19178
+      "bytes": 19298
     },
     {
       "id": "huggingface",
@@ -203,7 +203,7 @@
         "undervisning"
       ],
       "ok": true,
-      "bytes": 100907
+      "bytes": 100051
     }
   ]
 }
