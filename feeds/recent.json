@@ -3,11 +3,201 @@
   "source": "Skolledaren",
   "cat": "skola",
   "lang": "sv",
+  "title": "Rektorn om de tomma stolarna: ”Gör allt vi kan”",
+  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/10/rektorn-om-de-tomma-stolarna-gor-allt-vi-kan/",
+  "published": "2026-10-07T10:03Z",
+  "age_hours": 1,
+  "summary": "Tydliga rutiner och en särskild familjestödjare är en väg att gå när barn inte kommer tillbaka till skolan efter terminsstarten. – I år var det tre tomma stolar hos oss, tidigare har det varit 8–10, säger Cecilia Lindskog, rektor på Västra Engelbrektsskolan i Örebro."
+ },
+ {
+  "source": "Skolledaren",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Svalt intresse för att plugga till förskollärare",
+  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/10/svalt-intresse-for-att-plugga-till-forskollarare/",
+  "published": "2026-10-07T09:44Z",
+  "age_hours": 1,
+  "summary": "Intresset för att studera till förskollärare fortsätter att minska. Nästa höst höjs behörighetskraven, vilket kan leda till att ännu färre söker."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+  "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+  "published": "2026-10-06T22:34Z",
+  "age_hours": 11,
+  "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "How AI decision models could change content moderation",
+  "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+  "published": "2026-10-06T20:35Z",
+  "age_hours": 13,
+  "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+  "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+  "published": "2026-10-06T20:00Z",
+  "age_hours": 13,
+  "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone."
+ },
+ {
+  "source": "Google DeepMind Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+  "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+  "published": "2026-10-06T19:57Z",
+  "age_hours": 13,
+  "summary": ""
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "The next hurdle for AI agents: getting websites to let them in",
+  "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+  "published": "2026-10-06T19:56Z",
+  "age_hours": 13,
+  "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Hark releases an AI personal assistant with a focus on privacy",
+  "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+  "published": "2026-10-06T18:22Z",
+  "age_hours": 15,
+  "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Mirror Particle is building a ‘world model’ of human behavior",
+  "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+  "published": "2026-10-06T16:35Z",
+  "age_hours": 17,
+  "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy."
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+  "url": "https://openai.com/index/atlassian-partnership",
+  "published": "2026-10-06T16:00Z",
+  "age_hours": 17,
+  "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+  "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+  "published": "2026-10-06T16:00Z",
+  "age_hours": 17,
+  "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\""
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "LibreOffice says ‘no AI’ is now a software feature",
+  "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+  "published": "2026-10-06T15:25Z",
+  "age_hours": 18,
+  "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+  "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+  "published": "2026-10-06T14:33Z",
+  "age_hours": 19,
+  "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Pinterest’s AI now turns beauty Pins into action plans",
+  "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+  "published": "2026-10-06T14:00Z",
+  "age_hours": 19,
+  "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+  "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+  "published": "2026-10-06T14:00Z",
+  "age_hours": 19,
+  "summary": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off."
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "How Jump Trading is scaling quant research with ChatGPT",
+  "url": "https://openai.com/index/jump-trading",
+  "published": "2026-10-06T12:00Z",
+  "age_hours": 21,
+  "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Sharing AI progress in mathematics",
+  "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+  "published": "2026-10-06T12:00Z",
+  "age_hours": 21,
+  "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
+ },
+ {
+  "source": "Skolledaren",
+  "cat": "skola",
+  "lang": "sv",
   "title": "Här är politikerna som ska ta plats i utbildningsutskottet",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/10/har-ar-politikerna-som-ska-ta-plats-i-utbildningsutskottet/",
   "published": "2026-10-06T10:51Z",
-  "age_hours": 0,
+  "age_hours": 24,
   "summary": "Här är politikerna som tar plats i riksdagens utbildningsutskott. På tisdagsförmiddagen togs beslut om valberedningens förslag till samtliga utskott."
+ },
+ {
+  "source": "eSchool News",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "“My boss probably used AI”: What school leaders need to know about AI, authenticity, and trust",
+  "url": "https://www.eschoolnews.com/digital-learning/2026/10/06/what-school-leaders-need-to-know-ai-authenticity-trust/",
+  "published": "2026-10-06T10:00Z",
+  "age_hours": 23,
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/10/school-leaders-AI.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"AI can help us communicate more effectively, yet it can also make communication feel less authentic--school leaders must navigate carefully.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" s"
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Advancing computer use with Ironclad",
+  "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+  "published": "2026-10-06T10:00Z",
+  "age_hours": 23,
+  "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
  },
  {
   "source": "Class Tech Tips",
@@ -16,7 +206,7 @@
   "title": "Quick Strategies for Using Podcasts in the Classroom – Easy EdTech Podcast 391",
   "url": "https://classtechtips.com/2026/10/06/podcasts-in-the-classroom-391/",
   "published": "2026-10-06T09:00Z",
-  "age_hours": 0,
+  "age_hours": 24,
   "summary": "<p>Bring podcasts in the classroom to life with engaging ideas that support literacy, collaboration, and student voice.</p> <p>The post <a href=\"https://classtechtips.com/2026/10/06/podcasts-in-the-classroom-391/\">Quick Strategies for Using Podcasts in the Classroom &#8211; Easy EdTech Podcast 391</a> appeared first on <a href=\"https://classtechtips.com\">Class Tech Tips</a>.</p>"
  },
  {
@@ -26,8 +216,18 @@
   "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
   "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
   "published": "2026-10-06T06:44Z",
-  "age_hours": 3,
+  "age_hours": 26,
   "summary": ""
+ },
+ {
+  "source": "Anthropic News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Expanding the Cyber Verification Program",
+  "url": "https://www.anthropic.com/news/cyber-verification-program",
+  "published": "2026-10-06T00:00Z",
+  "age_hours": 33,
+  "summary": "Expanding the Cyber Verification Program"
  },
  {
   "source": "THE Journal",
@@ -36,7 +236,7 @@
   "title": "AI Ambitions Are Running Into a Network Infrastructure Trust Problem",
   "url": "https://thejournal.com/articles/2026/10/05/ai-ambitions-are-running-into-a-network-infrastructure-trust-problem.aspx",
   "published": "2026-10-05T22:21Z",
-  "age_hours": 11,
+  "age_hours": 35,
   "summary": "Network-provider trust concerns are impacting enterprise AI plans, with AI and data-driven projects the most affected initiatives among respondents reporting disruption, according to a report from telecommunications provider Arelion."
  },
  {
@@ -46,7 +246,7 @@
   "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
   "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
   "published": "2026-10-05T20:36Z",
-  "age_hours": 13,
+  "age_hours": 36,
   "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says."
  },
  {
@@ -56,7 +256,7 @@
   "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
   "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
   "published": "2026-10-05T19:33Z",
-  "age_hours": 14,
+  "age_hours": 38,
   "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data."
  },
  {
@@ -66,7 +266,7 @@
   "title": "Instinct brings its AI agent to group chats, even for friends without an account",
   "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
   "published": "2026-10-05T18:54Z",
-  "age_hours": 14,
+  "age_hours": 38,
   "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action."
  },
  {
@@ -76,7 +276,7 @@
   "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
   "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
   "published": "2026-10-05T18:29Z",
-  "age_hours": 15,
+  "age_hours": 39,
   "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products."
  },
  {
@@ -86,7 +286,7 @@
   "title": "OpenAI Getting Rid of Custom GPTs and Moving to Plugin Architecture",
   "url": "https://thejournal.com/articles/2026/10/05/openai-getting-rid-of-custom-gpts-and-moving-to-plugin-architecture.aspx",
   "published": "2026-10-05T17:30Z",
-  "age_hours": 16,
+  "age_hours": 40,
   "summary": "OpenAI has announced it will retire Custom GPTs and move the specialized workflows built around them to a new plugin architecture spanning ChatGPT and its Codex coding agent."
  },
  {
@@ -96,7 +296,7 @@
   "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
   "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
   "published": "2026-10-05T17:29Z",
-  "age_hours": 16,
+  "age_hours": 40,
   "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency."
  },
  {
@@ -106,7 +306,7 @@
   "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
   "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
   "published": "2026-10-05T16:43Z",
-  "age_hours": 17,
+  "age_hours": 40,
   "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers."
  },
  {
@@ -116,7 +316,7 @@
   "title": "Free period products in schools help girls and young women, but only when they’re available",
   "url": "https://theconversation.com/free-period-products-in-schools-help-girls-and-young-women-but-only-when-theyre-available-292431",
   "published": "2026-10-05T16:39Z",
-  "age_hours": 17,
+  "age_hours": 40,
   "summary": "More than half of students had missed at least part of a school day because of their period. When asked why, about one-third said they had been without pads or tampons when they needed them."
  },
  {
@@ -126,7 +326,7 @@
   "title": "OpenAI launches visual ads that appear alongside image generation results",
   "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
   "published": "2026-10-05T15:14Z",
-  "age_hours": 18,
+  "age_hours": 42,
   "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers."
  },
  {
@@ -136,48 +336,8 @@
   "title": "Our approach to EU text provenance rules",
   "url": "https://openai.com/index/eu-text-provenance",
   "published": "2026-10-05T15:00Z",
-  "age_hours": 18,
+  "age_hours": 42,
   "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-  "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-  "published": "2026-10-05T15:00Z",
-  "age_hours": 18,
-  "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-  "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-  "published": "2026-10-05T14:35Z",
-  "age_hours": 19,
-  "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-  "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-  "published": "2026-10-05T14:30Z",
-  "age_hours": 19,
-  "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-  "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-  "published": "2026-10-05T14:00Z",
-  "age_hours": 19,
-  "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off."
  },
  {
   "source": "The Conversation — Canada Education",
@@ -186,7 +346,7 @@
   "title": "How ‘technoference’ can disrupt parent-child connections",
   "url": "https://theconversation.com/how-technoference-can-disrupt-parent-child-connections-292863",
   "published": "2026-10-05T13:42Z",
-  "age_hours": 20,
+  "age_hours": 43,
   "summary": "A study finds that in the moments when parents checked their phones or smart watches they were almost six times more likely to miss their children’s signals."
  },
  {
@@ -196,18 +356,8 @@
   "title": "Why it’s more important than ever to jump-start entrepreneurial careers from the college classroom",
   "url": "https://theconversation.com/why-its-more-important-than-ever-to-jump-start-entrepreneurial-careers-from-the-college-classroom-292831",
   "published": "2026-10-05T12:16Z",
-  "age_hours": 21,
+  "age_hours": 45,
   "summary": "Hands-on learning about building a business is something students of all majors can benefit from."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-  "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-  "published": "2026-10-05T12:00Z",
-  "age_hours": 21,
-  "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones."
  },
  {
   "source": "Skolledaren",
@@ -216,7 +366,7 @@
   "title": "Krönika: Är mötet du kallar till viktigare än undervisningen?",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/10/kronika-ar-motet-du-kallar-till-viktigare-an-undervisningen/",
   "published": "2026-10-05T11:41Z",
-  "age_hours": 24,
+  "age_hours": 47,
   "summary": "En fråga alla skolledare bör ställa sig innan man skickar ut mötesinbjudan borde vara: ”Är det här mötet viktigare än undervisningen?” Det menar skolledaren Linnea Lindquist."
  },
  {
@@ -226,7 +376,7 @@
   "title": "The Real Cost of a Student Device: A Total Cost of Ownership Guide",
   "url": "https://edtechmagazine.com/k12/article/2026/10/real-cost-student-device-total-cost-ownership-guide",
   "published": "2026-10-05T11:03Z",
-  "age_hours": 18,
+  "age_hours": 42,
   "summary": "When a district buys student devices, it’s also committing money and staff time to configuring, licensing, managing, repairing and retiring them — expenses that accumulate across thousands of endpoints and several budget cycles. This makes factoring in the total cost of ownership (TCO) critical to the purchasing decision. A device with a higher price tag may ultimately cost less when it lasts long"
  },
  {
@@ -236,8 +386,8 @@
   "title": "Learner agency comes first in AI-driven digital literacy",
   "url": "https://www.eschoolnews.com/digital-learning/2026/10/05/learner-agency-comes-first-in-ai-driven-digital-literacy/",
   "published": "2026-10-05T10:00Z",
-  "age_hours": 23,
-  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/09/AI-digital-literacy.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Curriculum must evolve beyond AI tools and teach learner agency, judgment, verification, and critical thinking for true digital literacy.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" sr"
+  "age_hours": 47,
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/09/AI-digital-literacy.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Curriculum must evolve beyond AI tools and teach learner agency, judgment, verification, and critical thinking for true digital literacy.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://www.esc"
  },
  {
   "source": "OpenAI News",
@@ -246,7 +396,7 @@
   "title": "Building advertising for the way people use AI",
   "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
   "published": "2026-10-05T10:00Z",
-  "age_hours": 23,
+  "age_hours": 47,
   "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
  },
  {
@@ -256,77 +406,7 @@
   "title": "Will Kids Pay the Price for AI Panic?",
   "url": "https://edsurge.com/news/will-kids-pay-the-price-for-ai-panic",
   "published": "2026-10-05T00:00Z",
-  "age_hours": 33,
+  "age_hours": 57,
   "summary": "A backlash against classroom AI is sweeping public schools. But as New Mexico shows, blanket bans risk robbing students of early literacy interventions."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-  "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-  "published": "2026-10-04T20:31Z",
-  "age_hours": 37,
-  "summary": "AI slop seems to be overwhelming bug bounty programs."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-  "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-  "published": "2026-10-04T20:08Z",
-  "age_hours": 37,
-  "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Trump unveils his new Super Intelligence Force",
-  "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-  "published": "2026-10-04T15:15Z",
-  "age_hours": 42,
-  "summary": "This new task force is Trump's latest response to the debate over AI safety."
- },
- {
-  "source": "Hugging Face Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "The Agent Said It Was Done. The Database Disagreed.",
-  "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-  "published": "2026-10-03T22:56Z",
-  "age_hours": 58,
-  "summary": ""
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-  "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-  "published": "2026-10-03T18:43Z",
-  "age_hours": 63,
-  "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-  "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-  "published": "2026-10-03T16:30Z",
-  "age_hours": 65,
-  "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "All the AI agents that can live in your text messages",
-  "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-  "published": "2026-10-03T14:00Z",
-  "age_hours": 67,
-  "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
  }
 ]
