@@ -1,13 +1,263 @@
 [
  {
+  "source": "Apple Newsroom",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Apple, The King’s Trust launch initiative to empower young creatives",
+  "url": "https://www.apple.com/newsroom/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives/",
+  "published": "2026-10-07T21:01Z",
+  "age_hours": 12,
+  "summary": "Apple and The King’s Trust are building on their longstanding partnership by launching an immersive new education program to help young people move into the world of work."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+  "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+  "published": "2026-10-07T20:48Z",
+  "age_hours": 13,
+  "summary": "The developer of Hermes Agent raised a $90 million Series B."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+  "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+  "published": "2026-10-07T20:22Z",
+  "age_hours": 13,
+  "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+  "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+  "published": "2026-10-07T18:30Z",
+  "age_hours": 15,
+  "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+  "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+  "published": "2026-10-07T18:15Z",
+  "age_hours": 15,
+  "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+  "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+  "published": "2026-10-07T18:00Z",
+  "age_hours": 15,
+  "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT."
+ },
+ {
+  "source": "THE Journal",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Survey Identifies Data Governance Enforcement Gap for Agentic AI Tools",
+  "url": "https://thejournal.com/articles/2026/10/07/survey-identifies-data-governance-enforcement-gap-for-agentic-ai-tools.aspx",
+  "published": "2026-10-07T17:43Z",
+  "age_hours": 16,
+  "summary": "According to a new survey from identity security company Delinea, 99.7% of IT and security leaders said their organization has a formal policy governing what data AI tools and agents are permitted to access. Yet only about 51% said AI access is checked against those policies in real time."
+ },
+ {
+  "source": "THE Journal",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "OpenAI Intros Dots, AI Agents that Continue Working Between User Conversations",
+  "url": "https://thejournal.com/articles/2026/10/07/openai-intros-dots-ai-agents-that-continue-working-between-user-conversations.aspx",
+  "published": "2026-10-07T17:07Z",
+  "age_hours": 16,
+  "summary": "OpenAI has introduced Dots, GPT-6 Astra-powered agents that run on their own cloud computers, using connected applications to carry on with assignments between conversations and incorporating users' feedback as they go."
+ },
+ {
+  "source": "Hugging Face Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Multimodal open d1 decision models for the edge",
+  "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+  "published": "2026-10-07T16:54Z",
+  "age_hours": 16,
+  "summary": ""
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+  "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+  "published": "2026-10-07T16:53Z",
+  "age_hours": 16,
+  "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online."
+ },
+ {
+  "source": "THE Journal",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Research: Lack of Specialized Infrastructure Is a Top AI Adoption Challenge",
+  "url": "https://thejournal.com/articles/2026/10/07/research-lack-of-specialized-infrastructure-is-a-top-ai-adoption-challenge.aspx",
+  "published": "2026-10-07T16:44Z",
+  "age_hours": 17,
+  "summary": "Enterprise AI projects are running into infrastructure questions as organizations move from planning toward deployment, according to recent research from Digital Realty."
+ },
+ {
+  "source": "The Conversation — Canada Education",
+  "cat": "skola",
+  "lang": "en",
+  "title": "We need stronger sexual health education — the ‘Cornell 7’ case shows why",
+  "url": "https://theconversation.com/we-need-stronger-sexual-health-education-the-cornell-7-case-shows-why-293516",
+  "published": "2026-10-07T16:07Z",
+  "age_hours": 17,
+  "summary": "Allegations of sexual assault at Cornell University, and the public response to them, reveal persistent misunderstandings about consent, bystander responsibility and sexual violence."
+ },
+ {
+  "source": "Skolledaren",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Rektor anmälde inte brott på skola – döms",
+  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/10/rektor-anmalde-inte-brott-pa-skola--doms/",
+  "published": "2026-10-07T15:16Z",
+  "age_hours": 20,
+  "summary": "En rektor på en skola i Västerbotten döms för tjänstefel eftersom han inte polisanmälde ett misstänkt brott som begåtts av en elev på skolan, rapporterar lokala medier."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+  "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+  "published": "2026-10-07T15:07Z",
+  "age_hours": 18,
+  "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+  "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+  "published": "2026-10-07T14:41Z",
+  "age_hours": 19,
+  "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Google experiments with an AI-powered gaming platform",
+  "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+  "published": "2026-10-07T14:36Z",
+  "age_hours": 19,
+  "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+  "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+  "published": "2026-10-07T14:30Z",
+  "age_hours": 19,
+  "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+  "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+  "published": "2026-10-07T14:15Z",
+  "age_hours": 19,
+  "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+  "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+  "published": "2026-10-07T14:00Z",
+  "age_hours": 19,
+  "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Google’s new SynthID website can identify AI-generated media",
+  "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+  "published": "2026-10-07T14:00Z",
+  "age_hours": 19,
+  "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI."
+ },
+ {
+  "source": "Hugging Face Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+  "published": "2026-10-07T12:45Z",
+  "age_hours": 21,
+  "summary": ""
+ },
+ {
+  "source": "EdTech Magazine K-12",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Supporting Career and Technical Education Programs With the Right Technology",
+  "url": "https://edtechmagazine.com/k12/article/2026/10/supporting-career-and-technical-education-programs-right-technology",
+  "published": "2026-10-07T12:13Z",
+  "age_hours": 17,
+  "summary": "Career and technical education (CTE) is evolving to meet the demands of modern industries. Growing numbers of high school students are choosing it as a viable post-graduation pathway to steady, well-paying jobs. This means district IT leaders are tasked with not just supporting classroom tools but also enabling scalable, secure and future-ready career pathways. Click the banner to learn how the Hu"
+ },
+ {
+  "source": "The Conversation — Education",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "AI can help with academic research but doesn’t always get it right – here are some tips to check the information you receive",
+  "url": "https://theconversation.com/ai-can-help-with-academic-research-but-doesnt-always-get-it-right-here-are-some-tips-to-check-the-information-you-receive-292865",
+  "published": "2026-10-07T12:11Z",
+  "age_hours": 21,
+  "summary": "AI is quickly changing. These tips from university librarians can help people keep pace with the shifts as they approach their research."
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Helping teens learn, plan, and shape the future of AI",
+  "url": "https://openai.com/index/teens-learn-and-plan",
+  "published": "2026-10-07T12:00Z",
+  "age_hours": 21,
+  "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
+ },
+ {
   "source": "Skolledaren",
   "cat": "skola",
   "lang": "sv",
   "title": "Rektorn om de tomma stolarna: ”Gör allt vi kan”",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/10/rektorn-om-de-tomma-stolarna-gor-allt-vi-kan/",
   "published": "2026-10-07T10:03Z",
-  "age_hours": 1,
+  "age_hours": 25,
   "summary": "Tydliga rutiner och en särskild familjestödjare är en väg att gå när barn inte kommer tillbaka till skolan efter terminsstarten. – I år var det tre tomma stolar hos oss, tidigare har det varit 8–10, säger Cecilia Lindskog, rektor på Västra Engelbrektsskolan i Örebro."
+ },
+ {
+  "source": "eSchool News",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "We need a continuous K–12 literacy system",
+  "url": "https://www.eschoolnews.com/innovative-teaching/2026/10/07/we-need-a-continuous-k-12-literacy-system/",
+  "published": "2026-10-07T10:00Z",
+  "age_hours": 23,
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/10/k-12-literacy.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Early literacy investments are working, but middle and high school students need more support to round out a comprehensive K-12 approach.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcset=\""
  },
  {
   "source": "Skolledaren",
@@ -16,8 +266,58 @@
   "title": "Svalt intresse för att plugga till förskollärare",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/10/svalt-intresse-for-att-plugga-till-forskollarare/",
   "published": "2026-10-07T09:44Z",
-  "age_hours": 1,
+  "age_hours": 26,
   "summary": "Intresset för att studera till förskollärare fortsätter att minska. Nästa höst höjs behörighetskraven, vilket kan leda till att ännu färre söker."
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+  "url": "https://openai.com/index/radisson",
+  "published": "2026-10-07T07:00Z",
+  "age_hours": 26,
+  "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
+ },
+ {
+  "source": "EdSurge",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Why Do So Many Teachers Crash in October?",
+  "url": "https://edsurge.com/news/why-do-so-many-teachers-crash-in-october",
+  "published": "2026-10-07T00:00Z",
+  "age_hours": 33,
+  "summary": "In this episode, author Mike Anderson discusses ways teachers can fight off the October Blues."
+ },
+ {
+  "source": "EdSurge",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "How Coding Can Cultivate Deep Civic Engagement",
+  "url": "https://edsurge.com/news/how-coding-can-cultivate-deep-civic-engagement",
+  "published": "2026-10-07T00:00Z",
+  "age_hours": 33,
+  "summary": "Incorporating learning from historic social movements into tech education ignites student interest in shaping the future."
+ },
+ {
+  "source": "EdSurge",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "How Some Small, Rural Districts Are Winning the Attendance Struggle",
+  "url": "https://edsurge.com/news/how-some-small-rural-districts-are-winning-the-attendance-struggle",
+  "published": "2026-10-07T00:00Z",
+  "age_hours": 33,
+  "summary": "New study finds that small and rural districts lead the fight against absenteeism."
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "GPT-6 and Intelligent UI for everyone",
+  "url": "https://openai.com/index/gpt-6-for-everyone",
+  "published": "2026-10-07T00:00Z",
+  "age_hours": 33,
+  "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
  },
  {
   "source": "TechCrunch AI",
@@ -26,7 +326,7 @@
   "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
   "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
   "published": "2026-10-06T22:34Z",
-  "age_hours": 11,
+  "age_hours": 35,
   "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns."
  },
  {
@@ -36,7 +336,7 @@
   "title": "How AI decision models could change content moderation",
   "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
   "published": "2026-10-06T20:35Z",
-  "age_hours": 13,
+  "age_hours": 37,
   "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights."
  },
  {
@@ -46,7 +346,7 @@
   "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
   "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
   "published": "2026-10-06T20:00Z",
-  "age_hours": 13,
+  "age_hours": 37,
   "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone."
  },
  {
@@ -56,7 +356,7 @@
   "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
   "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
   "published": "2026-10-06T19:57Z",
-  "age_hours": 13,
+  "age_hours": 37,
   "summary": ""
  },
  {
@@ -66,7 +366,7 @@
   "title": "The next hurdle for AI agents: getting websites to let them in",
   "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
   "published": "2026-10-06T19:56Z",
-  "age_hours": 13,
+  "age_hours": 37,
   "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help."
  },
  {
@@ -76,7 +376,7 @@
   "title": "Hark releases an AI personal assistant with a focus on privacy",
   "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
   "published": "2026-10-06T18:22Z",
-  "age_hours": 15,
+  "age_hours": 39,
   "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct."
  },
  {
@@ -86,7 +386,7 @@
   "title": "Mirror Particle is building a ‘world model’ of human behavior",
   "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
   "published": "2026-10-06T16:35Z",
-  "age_hours": 17,
+  "age_hours": 41,
   "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy."
  },
  {
@@ -96,7 +396,7 @@
   "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
   "url": "https://openai.com/index/atlassian-partnership",
   "published": "2026-10-06T16:00Z",
-  "age_hours": 17,
+  "age_hours": 41,
   "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
  },
  {
@@ -106,48 +406,8 @@
   "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
   "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
   "published": "2026-10-06T16:00Z",
-  "age_hours": 17,
+  "age_hours": 41,
   "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\""
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "LibreOffice says ‘no AI’ is now a software feature",
-  "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-  "published": "2026-10-06T15:25Z",
-  "age_hours": 18,
-  "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-  "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-  "published": "2026-10-06T14:33Z",
-  "age_hours": 19,
-  "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Pinterest’s AI now turns beauty Pins into action plans",
-  "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-  "published": "2026-10-06T14:00Z",
-  "age_hours": 19,
-  "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
-  "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
-  "published": "2026-10-06T14:00Z",
-  "age_hours": 19,
-  "summary": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off."
  },
  {
   "source": "OpenAI News",
@@ -156,7 +416,7 @@
   "title": "How Jump Trading is scaling quant research with ChatGPT",
   "url": "https://openai.com/index/jump-trading",
   "published": "2026-10-06T12:00Z",
-  "age_hours": 21,
+  "age_hours": 45,
   "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
  },
  {
@@ -166,7 +426,7 @@
   "title": "Sharing AI progress in mathematics",
   "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
   "published": "2026-10-06T12:00Z",
-  "age_hours": 21,
+  "age_hours": 45,
   "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
  },
  {
@@ -176,7 +436,7 @@
   "title": "Här är politikerna som ska ta plats i utbildningsutskottet",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/10/har-ar-politikerna-som-ska-ta-plats-i-utbildningsutskottet/",
   "published": "2026-10-06T10:51Z",
-  "age_hours": 24,
+  "age_hours": 49,
   "summary": "Här är politikerna som tar plats i riksdagens utbildningsutskott. På tisdagsförmiddagen togs beslut om valberedningens förslag till samtliga utskott."
  },
  {
@@ -186,8 +446,8 @@
   "title": "“My boss probably used AI”: What school leaders need to know about AI, authenticity, and trust",
   "url": "https://www.eschoolnews.com/digital-learning/2026/10/06/what-school-leaders-need-to-know-ai-authenticity-trust/",
   "published": "2026-10-06T10:00Z",
-  "age_hours": 23,
-  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/10/school-leaders-AI.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"AI can help us communicate more effectively, yet it can also make communication feel less authentic--school leaders must navigate carefully.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" s"
+  "age_hours": 47,
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/10/school-leaders-AI.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"AI can help us communicate more effectively, yet it can also make communication feel less authentic--school leaders must navigate carefully.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://www.es"
  },
  {
   "source": "OpenAI News",
@@ -196,7 +456,7 @@
   "title": "Advancing computer use with Ironclad",
   "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
   "published": "2026-10-06T10:00Z",
-  "age_hours": 23,
+  "age_hours": 47,
   "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
  },
  {
@@ -206,18 +466,8 @@
   "title": "Quick Strategies for Using Podcasts in the Classroom – Easy EdTech Podcast 391",
   "url": "https://classtechtips.com/2026/10/06/podcasts-in-the-classroom-391/",
   "published": "2026-10-06T09:00Z",
-  "age_hours": 24,
+  "age_hours": 48,
   "summary": "<p>Bring podcasts in the classroom to life with engaging ideas that support literacy, collaboration, and student voice.</p> <p>The post <a href=\"https://classtechtips.com/2026/10/06/podcasts-in-the-classroom-391/\">Quick Strategies for Using Podcasts in the Classroom &#8211; Easy EdTech Podcast 391</a> appeared first on <a href=\"https://classtechtips.com\">Class Tech Tips</a>.</p>"
- },
- {
-  "source": "Hugging Face Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-  "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-  "published": "2026-10-06T06:44Z",
-  "age_hours": 26,
-  "summary": ""
  },
  {
   "source": "Anthropic News",
@@ -226,7 +476,7 @@
   "title": "Expanding the Cyber Verification Program",
   "url": "https://www.anthropic.com/news/cyber-verification-program",
   "published": "2026-10-06T00:00Z",
-  "age_hours": 33,
+  "age_hours": 57,
   "summary": "Expanding the Cyber Verification Program"
  },
  {
@@ -236,48 +486,8 @@
   "title": "AI Ambitions Are Running Into a Network Infrastructure Trust Problem",
   "url": "https://thejournal.com/articles/2026/10/05/ai-ambitions-are-running-into-a-network-infrastructure-trust-problem.aspx",
   "published": "2026-10-05T22:21Z",
-  "age_hours": 35,
+  "age_hours": 59,
   "summary": "Network-provider trust concerns are impacting enterprise AI plans, with AI and data-driven projects the most affected initiatives among respondents reporting disruption, according to a report from telecommunications provider Arelion."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-  "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-  "published": "2026-10-05T20:36Z",
-  "age_hours": 36,
-  "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-  "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-  "published": "2026-10-05T19:33Z",
-  "age_hours": 38,
-  "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-  "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-  "published": "2026-10-05T18:54Z",
-  "age_hours": 38,
-  "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-  "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-  "published": "2026-10-05T18:29Z",
-  "age_hours": 39,
-  "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products."
  },
  {
   "source": "THE Journal",
@@ -286,28 +496,8 @@
   "title": "OpenAI Getting Rid of Custom GPTs and Moving to Plugin Architecture",
   "url": "https://thejournal.com/articles/2026/10/05/openai-getting-rid-of-custom-gpts-and-moving-to-plugin-architecture.aspx",
   "published": "2026-10-05T17:30Z",
-  "age_hours": 40,
+  "age_hours": 64,
   "summary": "OpenAI has announced it will retire Custom GPTs and move the specialized workflows built around them to a new plugin architecture spanning ChatGPT and its Codex coding agent."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-  "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-  "published": "2026-10-05T17:29Z",
-  "age_hours": 40,
-  "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-  "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-  "published": "2026-10-05T16:43Z",
-  "age_hours": 40,
-  "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers."
  },
  {
   "source": "The Conversation — Canada Education",
@@ -316,18 +506,8 @@
   "title": "Free period products in schools help girls and young women, but only when they’re available",
   "url": "https://theconversation.com/free-period-products-in-schools-help-girls-and-young-women-but-only-when-theyre-available-292431",
   "published": "2026-10-05T16:39Z",
-  "age_hours": 40,
+  "age_hours": 65,
   "summary": "More than half of students had missed at least part of a school day because of their period. When asked why, about one-third said they had been without pads or tampons when they needed them."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "OpenAI launches visual ads that appear alongside image generation results",
-  "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-  "published": "2026-10-05T15:14Z",
-  "age_hours": 42,
-  "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers."
  },
  {
   "source": "OpenAI News",
@@ -336,7 +516,7 @@
   "title": "Our approach to EU text provenance rules",
   "url": "https://openai.com/index/eu-text-provenance",
   "published": "2026-10-05T15:00Z",
-  "age_hours": 42,
+  "age_hours": 66,
   "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
  },
  {
@@ -346,7 +526,7 @@
   "title": "How ‘technoference’ can disrupt parent-child connections",
   "url": "https://theconversation.com/how-technoference-can-disrupt-parent-child-connections-292863",
   "published": "2026-10-05T13:42Z",
-  "age_hours": 43,
+  "age_hours": 68,
   "summary": "A study finds that in the moments when parents checked their phones or smart watches they were almost six times more likely to miss their children’s signals."
  },
  {
@@ -356,7 +536,7 @@
   "title": "Why it’s more important than ever to jump-start entrepreneurial careers from the college classroom",
   "url": "https://theconversation.com/why-its-more-important-than-ever-to-jump-start-entrepreneurial-careers-from-the-college-classroom-292831",
   "published": "2026-10-05T12:16Z",
-  "age_hours": 45,
+  "age_hours": 69,
   "summary": "Hands-on learning about building a business is something students of all majors can benefit from."
  },
  {
@@ -366,7 +546,7 @@
   "title": "Krönika: Är mötet du kallar till viktigare än undervisningen?",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/10/kronika-ar-motet-du-kallar-till-viktigare-an-undervisningen/",
   "published": "2026-10-05T11:41Z",
-  "age_hours": 47,
+  "age_hours": 72,
   "summary": "En fråga alla skolledare bör ställa sig innan man skickar ut mötesinbjudan borde vara: ”Är det här mötet viktigare än undervisningen?” Det menar skolledaren Linnea Lindquist."
  },
  {
@@ -376,7 +556,7 @@
   "title": "The Real Cost of a Student Device: A Total Cost of Ownership Guide",
   "url": "https://edtechmagazine.com/k12/article/2026/10/real-cost-student-device-total-cost-ownership-guide",
   "published": "2026-10-05T11:03Z",
-  "age_hours": 42,
+  "age_hours": 66,
   "summary": "When a district buys student devices, it’s also committing money and staff time to configuring, licensing, managing, repairing and retiring them — expenses that accumulate across thousands of endpoints and several budget cycles. This makes factoring in the total cost of ownership (TCO) critical to the purchasing decision. A device with a higher price tag may ultimately cost less when it lasts long"
  },
  {
@@ -386,8 +566,8 @@
   "title": "Learner agency comes first in AI-driven digital literacy",
   "url": "https://www.eschoolnews.com/digital-learning/2026/10/05/learner-agency-comes-first-in-ai-driven-digital-literacy/",
   "published": "2026-10-05T10:00Z",
-  "age_hours": 47,
-  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/09/AI-digital-literacy.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Curriculum must evolve beyond AI tools and teach learner agency, judgment, verification, and critical thinking for true digital literacy.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://www.esc"
+  "age_hours": 71,
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/09/AI-digital-literacy.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Curriculum must evolve beyond AI tools and teach learner agency, judgment, verification, and critical thinking for true digital literacy.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" srcset=\""
  },
  {
   "source": "OpenAI News",
@@ -396,17 +576,7 @@
   "title": "Building advertising for the way people use AI",
   "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
   "published": "2026-10-05T10:00Z",
-  "age_hours": 47,
+  "age_hours": 71,
   "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
- },
- {
-  "source": "EdSurge",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "Will Kids Pay the Price for AI Panic?",
-  "url": "https://edsurge.com/news/will-kids-pay-the-price-for-ai-panic",
-  "published": "2026-10-05T00:00Z",
-  "age_hours": 57,
-  "summary": "A backlash against classroom AI is sweeping public schools. But as New Mexico shows, blanket bans risk robbing students of early literacy interventions."
  }
 ]
