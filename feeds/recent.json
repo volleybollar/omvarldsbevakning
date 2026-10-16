@@ -1,12 +1,222 @@
 [
  {
+  "source": "Skolledaren",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Skolledarna vill se överklagan: ”Vill att frågan prövas helt och fullt”",
+  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/10/skolledarna-vill-se-overklagan-vill-att-fragan-provas-helt-och-fullt/",
+  "published": "2026-10-16T08:41Z",
+  "age_hours": 1,
+  "summary": "Sveriges Skolledare vill att domen där rektorn från Västerbotten dömts för tjänstefel ska överklagas. Man uppmanar också sina medlemmar att polisanmäla allt som kan vara ett brott. – Vi välkomnar ett överklagande av den här domen och ser gärna att den här frågan prövas helt och fullt, säger Niklas Bolin-Djanaieff, förbundsjurist på Sveriges Skolledare."
+ },
+ {
+  "source": "Hugging Face Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+  "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+  "published": "2026-10-16T01:44Z",
+  "age_hours": 6,
+  "summary": ""
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+  "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+  "published": "2026-10-15T23:44Z",
+  "age_hours": 8,
+  "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March."
+ },
+ {
+  "source": "Skolledaren",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Medlem: Så hanterade rektor Tina skyddsstoppen",
+  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/10/medlem-sa-hanterade-rektor-tina-skyddsstoppen/",
+  "published": "2026-10-15T21:15Z",
+  "age_hours": 12,
+  "summary": "Att komma till rätta med arbetsmiljön inom undervisning, där hot och våld från svårt problemskapande elever förekommer, är en utmaning. Men det går. Rektor Tina Nahkuri von Eichwald har framgångsrikt hanterat tre skyddsstopp."
+ },
+ {
+  "source": "Skolledaren",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Krönika: Konsten att slippa bassängen",
+  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/10/kronika-konsten-att-slippa-bassangen/",
+  "published": "2026-10-15T20:59Z",
+  "age_hours": 12,
+  "summary": "Att hjälpa ett barn är inte alltid att ta bort det svåra. Ibland är det att stanna kvar bredvid medan barnet gör något svårt fler gånger än andra behöver, skriver rektor Anna Lena Oscarson."
+ },
+ {
+  "source": "Hugging Face Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+  "published": "2026-10-15T20:34Z",
+  "age_hours": 11,
+  "summary": ""
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Meta launches an open-weight AI model that runs on Macs",
+  "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+  "published": "2026-10-15T20:04Z",
+  "age_hours": 11,
+  "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+  "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+  "published": "2026-10-15T19:55Z",
+  "age_hours": 12,
+  "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+  "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+  "published": "2026-10-15T19:14Z",
+  "age_hours": 12,
+  "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them."
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Bringing GPT-Rosalind to academic research labs",
+  "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+  "published": "2026-10-15T19:00Z",
+  "age_hours": 12,
+  "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+  "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+  "published": "2026-10-15T18:56Z",
+  "age_hours": 13,
+  "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+  "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+  "published": "2026-10-15T18:00Z",
+  "age_hours": 13,
+  "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "AI agents are coming to Rivian’s cars",
+  "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+  "published": "2026-10-15T15:02Z",
+  "age_hours": 16,
+  "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Google’s Universal Cart shopping tool launches in the US",
+  "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+  "published": "2026-10-15T14:29Z",
+  "age_hours": 17,
+  "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "TechCrunch Disrupt 2026: Last day",
+  "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+  "published": "2026-10-15T14:00Z",
+  "age_hours": 17,
+  "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now."
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Teaching students to think and learn through questions",
+  "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+  "published": "2026-10-15T13:00Z",
+  "age_hours": 18,
+  "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
+ },
+ {
+  "source": "Apple Newsroom",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Open up to new possibilities with iPhone Duo",
+  "url": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
+  "published": "2026-10-15T12:59Z",
+  "age_hours": 18,
+  "summary": "Beginning Friday, October 16, at 5 a.m. PT, customers can pre-order iPhone Duo on apple.com and in the Apple Store app."
+ },
+ {
+  "source": "The Conversation — Education",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Do you think teachers are similar to coaches, pastors or something else? It depends on where you live",
+  "url": "https://theconversation.com/do-you-think-teachers-are-similar-to-coaches-pastors-or-something-else-it-depends-on-where-you-live-294029",
+  "published": "2026-10-15T12:15Z",
+  "age_hours": 19,
+  "summary": "Across three countries, people agree that teaching is centered on the teacher-student relationship. But they don’t agree on which profession teaching most resembles."
+ },
+ {
+  "source": "Class Tech Tips",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "7 Low-Prep Ways to Use Free Reading Passages for Teachers",
+  "url": "https://classtechtips.com/2026/10/15/free-reading-passages-for-teachers/",
+  "published": "2026-10-15T12:06Z",
+  "age_hours": 19,
+  "summary": "<p>Looking for free reading passages for teachers? Find 7 ways to use ReadWorks articles to build knowledge and enrich what you already teach.</p> <p>The post <a href=\"https://classtechtips.com/2026/10/15/free-reading-passages-for-teachers/\">7 Low-Prep Ways to Use Free Reading Passages for Teachers</a> appeared first on <a href=\"https://classtechtips.com\">Class Tech Tips</a>.</p>"
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+  "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+  "published": "2026-10-15T12:00Z",
+  "age_hours": 19,
+  "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99."
+ },
+ {
+  "source": "eSchool News",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Vibe coding: 3 easy steps to classroom magic",
+  "url": "https://www.eschoolnews.com/digital-learning/2026/10/15/vibe-coding-3-easy-steps-to-classroom-magic/",
+  "published": "2026-10-15T10:00Z",
+  "age_hours": 21,
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/10/AI-classrooms.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"By approaching AI with curiosity and creativity, educators can use emerging tools to bring new ideas to classrooms\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.eschoolnews"
+ },
+ {
   "source": "TechCrunch AI",
   "cat": "ai",
   "lang": "en",
   "title": "Figma announces new features to define how agents work on its platform",
   "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
   "published": "2026-10-15T04:30Z",
-  "age_hours": 3,
+  "age_hours": 27,
   "summary": "Figma is also releasing its code layers feature in open beta."
  },
  {
@@ -16,8 +226,58 @@
   "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
   "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
   "published": "2026-10-15T01:01Z",
-  "age_hours": 7,
+  "age_hours": 30,
   "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process."
+ },
+ {
+  "source": "Anthropic News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "An update on independent evaluators",
+  "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+  "published": "2026-10-15T00:00Z",
+  "age_hours": 31,
+  "summary": "An update on independent evaluators"
+ },
+ {
+  "source": "EdSurge",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Can High-Impact Tutoring Survive Post-Pandemic Funding Loss?",
+  "url": "https://edsurge.com/news/can-high-impact-tutoring-survive-post-pandemic-funding-loss",
+  "published": "2026-10-15T00:00Z",
+  "age_hours": 31,
+  "summary": "Some districts have reduced or paused “high-dosage” tutoring, while others are finding ways to save the most effective aspects of their programs."
+ },
+ {
+  "source": "Hugging Face Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+  "url": "https://huggingface.co/blog/meta-muse-spark-open",
+  "published": "2026-10-15T00:00Z",
+  "age_hours": 31,
+  "summary": ""
+ },
+ {
+  "source": "Hugging Face Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Welcome FLUX.3 Image Klein in Diffusers",
+  "url": "https://huggingface.co/blog/flux-3",
+  "published": "2026-10-15T00:00Z",
+  "age_hours": 31,
+  "summary": ""
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+  "url": "https://openai.com/index/sullivan-cromwell",
+  "published": "2026-10-15T00:00Z",
+  "age_hours": 31,
+  "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
  },
  {
   "source": "TechCrunch AI",
@@ -26,8 +286,8 @@
   "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
   "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
   "published": "2026-10-15T00:00Z",
-  "age_hours": 8,
-  "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” [&#8230;]"
+  "age_hours": 31,
+  "summary": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis."
  },
  {
   "source": "TechCrunch AI",
@@ -36,7 +296,7 @@
   "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
   "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
   "published": "2026-10-14T21:30Z",
-  "age_hours": 10,
+  "age_hours": 34,
   "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology."
  },
  {
@@ -46,7 +306,7 @@
   "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
   "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
   "published": "2026-10-14T18:23Z",
-  "age_hours": 13,
+  "age_hours": 37,
   "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals."
  },
  {
@@ -56,7 +316,7 @@
   "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
   "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
   "published": "2026-10-14T18:00Z",
-  "age_hours": 14,
+  "age_hours": 37,
   "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed."
  },
  {
@@ -66,7 +326,7 @@
   "title": "Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro",
   "url": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/",
   "published": "2026-10-14T17:39Z",
-  "age_hours": 14,
+  "age_hours": 38,
   "summary": "Bünyamin Aydın brought together Turkish heritage, rock influences, and futurism for a landmark fashion show in Cappadocia shot on iPhone 18 Pro Max."
  },
  {
@@ -76,7 +336,7 @@
   "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
   "url": "https://huggingface.co/blog/allenai/hiro-acev2",
   "published": "2026-10-14T16:12Z",
-  "age_hours": 15,
+  "age_hours": 39,
   "summary": ""
  },
  {
@@ -86,7 +346,7 @@
   "title": "Deezer will soon let you filter out AI-generated music",
   "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
   "published": "2026-10-14T15:16Z",
-  "age_hours": 16,
+  "age_hours": 40,
   "summary": "Deezer said that the new toggle will be rolled out by the end of the year."
  },
  {
@@ -96,7 +356,7 @@
   "title": "The release of AI chatbots has harmed teens’ learning and Canada needs to act",
   "url": "https://theconversation.com/the-release-of-ai-chatbots-has-harmed-teens-learning-and-canada-needs-to-act-293195",
   "published": "2026-10-14T15:13Z",
-  "age_hours": 16,
+  "age_hours": 40,
   "summary": "Teens use AI every day to help them learn, but new data shows they are falling years behind. Governments cannot afford to wait to regulate AI."
  },
  {
@@ -106,7 +366,7 @@
   "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
   "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
   "published": "2026-10-14T15:13Z",
-  "age_hours": 16,
+  "age_hours": 40,
   "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI."
  },
  {
@@ -116,7 +376,7 @@
   "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
   "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
   "published": "2026-10-14T15:08Z",
-  "age_hours": 17,
+  "age_hours": 40,
   "summary": "Zenzap is used by organizations including Starbucks and Taco Bell."
  },
  {
@@ -126,18 +386,8 @@
   "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
   "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
   "published": "2026-10-14T15:00Z",
-  "age_hours": 17,
+  "age_hours": 40,
   "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "TechCrunch Disrupt 2026: Day 2",
-  "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-  "published": "2026-10-14T14:30Z",
-  "age_hours": 17,
-  "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass."
  },
  {
   "source": "Regeringen",
@@ -146,7 +396,7 @@
   "title": "Remiss av SOU 2026:51 Fri att lära och leva – Insatser mot hedersrelaterat våld och förtryck i förskolan, skolan och fritidshemmet",
   "url": "https://www.regeringen.se/remisser/2026/10/remiss-av-sou-202651-fri-att-lara-och-leva--insatser-mot-hedersrelaterat-vald-och-fortryck-i-forskolan-skolan-och-fritidshemmet/",
   "published": "2026-10-14T14:29Z",
-  "age_hours": 19,
+  "age_hours": 43,
   "summary": "Här kan du ta del av till vilka instanser som regeringen har remitterat SOU 2026:51 Fri att lära och leva – Insatser mot hedersrelaterat våld och förtryck i förskolan, skolan och fritidshemmet."
  },
  {
@@ -156,7 +406,7 @@
   "title": "Amp puts AI agents to work beyond code with OpenAI models",
   "url": "https://openai.com/index/amp-beyond-coding",
   "published": "2026-10-14T12:00Z",
-  "age_hours": 20,
+  "age_hours": 43,
   "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
  },
  {
@@ -166,18 +416,8 @@
   "title": "SentinelOne cuts malware analysis from weeks to hours",
   "url": "https://openai.com/index/sentinelone",
   "published": "2026-10-14T12:00Z",
-  "age_hours": 20,
+  "age_hours": 43,
   "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-  "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-  "published": "2026-10-14T11:00Z",
-  "age_hours": 21,
-  "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion."
  },
  {
   "source": "Skolledaren",
@@ -186,7 +426,7 @@
   "title": "Kraftiga reaktioner från skolledare på tjänstefelsdomen: ”Katastrofalt”",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/10/kraftiga-reaktioner-fran-skolledare-pa-tjanstefelsdomen-katastrofalt/",
   "published": "2026-10-14T10:23Z",
-  "age_hours": 23,
+  "age_hours": 47,
   "summary": "En rektor dömdes i förra veckan för tjänstefel efter att inte ha polisanmält en elev i mellanstadiet. Domen väcker massiva reaktioner hos skolledare, och många uttrycker en bestörtning och en oro för hur den ska påverka rektorer framöver. – Katastrofalt. Detta är en vattendelare om jag ska säga upp mig eller inte, skriver en grundskolerektor i mellanstadiet."
  },
  {
@@ -196,8 +436,8 @@
   "title": "Helping students discover they belong in science",
   "url": "https://www.eschoolnews.com/steam/2026/10/14/helping-students-discover-they-belong-in-science/",
   "published": "2026-10-14T10:00Z",
-  "age_hours": 22,
-  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/10/students-science.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Students should believe science isn&#039;t something to fear, but something they can understand, question and genuinely enjoy.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://"
+  "age_hours": 45,
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/10/students-science.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Students should believe science isn&#039;t something to fear, but something they can understand, question and genuinely enjoy.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://www.eschoolnews.com/f"
  },
  {
   "source": "OpenAI News",
@@ -206,7 +446,7 @@
   "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
   "url": "https://openai.com/index/third-moment-research",
   "published": "2026-10-14T07:00Z",
-  "age_hours": 25,
+  "age_hours": 48,
   "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
  },
  {
@@ -216,18 +456,8 @@
   "title": "How Block is building AI-powered security with OpenAI technology",
   "url": "https://openai.com/index/block-ai-powered-security",
   "published": "2026-10-14T07:00Z",
-  "age_hours": 25,
+  "age_hours": 48,
   "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
- },
- {
-  "source": "Google DeepMind Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-  "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-  "published": "2026-10-14T02:00Z",
-  "age_hours": 30,
-  "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
  },
  {
   "source": "Anthropic News",
@@ -236,7 +466,7 @@
   "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
   "url": "https://www.anthropic.com/news/singapore-office-opening",
   "published": "2026-10-14T00:00Z",
-  "age_hours": 32,
+  "age_hours": 55,
   "summary": "Anthropic opens Singapore office and signs MOU with the Government of Singapore"
  },
  {
@@ -246,18 +476,8 @@
   "title": "Preparing for the 2026 US midterms",
   "url": "https://www.anthropic.com/news/2026-us-midterms",
   "published": "2026-10-14T00:00Z",
-  "age_hours": 32,
+  "age_hours": 55,
   "summary": "Preparing for the 2026 US midterms"
- },
- {
-  "source": "EdSurge",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "Who Is Building the AI Foundation for K-12 Classrooms?",
-  "url": "https://edsurge.com/news/who-is-building-the-ai-foundation-for-k-12-classrooms",
-  "published": "2026-10-14T00:00Z",
-  "age_hours": 32,
-  "summary": "How Learning Commons’ new open platform could help edtech companies and schools implement technology."
  },
  {
   "source": "EdSurge",
@@ -266,8 +486,18 @@
   "title": "Tech Addiction Was a Problem for My Student — and Myself",
   "url": "https://edsurge.com/news/tech-addiction-was-a-problem-for-my-student-and-myself",
   "published": "2026-10-14T00:00Z",
-  "age_hours": 32,
+  "age_hours": 55,
   "summary": "Educators need to recognize the warning signs, then have honest conversations in our classrooms and at home."
+ },
+ {
+  "source": "EdSurge",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Who Is Building the AI Foundation for K-12 Classrooms?",
+  "url": "https://edsurge.com/news/who-is-building-the-ai-foundation-for-k-12-classrooms",
+  "published": "2026-10-14T00:00Z",
+  "age_hours": 55,
+  "summary": "How Learning Commons’ new open platform could help edtech companies and schools implement technology."
  },
  {
   "source": "EdSurge",
@@ -276,7 +506,7 @@
   "title": "Child Protective Services Contact Linked to Higher Absenteeism, Study Finds",
   "url": "https://edsurge.com/news/child-protective-services-contact-linked-to-higher-absenteeism-study-finds",
   "published": "2026-10-14T00:00Z",
-  "age_hours": 32,
+  "age_hours": 55,
   "summary": "Researchers say school connectedness and targeted support can keep vulnerable students in class."
  },
  {
@@ -286,98 +516,8 @@
   "title": "The EU’s next chapter in AI is agentic",
   "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
   "published": "2026-10-14T00:00Z",
-  "age_hours": 32,
+  "age_hours": 55,
   "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-  "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-  "published": "2026-10-13T23:13Z",
-  "age_hours": 32,
-  "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-  "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-  "published": "2026-10-13T23:05Z",
-  "age_hours": 33,
-  "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-  "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-  "published": "2026-10-13T23:00Z",
-  "age_hours": 33,
-  "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Cerebras CEO pushes back on AI doomsday warnings",
-  "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-  "published": "2026-10-13T22:36Z",
-  "age_hours": 33,
-  "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-  "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-  "published": "2026-10-13T20:36Z",
-  "age_hours": 35,
-  "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case."
- },
- {
-  "source": "Google DeepMind Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Developing Gemini 4 Argon responsibly and safely",
-  "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-  "published": "2026-10-13T19:43Z",
-  "age_hours": 36,
-  "summary": ""
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-  "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-  "published": "2026-10-13T18:30Z",
-  "age_hours": 37,
-  "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Facebook is giving users more control over their algorithm",
-  "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-  "published": "2026-10-13T18:05Z",
-  "age_hours": 38,
-  "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-  "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-  "published": "2026-10-13T17:30Z",
-  "age_hours": 38,
-  "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco."
  },
  {
   "source": "Hugging Face Blog",
@@ -386,27 +526,7 @@
   "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
   "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
   "published": "2026-10-13T17:05Z",
-  "age_hours": 39,
-  "summary": ""
- },
- {
-  "source": "Google DeepMind Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Gemini 4 Argon for Robotics",
-  "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-  "published": "2026-10-13T16:01Z",
-  "age_hours": 40,
-  "summary": ""
- },
- {
-  "source": "Google DeepMind Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Gemini 4 Argon: Built to solve your hardest problems",
-  "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-  "published": "2026-10-13T16:01Z",
-  "age_hours": 40,
+  "age_hours": 62,
   "summary": ""
  },
  {
@@ -416,7 +536,7 @@
   "title": "Skolchefen om domen: ”Behöver tala om rektorernas rättssäkerhet”",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/10/skolchefen-om-domen-behover-tala-om-rektorernas-rattssakerhet/",
   "published": "2026-10-13T14:59Z",
-  "age_hours": 43,
+  "age_hours": 66,
   "summary": "Lagen måste följas men rektorer får inte lämnas ensamma med svåra beslut. Det säger Semira Vikström, skolchef i Huddinge, efter att en rektor i Västerbotten dömts för tjänstefel för att inte ha polisanmält en elev."
  },
  {
@@ -426,7 +546,7 @@
   "title": "How K–12 Districts Sustain Lasting Device Programs",
   "url": "https://edtechmagazine.com/k12/article/2026/10/how-k-12-districts-sustain-lasting-device-programs",
   "published": "2026-10-13T14:48Z",
-  "age_hours": 37,
+  "age_hours": 61,
   "summary": "When new Chromebooks arrive at Desert Sands Unified School District, they come preconfigured and nearly ready to hand out to students. That's because CDW, one of the district's technology solutions providers, unboxes each Chromebook, tags it and enrolls it in the district’s Google domain — a service that the district pays a small per-device fee for. Zero-touch enrollment is a massive timesaver for"
  },
  {
@@ -436,7 +556,7 @@
   "title": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home",
   "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
   "published": "2026-10-13T12:59Z",
-  "age_hours": 43,
+  "age_hours": 66,
   "summary": "Apple today introduced Apple HomeView, designed to be central to the home and personal to everyone in it."
  },
  {
@@ -446,7 +566,7 @@
   "title": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
   "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
   "published": "2026-10-13T12:58Z",
-  "age_hours": 43,
+  "age_hours": 66,
   "summary": "Apple today announced the next generation of Apple TV 4K, delivering its most immersive home theater experience yet."
  },
  {
@@ -456,7 +576,7 @@
   "title": "Apple announces the next generation of HomePod mini",
   "url": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
   "published": "2026-10-13T12:57Z",
-  "age_hours": 43,
+  "age_hours": 66,
   "summary": "Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences."
  },
  {
@@ -466,7 +586,7 @@
   "title": "Introducing Apple Home Collection, a new lineup of smart home accessories",
   "url": "https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/",
   "published": "2026-10-13T12:56Z",
-  "age_hours": 43,
+  "age_hours": 67,
   "summary": "Apple today announced Apple Home Collection, a new lineup of smart home accessories built in collaboration with LG Electronics and Schneider Electric."
  },
  {
@@ -476,7 +596,7 @@
   "title": "Higgsfield takes AI video from 1 minute to over 10",
   "url": "https://openai.com/index/higgsfield-longer-videos-voice",
   "published": "2026-10-13T12:00Z",
-  "age_hours": 44,
+  "age_hours": 67,
   "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
  },
  {
@@ -486,8 +606,8 @@
   "title": "Year-round K-12 recruitment can win the talent pipeline and retention game",
   "url": "https://www.eschoolnews.com/educational-leadership/2026/10/13/year-round-k-12-recruitment-can-win-the-talent-pipeline-and-retention-game/",
   "published": "2026-10-13T10:00Z",
-  "age_hours": 46,
-  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/10/educator-recruitment.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Districts that treat educator recruitment as an ongoing practice are better positioned to anticipate vacancies and learning needs.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://www.eschoolne"
+  "age_hours": 69,
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/10/educator-recruitment.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Districts that treat educator recruitment as an ongoing practice are better positioned to anticipate vacancies and learning needs.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" srcset=\"https:"
  },
  {
   "source": "Class Tech Tips",
@@ -496,97 +616,7 @@
   "title": "Building Coaching Partnerships That Stick with Chrissy Beltran – Easy EdTech Podcast 392",
   "url": "https://classtechtips.com/2026/10/13/coaching-partnerships-392/",
   "published": "2026-10-13T09:00Z",
-  "age_hours": 47,
+  "age_hours": 70,
   "summary": "<p>Learn how Chrissy Beltran builds coaching partnerships that last, defines the coaching role, and tailors support to each teacher.</p> <p>The post <a href=\"https://classtechtips.com/2026/10/13/coaching-partnerships-392/\">Building Coaching Partnerships That Stick with Chrissy Beltran &#8211; Easy EdTech Podcast 392</a> appeared first on <a href=\"https://classtechtips.com\">Class Tech Tips</a>.</p>"
- },
- {
-  "source": "Skolledaren",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Efter tjänstefelsdomen – åklagaren välkomnar en överklagan",
-  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/10/efter-tjanstefelsdomen--aklagaren-valkomnar-en-overklagan/",
-  "published": "2026-10-12T20:43Z",
-  "age_hours": 61,
-  "summary": "Kommer det en överklagan från rektorn som fälldes för att inte ha polisanmält en elev kommer åklagaren Henning Signarsson att tillstyrka att prövningstillstånd ges. – Jag tycker det är angeläget att man tittar på det här, säger åklagaren Henning Signarsson."
- },
- {
-  "source": "The Conversation — Education",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "What colleges and universities need from donors to thrive",
-  "url": "https://theconversation.com/what-colleges-and-universities-need-from-donors-to-thrive-283427",
-  "published": "2026-10-12T18:24Z",
-  "age_hours": 61,
-  "summary": "Philanthropy, which covers an average of 10% of college and university budgets, can help schools and the students who attend them weather today’s tough times."
- },
- {
-  "source": "THE Journal",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "SailPoint Intros New Capabilities to Address Agentic AI Identity Security Challenge",
-  "url": "https://thejournal.com/articles/2026/10/12/sailpoint-intros-new-capabilities-to-address-agentic-ai-identity-security-challenge.aspx",
-  "published": "2026-10-12T17:59Z",
-  "age_hours": 62,
-  "summary": "AI agents are moving from experiments into everyday enterprise environments, but the security controls around them are not keeping pace, according to enterprise identity security company SailPoint."
- },
- {
-  "source": "THE Journal",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "Perkins V Isn't Preparing Students for an AI-Driven Workforce",
-  "url": "https://thejournal.com/articles/2026/10/12/perkins-v-isnt-preparing-students-for-an-ai-driven-workforce.aspx",
-  "published": "2026-10-12T17:02Z",
-  "age_hours": 63,
-  "summary": "Today's middle school students' future careers will be transformed by artificial intelligence, automation, robotics, advanced manufacturing, biotechnology, cybersecurity, and technologies that may not yet exist. Our career education policies need to prepare them for that reality."
- },
- {
-  "source": "Apple Newsroom",
-  "cat": "ai",
-  "lang": "en",
-  "title": "App Store Indie Games Week kicks off today",
-  "url": "https://www.apple.com/newsroom/2026/10/app-store-indie-games-week-kicks-off-today/",
-  "published": "2026-10-12T13:59Z",
-  "age_hours": 66,
-  "summary": "Today, Indie Games Week lights up the App Store with a celebration of the catalog of imaginative games made by independent teams with big dreams."
- },
- {
-  "source": "Microsoft AI Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
-  "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
-  "published": "2026-10-12T13:01Z",
-  "age_hours": 67,
-  "summary": "<p>Azure Maia 200 now in production; Azure Maia 300 coming in 2027 As we move into the era of Super Intelligence, Microsoft is entering a new phase of infrastructure. We will scale our Azure Maia family to multi-gigawatt deployments starting in 2027, making Maia the primary inference system for Microsoft products and services. The multigenerational...</p> <p>The post <a href=\"https://blogs.microso"
- },
- {
-  "source": "eSchool News",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "Standardize to sustain: Building a resilient K-12 technology strategy",
-  "url": "https://www.eschoolnews.com/it-leadership/2026/10/12/standardize-to-sustain-building-a-resilient-k-12-technology-strategy/",
-  "published": "2026-10-12T10:54Z",
-  "age_hours": 69,
-  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/10/k-12-technology.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"As districts return to school, many CTOs and technology leaders are already looking ahead to the next K-12 technology purchasing cycle.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" srcset=\"https:"
- },
- {
-  "source": "The Conversation — Canada Education",
-  "cat": "skola",
-  "lang": "en",
-  "title": "As the school year settles in, making room for the arts can support everyday well-being",
-  "url": "https://theconversation.com/as-the-school-year-settles-in-making-room-for-the-arts-can-support-everyday-well-being-293514",
-  "published": "2026-10-12T08:40Z",
-  "age_hours": 71,
-  "summary": "As autumn brings shorter days and new routines, creative activities can support well-being, connection and curiosity in families, schools and communities."
- },
- {
-  "source": "The Conversation — Canada Education",
-  "cat": "skola",
-  "lang": "en",
-  "title": "Universities are making different choices about AI. How will they fit with their public missions?",
-  "url": "https://theconversation.com/universities-are-making-different-choices-about-ai-how-will-they-fit-with-their-public-missions-292068",
-  "published": "2026-10-12T08:37Z",
-  "age_hours": 71,
-  "summary": "A scan of publicly documented AI initiatives at research-intensive universities suggests universities may need to invest more in teaching."
  }
 ]
