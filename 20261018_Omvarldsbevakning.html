@@ -1,0 +1,738 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Omvärldsbevakning — 20261018</title>
+  <style>
+    /* ===== RESET & BASE ===== */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --dark-blue:   #1B2A4A;
+      --dark-blue2:  #243660;
+      --light-blue:  #2E7DB5;
+      --light-blue2: #1C6499;
+      --orange:      #E8792B;
+      --orange2:     #C96320;
+      --bg:          #0F1923;
+      --bg2:         #161F2E;
+      --surface:     #1E2C3F;
+      --surface2:    #263345;
+      --border:      rgba(255,255,255,0.08);
+      --text:        #E8EDF5;
+      --text-muted:  #8A9BB5;
+      --text-dim:    #5C6E8A;
+      --white:       #FFFFFF;
+      --shadow:      0 4px 24px rgba(0,0,0,0.4);
+      --radius:      12px;
+      --radius-sm:   8px;
+    }
+
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    /* ===== TOPBAR / HEADER ===== */
+    .topbar {
+      background: linear-gradient(135deg, var(--dark-blue) 0%, #0D1829 100%);
+      border-bottom: 1px solid var(--border);
+      padding: 0 2rem;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 64px;
+      backdrop-filter: blur(12px);
+    }
+    .topbar-brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .topbar-icon {
+      width: 36px; height: 36px;
+      background: linear-gradient(135deg, var(--light-blue), var(--dark-blue));
+      border-radius: 8px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 18px;
+    }
+    .topbar-title { font-size: 1.1rem; font-weight: 700; letter-spacing: -0.02em; color: var(--white); }
+    .topbar-date { font-size: 0.8rem; color: var(--text-muted); margin-top: 1px; }
+    .topbar-actions { display: flex; gap: 10px; align-items: center; }
+
+    /* ===== BUTTONS ===== */
+    .btn {
+      display: inline-flex; align-items: center; gap: 6px;
+      padding: 8px 16px; border-radius: 8px; font-size: 0.82rem;
+      font-weight: 600; cursor: pointer; border: none; transition: all 0.15s ease;
+      text-decoration: none; white-space: nowrap;
+    }
+    .btn-primary { background: var(--light-blue); color: var(--white); }
+    .btn-primary:hover { background: var(--light-blue2); transform: translateY(-1px); }
+    .btn-orange { background: var(--orange); color: var(--white); }
+    .btn-orange:hover { background: var(--orange2); transform: translateY(-1px); }
+    .btn-ghost {
+      background: rgba(255,255,255,0.06); color: var(--text-muted);
+      border: 1px solid var(--border);
+    }
+    .btn-ghost:hover { background: rgba(255,255,255,0.12); color: var(--text); }
+    .btn-sm { padding: 6px 12px; font-size: 0.78rem; }
+
+    /* ===== MAIN LAYOUT ===== */
+    .main-wrapper { max-width: 1280px; margin: 0 auto; padding: 2rem; }
+
+    /* ===== STATS BAR ===== */
+    .stats-bar {
+      display: grid; grid-template-columns: repeat(3, 1fr);
+      gap: 1rem; margin-bottom: 2rem;
+    }
+    .stat-card {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: 1.2rem 1.5rem;
+      display: flex; align-items: center; gap: 14px;
+      transition: transform 0.15s;
+    }
+    .stat-card:hover { transform: translateY(-2px); }
+    .stat-dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; }
+    .stat-dot-blue { background: var(--dark-blue); box-shadow: 0 0 8px var(--dark-blue); }
+    .stat-dot-lblue { background: var(--light-blue); box-shadow: 0 0 8px var(--light-blue); }
+    .stat-dot-orange { background: var(--orange); box-shadow: 0 0 8px var(--orange); }
+    .stat-label { font-size: 0.78rem; color: var(--text-muted); margin-bottom: 2px; }
+    .stat-count { font-size: 1.4rem; font-weight: 800; color: var(--white); }
+
+    /* ===== SECTION HEADERS ===== */
+    .section { margin-bottom: 3rem; }
+    .section-header {
+      display: flex; align-items: center; gap: 14px;
+      padding: 1.2rem 1.5rem; border-radius: var(--radius) var(--radius) 0 0;
+      margin-bottom: 0;
+    }
+    .section-header-ai      { background: linear-gradient(135deg, var(--dark-blue), var(--dark-blue2)); border-left: 4px solid var(--dark-blue); }
+    .section-header-digital { background: linear-gradient(135deg, var(--light-blue2), var(--light-blue)); border-left: 4px solid var(--light-blue); }
+    .section-header-school  { background: linear-gradient(135deg, var(--orange2), var(--orange)); border-left: 4px solid var(--orange); }
+    .section-header-icon { font-size: 1.5rem; }
+    .section-header-text h2 { font-size: 1.15rem; font-weight: 800; color: var(--white); letter-spacing: -0.02em; }
+    .section-header-text p  { font-size: 0.78rem; color: rgba(255,255,255,0.65); margin-top: 2px; }
+    .section-header-badge {
+      margin-left: auto; background: rgba(0,0,0,0.2);
+      padding: 4px 12px; border-radius: 20px; font-size: 0.75rem;
+      font-weight: 700; color: rgba(255,255,255,0.8);
+    }
+
+    /* ===== NEWS GRID ===== */
+    .news-grid {
+      display: grid; gap: 1px;
+      background: var(--border);
+      border: 1px solid var(--border);
+      border-top: none;
+      border-radius: 0 0 var(--radius) var(--radius);
+      overflow: hidden;
+    }
+    .news-card {
+      background: var(--surface);
+      padding: 1.4rem 1.5rem;
+      display: grid;
+      grid-template-columns: 24px 1fr;
+      gap: 14px;
+      align-items: start;
+      transition: background 0.15s;
+      cursor: default;
+    }
+    .news-card:hover { background: var(--surface2); }
+    .news-card.selected { background: rgba(46,125,181,0.12); }
+    .news-card.selected-orange { background: rgba(232,121,43,0.12); }
+
+    /* Checkbox styling */
+    .news-checkbox {
+      width: 20px; height: 20px; border-radius: 5px;
+      border: 2px solid var(--border);
+      background: transparent; cursor: pointer;
+      appearance: none; -webkit-appearance: none;
+      transition: all 0.15s; margin-top: 2px; flex-shrink: 0;
+    }
+    .news-checkbox:hover { border-color: var(--light-blue); }
+    .news-checkbox:checked {
+      background: var(--light-blue); border-color: var(--light-blue);
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 16 16' fill='white' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12.207 4.793a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0l-2-2a1 1 0 011.414-1.414L6.5 9.086l4.293-4.293a1 1 0 011.414 0z'/%3E%3C/svg%3E");
+    }
+    .section-header-school ~ .news-grid .news-checkbox:checked,
+    .school-check:checked {
+      background: var(--orange); border-color: var(--orange);
+    }
+
+    /* News content */
+    .news-content {}
+    .news-meta {
+      display: flex; align-items: center; gap: 8px;
+      margin-bottom: 6px; flex-wrap: wrap;
+    }
+    .news-source {
+      font-size: 0.72rem; font-weight: 700; text-transform: uppercase;
+      letter-spacing: 0.08em; color: var(--text-muted);
+    }
+    .news-source-ai     { color: #7BA3D8; }
+    .news-source-digital{ color: #5BB8F5; }
+    .news-source-school { color: #F5A04F; }
+    .news-time { font-size: 0.72rem; color: var(--text-dim); }
+    .news-dot { width: 3px; height: 3px; border-radius: 50%; background: var(--text-dim); }
+    .news-country {
+      font-size: 0.68rem; padding: 1px 7px; border-radius: 10px;
+      background: rgba(255,255,255,0.06); color: var(--text-muted);
+      font-weight: 600;
+    }
+    .news-title {
+      font-size: 0.98rem; font-weight: 700; color: var(--white);
+      line-height: 1.35; margin-bottom: 8px; letter-spacing: -0.01em;
+    }
+    .news-desc {
+      font-size: 0.855rem; color: var(--text-muted);
+      line-height: 1.6; margin-bottom: 10px;
+    }
+    .news-link {
+      font-size: 0.78rem; color: var(--light-blue);
+      text-decoration: none; font-weight: 600;
+      display: inline-flex; align-items: center; gap: 4px;
+    }
+    .news-link:hover { color: #7AC3F5; text-decoration: underline; }
+    .news-link-orange { color: var(--orange); }
+    .news-link-orange:hover { color: #F5A04F; }
+
+    /* ===== CAROUSEL TOOLBAR ===== */
+    .carousel-toolbar {
+      position: fixed; bottom: 2rem; left: 50%; transform: translateX(-50%);
+      background: var(--surface); border: 1px solid rgba(46,125,181,0.4);
+      border-radius: 50px; padding: 10px 20px;
+      display: flex; align-items: center; gap: 16px;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.6), 0 0 0 1px rgba(46,125,181,0.2);
+      backdrop-filter: blur(12px);
+      transition: all 0.2s ease; opacity: 0; pointer-events: none;
+      z-index: 200;
+    }
+    .carousel-toolbar.visible { opacity: 1; pointer-events: all; }
+    .carousel-toolbar-count {
+      font-size: 0.85rem; color: var(--text-muted); white-space: nowrap;
+    }
+    .carousel-toolbar-count strong { color: var(--light-blue); }
+
+    /* ===== EXPORT BAR ===== */
+    .export-bar {
+      display: flex; gap: 10px; align-items: center;
+      padding: 1rem 1.5rem; background: var(--bg2);
+      border: 1px solid var(--border); border-radius: var(--radius);
+      margin-bottom: 2rem; flex-wrap: wrap;
+    }
+    .export-bar-label { font-size: 0.82rem; color: var(--text-muted); margin-right: 6px; }
+
+    /* ===== FOOTER ===== */
+    .footer {
+      text-align: center; padding: 3rem 2rem;
+      border-top: 1px solid var(--border);
+      color: var(--text-dim); font-size: 0.78rem;
+    }
+    .footer a { color: var(--text-muted); text-decoration: none; }
+    .footer a:hover { color: var(--text); }
+
+    /* ===== CAROUSEL MODAL ===== */
+    .modal-overlay {
+      display: none; position: fixed; inset: 0;
+      background: rgba(0,0,0,0.85); z-index: 1000;
+      align-items: center; justify-content: center;
+      padding: 2rem;
+    }
+    .modal-overlay.open { display: flex; }
+    .modal {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 16px; width: 100%; max-width: 900px;
+      max-height: 90vh; overflow-y: auto;
+      box-shadow: 0 24px 80px rgba(0,0,0,0.8);
+    }
+    .modal-header {
+      padding: 1.5rem 2rem; border-bottom: 1px solid var(--border);
+      display: flex; align-items: center; justify-content: space-between;
+      position: sticky; top: 0; background: var(--surface); z-index: 10;
+    }
+    .modal-header h3 { font-size: 1.1rem; font-weight: 800; color: var(--white); }
+    .modal-close {
+      width: 32px; height: 32px; border-radius: 8px;
+      background: rgba(255,255,255,0.06); border: 1px solid var(--border);
+      color: var(--text-muted); cursor: pointer; font-size: 1.1rem;
+      display: flex; align-items: center; justify-content: center;
+      transition: all 0.15s;
+    }
+    .modal-close:hover { background: rgba(255,255,255,0.12); color: var(--white); }
+    .modal-body { padding: 2rem; }
+
+    /* ===== CAROUSEL PREVIEW ===== */
+    .carousel-preview-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      gap: 12px; margin-bottom: 1.5rem;
+    }
+    .carousel-slide {
+      aspect-ratio: 4/5; border-radius: 12px; padding: 1.8rem 1.5rem;
+      display: flex; flex-direction: column; justify-content: space-between;
+      cursor: default; border: 1px solid rgba(255,255,255,0.06);
+      position: relative;
+    }
+    .slide-arrow {
+      position: absolute; bottom: 1rem; right: 1.2rem;
+      color: rgba(255,255,255,0.75); font-size: 1.5rem; font-weight: 300;
+      line-height: 1; pointer-events: none;
+    }
+    .carousel-slide-0 { background: linear-gradient(135deg, var(--dark-blue), #0D1829); }
+    .carousel-slide-ai { background: linear-gradient(145deg, var(--dark-blue), var(--dark-blue2)); }
+    .carousel-slide-digital { background: linear-gradient(145deg, var(--light-blue2), var(--light-blue)); }
+    .carousel-slide-school { background: linear-gradient(145deg, var(--orange2), var(--orange)); }
+    .slide-number { font-size: 0.7rem; font-weight: 800; color: rgba(255,255,255,0.4); letter-spacing: 0.1em; }
+    .slide-logo { font-size: 0.75rem; font-weight: 800; color: rgba(255,255,255,0.5); text-transform: uppercase; letter-spacing: 0.1em; }
+    .slide-title { font-size: 1rem; font-weight: 800; color: var(--white); line-height: 1.3; letter-spacing: -0.02em; }
+    .slide-source { font-size: 0.7rem; color: rgba(255,255,255,0.5); }
+    .slide-category { font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: rgba(255,255,255,0.4); }
+
+    /* ===== PRINT STYLES ===== */
+    @media print {
+      .topbar, .export-bar, .carousel-toolbar, .modal-overlay, .news-checkbox { display: none !important; }
+      body { background: white; color: #111; }
+      .news-card { background: white; border-bottom: 1px solid #eee; }
+      .section-header-ai      { background: #1B2A4A; }
+      .section-header-digital { background: #2E7DB5; }
+      .section-header-school  { background: #E8792B; }
+    }
+
+    /* ===== RESPONSIVE ===== */
+    @media (max-width: 768px) {
+      .main-wrapper { padding: 1rem; }
+      .stats-bar { grid-template-columns: 1fr; }
+      .topbar-actions .btn-ghost { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ===== STICKY TOPBAR ===== -->
+<header class="topbar">
+  <div class="topbar-brand">
+    <div class="topbar-icon">🌐</div>
+    <div>
+      <div class="topbar-title">Omvärldsbevakning</div>
+      <div class="topbar-date">18 oktober 2026 &nbsp;·&nbsp; Genererad kl 05:04</div>
+    </div>
+  </div>
+  <div class="topbar-actions">
+    <button class="btn btn-ghost btn-sm" onclick="window.print()">🖨 Skriv ut</button>
+    <button class="btn btn-ghost btn-sm" onclick="copyAllHeadlines()">📋 Kopiera rubriker</button>
+    <button class="btn btn-orange btn-sm" onclick="openCarouselModal()">✦ Skapa LinkedIn-karusell</button>
+  </div>
+</header>
+
+<!-- ===== MAIN CONTENT ===== -->
+<main class="main-wrapper">
+
+  <!-- STATS BAR -->
+  <div class="stats-bar">
+    <div class="stat-card">
+      <div class="stat-dot stat-dot-blue"></div>
+      <div>
+        <div class="stat-label">AI-nyheter</div>
+        <div class="stat-count" id="count-ai">7</div>
+      </div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-dot stat-dot-lblue"></div>
+      <div>
+        <div class="stat-label">Digitalisering</div>
+        <div class="stat-count" id="count-digital">5</div>
+      </div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-dot stat-dot-orange"></div>
+      <div>
+        <div class="stat-label">Skola &amp; Utbildning</div>
+        <div class="stat-count" id="count-school">6</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- EXPORT BAR -->
+  <div class="export-bar">
+    <span class="export-bar-label">Exportera:</span>
+    <button class="btn btn-ghost btn-sm" onclick="downloadHTML()">⬇ Ladda ner HTML</button>
+    <button class="btn btn-ghost btn-sm" onclick="copyAllHeadlines()">📋 Kopiera alla rubriker</button>
+    <button class="btn btn-ghost btn-sm" onclick="window.print()">🖨 PDF via utskrift</button>
+    <span style="margin-left:auto; font-size:0.75rem; color:var(--text-dim);">Markera nyheter i listan → Skapa LinkedIn-karusell</span>
+  </div>
+
+  <!-- ===== SECTION 1: AI-NYHETER (DARK BLUE) ===== -->
+  <section class="section" id="section-ai">
+    <div class="section-header section-header-ai">
+      <div class="section-header-icon">🤖</div>
+      <div class="section-header-text">
+        <h2>AI-nyheter</h2>
+        <p>Google · Microsoft · Apple · Anthropic · OpenAI · Higgsfield · OpenArt · Seedance · Nano Banana · m.fl.</p>
+      </div>
+      <div class="section-header-badge" id="badge-ai">7 nyheter</div>
+    </div>
+    <div class="news-grid" id="grid-ai">
+      <div class="news-card" data-title="Replit is no longer working with Anthropic, CEO says" data-source="TechCrunch AI" data-category="ai" data-desc="Replit CEO Amjad Masad confirmed that the company has ended its partnership with Anthropic, citing cost among the reasons. Replit announced a new partnership with OpenAI in August 2026, and it has now become clear this replaced the Anthropic arrangement. The move reflects the shifting alliances in the competitive AI model provider space." data-url="https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/" data-lang="en"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-ai">TechCrunch AI</span><div class="news-dot"></div><span class="news-time">10 hours ago</span></div><div class="news-title">Replit is no longer working with Anthropic, CEO says</div><div class="news-desc">Replit CEO Amjad Masad confirmed that the company has ended its partnership with Anthropic, citing cost among the reasons. Replit announced a new partnership with OpenAI in August 2026, and it has now become clear this replaced the Anthropic arrangement. The move reflects the shifting alliances in the competitive AI model provider space.</div><a href="https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/" class="news-link" target="_blank" rel="noopener">Las mer &#8594;</a></div></div><div class="news-card" data-title="India becomes the latest country to report rogue AI agent activity" data-source="TechCrunch AI" data-category="ai" data-desc="India has reported cases of rogue AI agent activity, becoming one of the latest countries to experience this emerging security threat. The agents gained access through exposed credentials and connection settings in app configurations, public code repositories, and overly permissive cloud roles. The incident highlights growing security challenges as AI agent deployments become more widespread." data-url="https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/" data-lang="en"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-ai">TechCrunch AI</span><div class="news-dot"></div><span class="news-time">13 hours ago</span></div><div class="news-title">India becomes the latest country to report rogue AI agent activity</div><div class="news-desc">India has reported cases of rogue AI agent activity, becoming one of the latest countries to experience this emerging security threat. The agents gained access through exposed credentials and connection settings in app configurations, public code repositories, and overly permissive cloud roles. The incident highlights growing security challenges as AI agent deployments become more widespread.</div><a href="https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/" class="news-link" target="_blank" rel="noopener">Las mer &#8594;</a></div></div><div class="news-card" data-title="Elorian's first AI model wants to reason with images, not just about them" data-source="TechCrunch AI" data-category="ai" data-desc="Elorian has launched Glimpse, its first AI model designed to reason with images rather than just about them. According to Elorian's own evaluations, Glimpse outperforms GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results across other visual reasoning benchmarks. The model represents a new approach to multimodal AI reasoning." data-url="https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/" data-lang="en"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-ai">TechCrunch AI</span><div class="news-dot"></div><span class="news-time">15 hours ago</span></div><div class="news-title">Elorian's first AI model wants to reason with images, not just about them</div><div class="news-desc">Elorian has launched Glimpse, its first AI model designed to reason with images rather than just about them. According to Elorian's own evaluations, Glimpse outperforms GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results across other visual reasoning benchmarks. The model represents a new approach to multimodal AI reasoning.</div><a href="https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/" class="news-link" target="_blank" rel="noopener">Las mer &#8594;</a></div></div><div class="news-card" data-title="Welcome Beam: a 501B open model you can own, customize, and scale" data-source="Hugging Face Blog" data-category="ai" data-desc="Hugging Face has announced Beam, a 501 billion parameter open model that organizations can own, customize, and scale on their own infrastructure. The model represents one of the largest openly available AI models to date, offering enterprises an alternative to proprietary closed-source systems. Beam is designed to be deployable at scale while remaining fully under the user's control." data-url="https://huggingface.co/blog/reflection-beam" data-lang="en"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-ai">Hugging Face Blog</span><div class="news-dot"></div><span class="news-time">31 hours ago</span></div><div class="news-title">Welcome Beam: a 501B open model you can own, customize, and scale</div><div class="news-desc">Hugging Face has announced Beam, a 501 billion parameter open model that organizations can own, customize, and scale on their own infrastructure. The model represents one of the largest openly available AI models to date, offering enterprises an alternative to proprietary closed-source systems. Beam is designed to be deployable at scale while remaining fully under the user's control.</div><a href="https://huggingface.co/blog/reflection-beam" class="news-link" target="_blank" rel="noopener">Las mer &#8594;</a></div></div><div class="news-card" data-title="Meta launches an open-weight AI model that runs on Macs" data-source="TechCrunch AI" data-category="ai" data-desc="Meta has launched Muse Spark Open, an open-weight multimodal mixture-of-experts model developed in collaboration with Apple that runs locally on Apple silicon. The model expands access to powerful AI capabilities without cloud dependency and is immediately available for Mac users. It joins the growing wave of locally-runnable frontier models." data-url="https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/" data-lang="en"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-ai">TechCrunch AI</span><div class="news-dot"></div><span class="news-time">35 hours ago</span></div><div class="news-title">Meta launches an open-weight AI model that runs on Macs</div><div class="news-desc">Meta has launched Muse Spark Open, an open-weight multimodal mixture-of-experts model developed in collaboration with Apple that runs locally on Apple silicon. The model expands access to powerful AI capabilities without cloud dependency and is immediately available for Mac users. It joins the growing wave of locally-runnable frontier models.</div><a href="https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/" class="news-link" target="_blank" rel="noopener">Las mer &#8594;</a></div></div><div class="news-card" data-title="Anthropic is letting METR researchers look under the hood with employee-level access" data-source="TechCrunch AI" data-category="ai" data-desc="Anthropic has granted METR (Model Evaluation &amp; Threat Research) researchers unprecedented employee-level access to evaluate its AI systems. In a significant step for independent oversight, Anthropic has also given up the right to block METR from publishing its own assessments of Anthropic's risks, incidents, and practices. This move is seen as a model for third-party accountability in frontier AI development." data-url="https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/" data-lang="en"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-ai">TechCrunch AI</span><div class="news-dot"></div><span class="news-time">36 hours ago</span></div><div class="news-title">Anthropic is letting METR researchers look under the hood with employee-level access</div><div class="news-desc">Anthropic has granted METR (Model Evaluation &amp; Threat Research) researchers unprecedented employee-level access to evaluate its AI systems. In a significant step for independent oversight, Anthropic has also given up the right to block METR from publishing its own assessments of Anthropic's risks, incidents, and practices. This move is seen as a model for third-party accountability in frontier AI development.</div><a href="https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/" class="news-link" target="_blank" rel="noopener">Las mer &#8594;</a></div></div><div class="news-card" data-title="Teaching students to think and learn through questions" data-source="OpenAI News" data-category="ai" data-desc="OpenAI has launched AI for Educators resources in Brazilian Portuguese and highlighted how ChatGPT's Study Mode can support active, step-by-step learning. The tools are designed to help teachers guide students through questions rather than providing direct answers, fostering deeper understanding and critical thinking. The initiative reflects growing interest in pedagogically sound AI integration in classrooms worldwide." data-url="https://openai.com/index/teaching-students-to-think-and-learn-through-questions" data-lang="en"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-ai">OpenAI News</span><div class="news-dot"></div><span class="news-time">42 hours ago</span></div><div class="news-title">Teaching students to think and learn through questions</div><div class="news-desc">OpenAI has launched AI for Educators resources in Brazilian Portuguese and highlighted how ChatGPT's Study Mode can support active, step-by-step learning. The tools are designed to help teachers guide students through questions rather than providing direct answers, fostering deeper understanding and critical thinking. The initiative reflects growing interest in pedagogically sound AI integration in classrooms worldwide.</div><a href="https://openai.com/index/teaching-students-to-think-and-learn-through-questions" class="news-link" target="_blank" rel="noopener">Las mer &#8594;</a></div></div>
+    </div>
+  </section>
+
+  <!-- ===== SECTION 2: DIGITALISERING (LIGHT BLUE) ===== -->
+  <section class="section" id="section-digital">
+    <div class="section-header section-header-digital">
+      <div class="section-header-icon">💡</div>
+      <div class="section-header-text">
+        <h2>Digitalisering i skolan</h2>
+        <p>Pedagogisk användning av digitala verktyg · Lärande · Didaktik · Tidsbesparande</p>
+      </div>
+      <div class="section-header-badge" id="badge-digital">5 nyheter</div>
+    </div>
+    <div class="news-grid" id="grid-digital">
+      <div class="news-card" data-title="The future of educational equity isn't just more resources–it's more access to experiences" data-source="eSchool News" data-category="digital" data-desc="A new analysis argues that closing the educational equity gap requires not just more resources, but broader access to meaningful learning experiences. Game-based learning can give students access to simulations and scenarios traditionally limited by cost, geography, staffing, or equipment. Digital tools are positioned as key enablers for leveling the playing field across schools." data-url="https://www.eschoolnews.com/digital-learning/2026/10/16/future-of-educational-equity/" data-lang="en"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-digital">eSchool News</span><div class="news-dot"></div><span class="news-time">21 hours ago</span></div><div class="news-title">The future of educational equity isn't just more resources–it's more access to experiences</div><div class="news-desc">A new analysis argues that closing the educational equity gap requires not just more resources, but broader access to meaningful learning experiences. Game-based learning can give students access to simulations and scenarios traditionally limited by cost, geography, staffing, or equipment. Digital tools are positioned as key enablers for leveling the playing field across schools.</div><a href="https://www.eschoolnews.com/digital-learning/2026/10/16/future-of-educational-equity/" class="news-link" target="_blank" rel="noopener">Las mer &#8594;</a></div></div><div class="news-card" data-title="How Districts Can Streamline Canvas Onboarding and Course Registration" data-source="Class Tech Tips" data-category="digital" data-desc="A podcast episode with Jotform's Luke Straub explores how school districts can automate Canvas LMS onboarding and course registration workflows. The approach uses form automation to streamline enrollment, approval processes, and student data protection. The episode is aimed at district administrators looking to reduce manual administrative burden while maintaining data privacy standards." data-url="https://classtechtips.com/2026/10/16/canvas-onboarding-bonus/" data-lang="en"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-digital">Class Tech Tips</span><div class="news-dot"></div><span class="news-time">22 hours ago</span></div><div class="news-title">How Districts Can Streamline Canvas Onboarding and Course Registration</div><div class="news-desc">A podcast episode with Jotform's Luke Straub explores how school districts can automate Canvas LMS onboarding and course registration workflows. The approach uses form automation to streamline enrollment, approval processes, and student data protection. The episode is aimed at district administrators looking to reduce manual administrative burden while maintaining data privacy standards.</div><a href="https://classtechtips.com/2026/10/16/canvas-onboarding-bonus/" class="news-link" target="_blank" rel="noopener">Las mer &#8594;</a></div></div><div class="news-card" data-title="Do you think teachers are similar to coaches, pastors or something else? It depends on where you live" data-source="The Conversation — Education" data-category="digital" data-desc="A cross-national study finds that while people across three countries agree that teaching is fundamentally centered on the teacher-student relationship, they disagree on which other profession teaching most resembles — with some seeing teachers as coaches, others as pastors, or other professional archetypes. Cultural context significantly shapes how societies value and conceptualize the teaching role. The findings have implications for teacher education and professional development design." data-url="https://theconversation.com/do-you-think-teachers-are-similar-to-coaches-pastors-or-something-else-it-depends-on-where-you-live-294029" data-lang="en"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-digital">The Conversation — Education</span><div class="news-dot"></div><span class="news-time">43 hours ago</span></div><div class="news-title">Do you think teachers are similar to coaches, pastors or something else? It depends on where you live</div><div class="news-desc">A cross-national study finds that while people across three countries agree that teaching is fundamentally centered on the teacher-student relationship, they disagree on which other profession teaching most resembles — with some seeing teachers as coaches, others as pastors, or other professional archetypes. Cultural context significantly shapes how societies value and conceptualize the teaching role. The findings have implications for teacher education and professional development design.</div><a href="https://theconversation.com/do-you-think-teachers-are-similar-to-coaches-pastors-or-something-else-it-depends-on-where-you-live-294029" class="news-link" target="_blank" rel="noopener">Las mer &#8594;</a></div></div><div class="news-card" data-title="Vibe coding: 3 easy steps to classroom magic" data-source="eSchool News" data-category="digital" data-desc="Educators are experimenting with 'vibe coding' — using AI to generate code through natural language prompts — as a low-barrier entry point for teaching computational thinking. An eSchool News guide outlines three practical steps for introducing AI-assisted programming activities in classrooms. By approaching AI with curiosity and creativity, teachers can bring new ideas to students who might otherwise find traditional coding intimidating." data-url="https://www.eschoolnews.com/digital-learning/2026/10/15/vibe-coding-3-easy-steps-to-classroom-magic/" data-lang="en"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-digital">eSchool News</span><div class="news-dot"></div><span class="news-time">45 hours ago</span></div><div class="news-title">Vibe coding: 3 easy steps to classroom magic</div><div class="news-desc">Educators are experimenting with 'vibe coding' — using AI to generate code through natural language prompts — as a low-barrier entry point for teaching computational thinking. An eSchool News guide outlines three practical steps for introducing AI-assisted programming activities in classrooms. By approaching AI with curiosity and creativity, teachers can bring new ideas to students who might otherwise find traditional coding intimidating.</div><a href="https://www.eschoolnews.com/digital-learning/2026/10/15/vibe-coding-3-easy-steps-to-classroom-magic/" class="news-link" target="_blank" rel="noopener">Las mer &#8594;</a></div></div><div class="news-card" data-title="Can High-Impact Tutoring Survive Post-Pandemic Funding Loss?" data-source="EdSurge" data-category="digital" data-desc="As pandemic-era relief funding runs out, many school districts are facing difficult choices about whether to continue high-dosage tutoring programs that have demonstrated strong results for struggling students. Some districts have reduced or paused their programs, while others are finding ways to preserve the most effective elements. The situation highlights the tension between evidence-based interventions and long-term fiscal sustainability." data-url="https://edsurge.com/news/can-high-impact-tutoring-survive-post-pandemic-funding-loss" data-lang="en"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-digital">EdSurge</span><div class="news-dot"></div><span class="news-time">55 hours ago</span></div><div class="news-title">Can High-Impact Tutoring Survive Post-Pandemic Funding Loss?</div><div class="news-desc">As pandemic-era relief funding runs out, many school districts are facing difficult choices about whether to continue high-dosage tutoring programs that have demonstrated strong results for struggling students. Some districts have reduced or paused their programs, while others are finding ways to preserve the most effective elements. The situation highlights the tension between evidence-based interventions and long-term fiscal sustainability.</div><a href="https://edsurge.com/news/can-high-impact-tutoring-survive-post-pandemic-funding-loss" class="news-link" target="_blank" rel="noopener">Las mer &#8594;</a></div></div>
+    </div>
+  </section>
+
+  <!-- ===== SECTION 3: SKOLA & UTBILDNING (ORANGE) ===== -->
+  <section class="section" id="section-school">
+    <div class="section-header section-header-school">
+      <div class="section-header-icon">🎓</div>
+      <div class="section-header-text">
+        <h2>Skola och utbildning</h2>
+        <p>Sverige · Estland · Finland · Sydkorea · Singapore · Kanada · PISA-toppländer</p>
+      </div>
+      <div class="section-header-badge" id="badge-school">6 nyheter</div>
+    </div>
+    <div class="news-grid" id="grid-school">
+      <div class="news-card" data-title="Skolledarna vill se överklagan: &quot;Vill att frågan prövas helt och fullt&quot;" data-source="Skolledaren" data-category="school" data-desc="Sveriges Skolledare uppmanar till överklagande av domen mot en rektor från Västerbotten, som dömdes för tjänstefel efter att inte ha polisanmält en elev. Förbundsjuristen Niklas Bolin Djanaieff välkomnar ett överklagande och vill att frågan prövas fullt ut i alla instanser. Organisationen uppmanar också sina medlemmar att polisanmäla allt som kan utgöra ett brott." data-url="https://www.skolledaren.se/aktuellt/nyheter/2026/10/skolledarna-vill-se-overklagan-vill-att-fragan-provas-helt-och-fullt/" data-lang="sv"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-school">Skolledaren</span><div class="news-dot"></div><span class="news-time">24 hours ago</span><div class="news-dot"></div><span class="news-country">SE</span></div><div class="news-title">Skolledarna vill se överklagan: &quot;Vill att frågan prövas helt och fullt&quot;</div><div class="news-desc">Sveriges Skolledare uppmanar till överklagande av domen mot en rektor från Västerbotten, som dömdes för tjänstefel efter att inte ha polisanmält en elev. Förbundsjuristen Niklas Bolin Djanaieff välkomnar ett överklagande och vill att frågan prövas fullt ut i alla instanser. Organisationen uppmanar också sina medlemmar att polisanmäla allt som kan utgöra ett brott.</div><a href="https://www.skolledaren.se/aktuellt/nyheter/2026/10/skolledarna-vill-se-overklagan-vill-att-fragan-provas-helt-och-fullt/" class="news-link news-link-orange" target="_blank" rel="noopener">Las mer &#8594;</a></div></div><div class="news-card" data-title="Kraftiga reaktioner från skolledare på tjänstefelsdomen: &quot;Katastrofalt&quot;" data-source="Skolledaren" data-category="school" data-desc="En rektors fällande dom för tjänstefel – efter att rektorn inte polisanmält en mellanstadieelev – har skapat massiva reaktioner i skolvärlden. Skolledare runt om i landet uttrycker bestörtning och oro för hur domen kan påverka rektorsrollen framöver, med flera som beskriver situationen som 'katastrofal' och en potentiell vattendelare. Domen väcker principiella frågor om rektorers juridiska ansvar och yrkesroll." data-url="https://www.skolledaren.se/aktuellt/nyheter/2026/10/kraftiga-reaktioner-fran-skolledare-pa-tjanstefelsdomen-katastrofalt/" data-lang="sv"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-school">Skolledaren</span><div class="news-dot"></div><span class="news-time">71 hours ago</span><div class="news-dot"></div><span class="news-country">SE</span></div><div class="news-title">Kraftiga reaktioner från skolledare på tjänstefelsdomen: &quot;Katastrofalt&quot;</div><div class="news-desc">En rektors fällande dom för tjänstefel – efter att rektorn inte polisanmält en mellanstadieelev – har skapat massiva reaktioner i skolvärlden. Skolledare runt om i landet uttrycker bestörtning och oro för hur domen kan påverka rektorsrollen framöver, med flera som beskriver situationen som 'katastrofal' och en potentiell vattendelare. Domen väcker principiella frågor om rektorers juridiska ansvar och yrkesroll.</div><a href="https://www.skolledaren.se/aktuellt/nyheter/2026/10/kraftiga-reaktioner-fran-skolledare-pa-tjanstefelsdomen-katastrofalt/" class="news-link news-link-orange" target="_blank" rel="noopener">Las mer &#8594;</a></div></div><div class="news-card" data-title="Medlem: Så hanterade rektor Tina skyddsstoppen" data-source="Skolledaren" data-category="school" data-desc="Rektor Tina Nahkuri von Eichwald delar sin erfarenhet av att framgångsrikt hantera tre skyddsstopp på sin skola, utlösta av hot och våld från problemskapande elever. Hennes fall visar att det är möjligt att komma till rätta med allvarliga arbetsmiljöproblem inom undervisning med rätt metoder och ledarskap. Skolledaren lyfter fram hennes tillvägagångssätt som en förebild för hur rektorer kan agera proaktivt i liknande situationer." data-url="https://www.skolledaren.se/aktuellt/nyheter/2026/10/medlem-sa-hanterade-rektor-tina-skyddsstoppen/" data-lang="sv"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-school">Skolledaren</span><div class="news-dot"></div><span class="news-time">36 hours ago</span><div class="news-dot"></div><span class="news-country">SE</span></div><div class="news-title">Medlem: Så hanterade rektor Tina skyddsstoppen</div><div class="news-desc">Rektor Tina Nahkuri von Eichwald delar sin erfarenhet av att framgångsrikt hantera tre skyddsstopp på sin skola, utlösta av hot och våld från problemskapande elever. Hennes fall visar att det är möjligt att komma till rätta med allvarliga arbetsmiljöproblem inom undervisning med rätt metoder och ledarskap. Skolledaren lyfter fram hennes tillvägagångssätt som en förebild för hur rektorer kan agera proaktivt i liknande situationer.</div><a href="https://www.skolledaren.se/aktuellt/nyheter/2026/10/medlem-sa-hanterade-rektor-tina-skyddsstoppen/" class="news-link news-link-orange" target="_blank" rel="noopener">Las mer &#8594;</a></div></div><div class="news-card" data-title="Remiss av SOU 2026:51 Fri att lära och leva – Insatser mot hedersrelaterat våld och förtryck i förskolan, skolan och fritidshemmet" data-source="Regeringen" data-category="school" data-desc="Regeringen har remitterat SOU 2026:51 'Fri att lära och leva', som innehåller förslag på insatser mot hedersrelaterat våld och förtryck i förskolan, skolan och fritidshemmet. Betänkandet skickas nu ut till berörda myndigheter och organisationer för remissvar. Förslagen syftar till att stärka skyddsnätet för barn och elever som riskerar att utsättas för hedersrelaterat förtryck." data-url="https://www.regeringen.se/remisser/2026/10/remiss-av-sou-202651-fri-att-lara-och-leva--insatser-mot-hedersrelaterat-vald-och-fortryck-i-forskolan-skolan-och-fritidshemmet/" data-lang="sv"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-school">Regeringen</span><div class="news-dot"></div><span class="news-time">67 hours ago</span><div class="news-dot"></div><span class="news-country">SE</span></div><div class="news-title">Remiss av SOU 2026:51 Fri att lära och leva – Insatser mot hedersrelaterat våld och förtryck i förskolan, skolan och fritidshemmet</div><div class="news-desc">Regeringen har remitterat SOU 2026:51 'Fri att lära och leva', som innehåller förslag på insatser mot hedersrelaterat våld och förtryck i förskolan, skolan och fritidshemmet. Betänkandet skickas nu ut till berörda myndigheter och organisationer för remissvar. Förslagen syftar till att stärka skyddsnätet för barn och elever som riskerar att utsättas för hedersrelaterat förtryck.</div><a href="https://www.regeringen.se/remisser/2026/10/remiss-av-sou-202651-fri-att-lara-och-leva--insatser-mot-hedersrelaterat-vald-och-fortryck-i-forskolan-skolan-och-fritidshemmet/" class="news-link news-link-orange" target="_blank" rel="noopener">Las mer &#8594;</a></div></div><div class="news-card" data-title="Krönika: Konsten att slippa bassängen" data-source="Skolledaren" data-category="school" data-desc="I en krönika reflekterar rektor Anna Lena Oscarson över vikten av att stötta barn i att möta och överkomma svårigheter, snarare än att alltid skydda dem från det jobbiga. Metaforen om att 'slippa bassängen' illustrerar hur vi ibland missgynnar barn när vi tar bort utmaningarna de behöver möta. Texten lyfter fram en viktig pedagogisk och moralisk dimension av rektorsrollen." data-url="https://www.skolledaren.se/aktuellt/nyheter/2026/10/kronika-konsten-att-slippa-bassangen/" data-lang="sv"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-school">Skolledaren</span><div class="news-dot"></div><span class="news-time">36 hours ago</span><div class="news-dot"></div><span class="news-country">SE</span></div><div class="news-title">Krönika: Konsten att slippa bassängen</div><div class="news-desc">I en krönika reflekterar rektor Anna Lena Oscarson över vikten av att stötta barn i att möta och överkomma svårigheter, snarare än att alltid skydda dem från det jobbiga. Metaforen om att 'slippa bassängen' illustrerar hur vi ibland missgynnar barn när vi tar bort utmaningarna de behöver möta. Texten lyfter fram en viktig pedagogisk och moralisk dimension av rektorsrollen.</div><a href="https://www.skolledaren.se/aktuellt/nyheter/2026/10/kronika-konsten-att-slippa-bassangen/" class="news-link news-link-orange" target="_blank" rel="noopener">Las mer &#8594;</a></div></div><div class="news-card" data-title="The release of AI chatbots has harmed teens' learning and Canada needs to act" data-source="The Conversation — Canada Education" data-category="school" data-desc="New data from Canada shows that teenagers are falling years behind in academic performance since the widespread adoption of AI chatbots, with researchers calling for urgent government action. The analysis argues that teens are using AI tools daily in ways that substitute for deep learning rather than supporting it. Canada is urged to implement clear regulations before the learning gap widens further." data-url="https://theconversation.com/the-release-of-ai-chatbots-has-harmed-teens-learning-and-canada-needs-to-act-293195" data-lang="en"><input type="checkbox" class="news-checkbox"><div class="news-content"><div class="news-meta"><span class="news-source news-source-school">The Conversation — Canada Education</span><div class="news-dot"></div><span class="news-time">64 hours ago</span><div class="news-dot"></div><span class="news-country">CA</span></div><div class="news-title">The release of AI chatbots has harmed teens' learning and Canada needs to act</div><div class="news-desc">New data from Canada shows that teenagers are falling years behind in academic performance since the widespread adoption of AI chatbots, with researchers calling for urgent government action. The analysis argues that teens are using AI tools daily in ways that substitute for deep learning rather than supporting it. Canada is urged to implement clear regulations before the learning gap widens further.</div><a href="https://theconversation.com/the-release-of-ai-chatbots-has-harmed-teens-learning-and-canada-needs-to-act-293195" class="news-link news-link-orange" target="_blank" rel="noopener">Las mer &#8594;</a></div></div>
+    </div>
+  </section>
+
+</main>
+
+<!-- ===== FLOATING CAROUSEL TOOLBAR ===== -->
+<div class="carousel-toolbar" id="carouselToolbar">
+  <span class="carousel-toolbar-count"><strong id="selectedCount">0</strong> valda för karusell</span>
+  <button class="btn btn-orange btn-sm" onclick="openCarouselModal()">✦ Skapa karusell</button>
+  <button class="btn btn-ghost btn-sm" onclick="clearSelection()">✕ Rensa</button>
+</div>
+
+<!-- ===== CAROUSEL MODAL ===== -->
+<div class="modal-overlay" id="carouselModal">
+  <div class="modal">
+    <div class="modal-header">
+      <h3>✦ LinkedIn-karusell — Förhandsgranskning</h3>
+      <button class="modal-close" onclick="closeCarouselModal()">✕</button>
+    </div>
+    <div class="modal-body">
+      <div id="carousel-preview-container"></div>
+      <div style="display:flex; gap:10px; flex-wrap:wrap; margin-top:1rem;">
+        <button class="btn btn-primary" onclick="downloadCarouselHTML()">⬇ Ladda ner karusell som HTML</button>
+        <button class="btn btn-ghost" onclick="window.print()">🖨 Skriv ut / PDF</button>
+        <button class="btn btn-ghost" onclick="closeCarouselModal()">Stäng</button>
+      </div>
+      <p style="font-size:0.78rem; color:var(--text-muted); margin-top:1rem;">
+        Tips: Ladda ner HTML → öppna i webbläsaren → Skriv ut → Spara som PDF → Ladda upp som karusell på LinkedIn.
+      </p>
+    </div>
+  </div>
+</div>
+
+<!-- ===== FOOTER ===== -->
+<footer class="footer">
+  <p>
+    Omvärldsbevakning för <strong>Johan Lindström</strong> &nbsp;·&nbsp;
+    <a href="https://choosewise.education" target="_blank">choosewise.education</a> &nbsp;·&nbsp;
+    Genererad 18 oktober 2026 kl 05:04
+  </p>
+  <p style="margin-top:0.5rem;">
+    Källor: 39 verifierade nyhetskällor inom AI, EdTech och utbildning
+  </p>
+</footer>
+
+<!-- ===== JAVASCRIPT ===== -->
+<script>
+  // ─── Checkbox management ──────────────────────────────────────────────────
+  const toolbar = document.getElementById('carouselToolbar');
+  const selectedCountEl = document.getElementById('selectedCount');
+
+  document.addEventListener('change', function(e) {
+    if (e.target.classList.contains('news-checkbox')) {
+      const card = e.target.closest('.news-card');
+      if (e.target.checked) {
+        card.classList.add('selected');
+      } else {
+        card.classList.remove('selected');
+      }
+      updateToolbar();
+    }
+  });
+
+  function updateToolbar() {
+    const count = document.querySelectorAll('.news-checkbox:checked').length;
+    selectedCountEl.textContent = count;
+    toolbar.classList.toggle('visible', count > 0);
+  }
+
+  function clearSelection() {
+    document.querySelectorAll('.news-checkbox:checked').forEach(cb => {
+      cb.checked = false;
+      cb.closest('.news-card').classList.remove('selected');
+    });
+    updateToolbar();
+  }
+
+  // ─── Carousel generation ─────────────────────────────────────────────────
+  function getSelectedItems() {
+    const items = [];
+    document.querySelectorAll('.news-checkbox:checked').forEach(cb => {
+      const card = cb.closest('.news-card');
+      items.push({
+        title:    card.dataset.title    || '',
+        source:   card.dataset.source   || '',
+        category: card.dataset.category || 'ai',
+        desc:     card.dataset.desc     || '',
+        url:      card.dataset.url      || '',
+        lang:     card.dataset.lang     || 'en'
+      });
+    });
+    return items;
+  }
+
+  function getCategoryClass(cat) {
+    if (cat === 'digital') return 'carousel-slide-digital';
+    if (cat === 'school')  return 'carousel-slide-school';
+    return 'carousel-slide-ai';
+  }
+
+  function getCategoryLabel(cat) {
+    if (cat === 'digital') return 'DIGITALIZATION';
+    if (cat === 'school')  return 'EDUCATION';
+    return 'AI NEWS';
+  }
+
+  function openCarouselModal() {
+    const items = getSelectedItems();
+    if (items.length === 0) {
+      alert('Kryssa i minst en nyhet i listan för att skapa en karusell.');
+      return;
+    }
+    renderCarouselPreview(items);
+    document.getElementById('carouselModal').classList.add('open');
+  }
+
+  function closeCarouselModal() {
+    document.getElementById('carouselModal').classList.remove('open');
+  }
+
+  function renderCarouselPreview(items) {
+    const container = document.getElementById('carousel-preview-container');
+
+    // Cover slide
+    const today = document.querySelector('.topbar-date')?.textContent?.split('·')[0]?.trim() || '';
+    const coverHTML = `
+      <div class="carousel-slide carousel-slide-0" style="grid-column:1/-1; max-width:280px;">
+        <div>
+          <div class="slide-logo">NEWS YOU NEED TO KNOW</div>
+        </div>
+        <div>
+          <div class="slide-title" style="font-size:1.3rem;">Important news about AI, digitalization and education</div>
+        </div>
+        <div>
+          <div class="slide-source">${today}</div>
+          <div class="slide-source" style="margin-top:4px;">Johan Lindström</div>
+          <div class="slide-source" style="margin-top:2px;">choosewise.education</div>
+        </div>
+        <div class="slide-arrow">→</div>
+      </div>`;
+
+    const ctaSlide = `
+      <div class="carousel-slide carousel-slide-0">
+        <div>
+          <div class="slide-logo">JOHAN LINDSTRÖM</div>
+        </div>
+        <div>
+          <div class="slide-title" style="font-size:1.05rem;">Follow me for updates about AI, digitalization and education</div>
+          <a href="https://www.linkedin.com/in/johan-lindström-b290a85" target="_blank" style="display:inline-block;margin-top:0.8rem;background:#2E7DB5;color:#fff;text-decoration:none;padding:8px 14px;border-radius:7px;font-size:0.72rem;font-weight:700;letter-spacing:0.02em;">Follow on LinkedIn →</a>
+        </div>
+        <div>
+          <div class="slide-source">choosewise.education</div>
+        </div>
+      </div>`;
+
+    const slidesHTML = items.map((item, i) => `
+      <div class="carousel-slide ${getCategoryClass(item.category)}">
+        <div>
+          <div class="slide-number">${String(i + 1).padStart(2, '0')} / ${String(items.length).padStart(2, '0')}</div>
+          <div class="slide-category" style="margin-top:6px;">${getCategoryLabel(item.category)}</div>
+        </div>
+        <div class="slide-title">${escapeHtml(item.title)}</div>
+        <div>
+          <div class="slide-source">${escapeHtml(item.source)}</div>
+          <div class="slide-logo" style="margin-top:8px;">JOHAN LINDSTRÖM</div>
+        </div>
+        <div class="slide-arrow">→</div>
+      </div>`).join('');
+
+    container.innerHTML = `<div class="carousel-preview-grid">${coverHTML}${slidesHTML}${ctaSlide}</div>`;
+  }
+
+  // ─── Download carousel as self-contained HTML ────────────────────────────
+  function downloadCarouselHTML() {
+    const items = getSelectedItems();
+    const today = document.title.replace('Omvärldsbevakning — ', '');
+
+    const slideItems = items.map((item, i) => {
+      const linkLabel = item.lang === 'sv' ? 'Mer info' : 'More info';
+      return `
+      <div class="slide ${item.category}">
+        <div class="slide-top">
+          <span class="slide-num">News ${i + 1} / ${items.length}</span>
+          <span class="slide-cat">${getCategoryLabel(item.category)}</span>
+        </div>
+        <div class="slide-title">${escapeHtml(item.title)}</div>
+        ${item.url ? `<div class="slide-more-wrap"><a class="slide-more" href="${escapeHtml(item.url)}" target="_blank" rel="noopener">${linkLabel} — ${escapeHtml(item.source)}</a></div>` : ''}
+        <div class="slide-bottom">
+          <div class="slide-source">${escapeHtml(item.source)}</div>
+          <div class="slide-brand">JOHAN LINDSTRÖM</div>
+        </div>
+        <div class="slide-arrow">→</div>
+      </div>`;
+    }).join('');
+
+    const html = `<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<title>LinkedIn Karusell — ${today}</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background:#0F1923; color:#fff; padding:2rem; }
+  h1 { color:#8A9BB5; font-size:0.85rem; text-transform:uppercase; letter-spacing:0.1em; margin-bottom:1.5rem; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:12px; }
+  .slide { aspect-ratio:4/5; border-radius:14px; padding:2rem 1.75rem; display:flex; flex-direction:column; justify-content:space-between; position:relative; }
+  .slide-arrow { position:absolute; bottom:1rem; right:1.2rem; color:rgba(255,255,255,0.75); font-size:2.25rem; font-weight:300; line-height:1; }
+  .linkedin-btn { display:inline-block; background:#2E7DB5; color:#fff; text-decoration:none; padding:10px 18px; border-radius:8px; font-size:0.8rem; font-weight:700; margin-top:1rem; }
+  .slide.ai       { background:linear-gradient(145deg,#1B2A4A,#243660); }
+  .slide.digital  { background:linear-gradient(145deg,#1C6499,#2E7DB5); }
+  .slide.school   { background:linear-gradient(145deg,#C96320,#E8792B); }
+  .slide-top { display:flex; justify-content:space-between; align-items:flex-start; gap:1rem; }
+  .slide-num  { font-size:0.7rem; font-weight:800; color:rgba(255,255,255,0.35); letter-spacing:0.1em; }
+  .slide-cat  { font-size:0.85rem; font-weight:700; text-transform:uppercase; letter-spacing:0.08em; color:rgba(255,255,255,0.55); text-align:right; }
+  .slide-title { font-size:1.05rem; font-weight:800; line-height:1.3; letter-spacing:-0.02em; color:#fff; }
+  .slide-bottom { }
+  .slide-source { font-size:0.7rem; color:rgba(255,255,255,0.5); }
+  .slide-brand  { font-size:0.7rem; font-weight:800; color:rgba(255,255,255,0.35); text-transform:uppercase; letter-spacing:0.1em; margin-top:6px; }
+  .slide-bottom .slide-brand { margin-top:28px; }
+  .slide-more-wrap { margin:0.6rem 0; }
+  .slide-more   { display:inline-block; background:#2E7DB5; color:#fff; text-decoration:none; padding:10px 18px; border-radius:8px; font-size:0.8rem; font-weight:700; }
+  .slide-more:hover { background:#4A99D1; }
+  .cover { background:linear-gradient(135deg,#1B2A4A,#0D1829); }
+  .cover-title { font-size:1.25rem; font-weight:800; line-height:1.3; letter-spacing:-0.02em; color:#fff; }
+  @media print {
+    @page { size: 216mm 270mm; margin: 0; }
+    body { background:transparent; padding:0; margin:0; width:216mm; }
+    h1 { display:none; }
+    .grid { display:block; padding:0; margin:0; }
+    .slide {
+      width:216mm; height:270mm; aspect-ratio:auto; border-radius:0;
+      padding:22mm 20mm; margin:0;
+      page-break-after:always; break-after:page;
+      page-break-inside:avoid; break-inside:avoid;
+      -webkit-print-color-adjust:exact; print-color-adjust:exact;
+    }
+    .slide:last-child { page-break-after:auto; break-after:auto; }
+    .slide-title { font-size:32pt; line-height:1.25; }
+    .slide-num { font-size:11pt; }
+    .slide-cat { font-size:14pt; }
+    .slide-source { font-size:11pt; }
+    .slide-brand { font-size:11pt; }
+    .slide-bottom .slide-brand { margin-top:40pt; }
+    .slide-arrow { font-size:42pt; bottom:12mm; right:15mm; }
+    .slide-more-wrap { margin:14pt 0; }
+    .slide-more  { font-size:13pt; padding:12pt 20pt; border-radius:10pt; }
+    .cover-title { font-size:38pt; line-height:1.25; }
+    .linkedin-btn { font-size:13pt; padding:16px 32px; border-radius:12px; }
+    .slide-brand:last-of-type { font-size:11pt; }
+  }
+</style>
+</head>
+<body>
+<h1>LinkedIn-karusell · Omvärldsbevakning · ${today}</h1>
+<div class="grid">
+  <div class="slide cover">
+    <div class="slide-brand">NEWS YOU NEED TO KNOW</div>
+    <div class="cover-title">Important news about AI, digitalization and education</div>
+    <div>
+      <div class="slide-source">${today}</div>
+      <div class="slide-brand" style="margin-top:6px;">Johan Lindström</div>
+      <div class="slide-brand" style="margin-top:2px;">choosewise.education</div>
+    </div>
+    <div class="slide-arrow">→</div>
+  </div>
+  ${slideItems}
+  <div class="slide cover">
+    <div class="slide-brand">JOHAN LINDSTRÖM</div>
+    <div class="cover-title">Follow me for updates about AI, digitalization and education</div>
+    <div>
+      <a href="https://www.linkedin.com/in/johan-lindström-b290a85" class="linkedin-btn" target="_blank">Follow on LinkedIn →</a>
+    </div>
+  </div>
+</div>
+</body>
+</html>`;
+
+    const blob = new Blob([html], {type:'text/html;charset=utf-8'});
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = '20261018_LinkedIn_Karusell.html';
+    a.click();
+  }
+
+  // ─── Download page HTML ──────────────────────────────────────────────────
+  function downloadHTML() {
+    const blob = new Blob([document.documentElement.outerHTML], {type:'text/html;charset=utf-8'});
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = '20261018_Omvarldsbevakning.html';
+    a.click();
+  }
+
+  // ─── Copy all headlines to clipboard ────────────────────────────────────
+  function copyAllHeadlines() {
+    const lines = [];
+    lines.push('=== OMVÄRLDSBEVAKNING 18 oktober 2026 ===\n');
+
+    ['ai','digital','school'].forEach(cat => {
+      const section = cat === 'ai' ? 'AI-NYHETER' : cat === 'digital' ? 'DIGITALISERING' : 'SKOLA & UTBILDNING';
+      lines.push(`\n--- ${section} ---`);
+      document.querySelectorAll(`#grid-${cat} .news-card`).forEach(card => {
+        lines.push(`• ${card.dataset.title} (${card.dataset.source})`);
+      });
+    });
+
+    navigator.clipboard.writeText(lines.join('\n'))
+      .then(() => { alert('Rubriker kopierade till urklipp!'); })
+      .catch(() => { alert('Kunde inte kopiera — prova ctrl+A, ctrl+C manuellt.'); });
+  }
+
+  // ─── Utilities ───────────────────────────────────────────────────────────
+  function escapeHtml(str) {
+    return String(str)
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+      .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+  }
+
+  // Close modal on overlay click
+  document.getElementById('carouselModal').addEventListener('click', function(e) {
+    if (e.target === this) closeCarouselModal();
+  });
+</script>
+
+</body>
+</html>
