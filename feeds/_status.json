@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-18T07:22:28Z",
-  "ok": 19,
-  "failed": 2,
+  "updated": "2026-10-19T08:01:31Z",
+  "ok": 20,
+  "failed": 1,
   "feeds": [
     {
       "id": "openai",
@@ -19,7 +19,7 @@
       "lang": "en",
       "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/refs/heads/main/feeds/feed_anthropic_news.xml",
       "ok": true,
-      "bytes": 130196
+      "bytes": 130595
     },
     {
       "id": "google_ai",
@@ -36,8 +36,8 @@
       "cat": "ai",
       "lang": "en",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": false,
-      "error": "svaret är inte RSS eller Atom (troligen en HTML-sida)"
+      "ok": true,
+      "bytes": 68646
     },
     {
       "id": "microsoft",
@@ -73,7 +73,7 @@
       "lang": "en",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "ok": true,
-      "bytes": 18970
+      "bytes": 18566
     },
     {
       "id": "huggingface",
@@ -127,7 +127,7 @@
       "lang": "en",
       "url": "https://thejournal.com/rss-feeds/all-articles.aspx",
       "ok": true,
-      "bytes": 26696
+      "bytes": 25988
     },
     {
       "id": "eschoolnews",
@@ -172,7 +172,7 @@
       "lang": "en",
       "url": "https://theconversation.com/ca/education/articles.atom",
       "ok": true,
-      "bytes": 291987
+      "bytes": 288207
     },
     {
       "id": "skolledaren",
@@ -203,7 +203,7 @@
         "undervisning"
       ],
       "ok": true,
-      "bytes": 103035
+      "bytes": 103150
     }
   ]
 }
