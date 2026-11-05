@@ -3,41 +3,521 @@
   "source": "TechCrunch AI",
   "cat": "ai",
   "lang": "en",
-  "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-  "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-  "published": "2026-11-03T07:20Z",
-  "age_hours": 3,
-  "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-  "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-  "published": "2026-11-03T03:30Z",
-  "age_hours": 6,
-  "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-  "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-  "published": "2026-11-03T01:49Z",
+  "title": "Apple is reportedly cutting budgets for its internal AI usage",
+  "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+  "published": "2026-11-05T01:26Z",
   "age_hours": 8,
-  "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
+  "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams."
  },
  {
   "source": "TechCrunch AI",
   "cat": "ai",
   "lang": "en",
-  "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-  "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-  "published": "2026-11-03T00:35Z",
+  "title": "After the midterms, a bigger clash over data centers could be coming",
+  "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+  "published": "2026-11-05T01:02Z",
   "age_hours": 9,
-  "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion."
+  "summary": "Data center opposition crossed party lines in Tuesday’s midterms."
+ },
+ {
+  "source": "THE Journal",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Survey Finds 84% of Organizations Reported at Least One AI-Related Incident in the Past Year",
+  "url": "https://thejournal.com/articles/2026/11/04/survey-finds-84-of-organizations-reported-at-least-one-ai-related-incident-in-the-past-year.aspx",
+  "published": "2026-11-04T23:14Z",
+  "age_hours": 11,
+  "summary": "Organizations are running into problems as they give artificial intelligence more control over critical business applications, according to a new survey from identity security firm Delinea."
+ },
+ {
+  "source": "THE Journal",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Cisco Intros Privileged Infrastructure Access for People and AI Agents",
+  "url": "https://thejournal.com/articles/2026/11/04/cisco-intros-privileged-infrastructure-access-for-people-and-ai-agents.aspx",
+  "published": "2026-11-04T22:59Z",
+  "age_hours": 11,
+  "summary": "Cisco has introduced Privileged Infrastructure Access, an approach to infrastructure administration that gives people and AI agents temporary, task-specific permissions instead of leaving standing privileges available after their work is done."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+  "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+  "published": "2026-11-04T22:45Z",
+  "age_hours": 11,
+  "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle."
+ },
+ {
+  "source": "THE Journal",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Microsoft Expands Protections and Controls for Sovereign Cloud",
+  "url": "https://thejournal.com/articles/2026/11/04/microsoft-expands-protections-and-controls-for-sovereign-cloud.aspx",
+  "published": "2026-11-04T22:24Z",
+  "age_hours": 11,
+  "summary": "Microsoft is introducing new tools within its sovereign cloud offerings designed to give organizations tighter control over where their data resides, who can access it, and how critical systems operate, especially in light of AI becoming a bigger part of enterprise infrastructure."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+  "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+  "published": "2026-11-04T22:13Z",
+  "age_hours": 12,
+  "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Almost no one uses AI agents to book their Uber, company says",
+  "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+  "published": "2026-11-04T21:56Z",
+  "age_hours": 12,
+  "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "OpenAI is already trying to shape the 2028 election",
+  "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+  "published": "2026-11-04T21:25Z",
+  "age_hours": 12,
+  "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Meta acquires AI coding startup Conductor",
+  "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+  "published": "2026-11-04T21:10Z",
+  "age_hours": 13,
+  "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Open source AI is booming. Hugging Face explains who profits.",
+  "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+  "published": "2026-11-04T19:30Z",
+  "age_hours": 14,
+  "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&#160; On this episode of [&#8230;]"
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+  "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+  "published": "2026-11-04T19:29Z",
+  "age_hours": 14,
+  "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+  "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+  "published": "2026-11-04T18:44Z",
+  "age_hours": 15,
+  "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&#160; On this episode of [&#8230;]"
+ },
+ {
+  "source": "Hugging Face Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+  "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+  "published": "2026-11-04T17:50Z",
+  "age_hours": 16,
+  "summary": ""
+ },
+ {
+  "source": "Skolledaren",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Psykologen: Så kan rektorn hålla i längden",
+  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/11/psykologen-sa-kan-rektorn-halla-i-langden/",
+  "published": "2026-11-04T17:45Z",
+  "age_hours": 17,
+  "summary": "Chefspsykologen Charlotte Valleskog konstaterar att det finns tonvis med kurser om hur man blir en bättre ledare. Men för att uppnå ett hållbart ledarskap bör man rikta uppmärksamheten mot sammanhanget och den organisation som ledaren befinner sig i."
+ },
+ {
+  "source": "Skolledaren",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Guiden: Checklista för ett hållbart chefskap",
+  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/11/guiden-checklista-forett-hallbart-chefskap/",
+  "published": "2026-11-04T17:45Z",
+  "age_hours": 17,
+  "summary": "Fem råd från chefspsykologen Charlotte Valleskog, författare till boken ”Hållbara chefer – Skapa förutsättningar för ett långsiktigt ledarskap”, om hur chefskapet kan bli mer hållbart."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+  "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+  "published": "2026-11-04T16:51Z",
+  "age_hours": 17,
+  "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+  "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+  "published": "2026-11-04T16:17Z",
+  "age_hours": 17,
+  "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly."
+ },
+ {
+  "source": "Regeringen",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Ny mötesplats för unga vuxna med cancer i Lund",
+  "url": "https://www.regeringen.se/artiklar/2026/11/ny-motesplats-for-unga-vuxna-med-cancer-i-lund/",
+  "published": "2026-11-04T14:49Z",
+  "age_hours": 20,
+  "summary": "I veckan deltog sjukvårdsminister Elisabet Lann i invigningen av en ny mötesplats för unga vuxna med cancer vid Skånes universitetssjukhus. Verksamheten ska följa patienten hela vägen från första besöket på onkologisk klinik till uppföljning långt efter avslutad behandling."
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+  "url": "https://openai.com/index/openai-to-acquire-pierre",
+  "published": "2026-11-04T14:30Z",
+  "age_hours": 19,
+  "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
+ },
+ {
+  "source": "EdTech Magazine K-12",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Writing and Updating K–12 AI Use Policies That Meet the Moment",
+  "url": "https://edtechmagazine.com/k12/article/2026/11/writing-and-updating-k-12-ai-use-policies-meet-moment-perfcon",
+  "published": "2026-11-04T13:52Z",
+  "age_hours": 15,
+  "summary": "As many K–12 schools shift their artificial intelligence use from simple chatbots to more sophisticated agentic tools, AI policy for schools is not keeping pace. While 8 in 10 K–12 districts have adopted an AI policy, it remains difficult to keep up to date with the technology’s continuing innovation. “The models now change on a cadence of weeks, not months or years, and district policy changes mu"
+ },
+ {
+  "source": "The Conversation — Education",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Are schools a great equalizer? They help kids catch up, but wealthier children still pull ahead",
+  "url": "https://theconversation.com/are-schools-a-great-equalizer-they-help-kids-catch-up-but-wealthier-children-still-pull-ahead-295330",
+  "published": "2026-11-04T13:27Z",
+  "age_hours": 20,
+  "summary": "By some measures, schools are a great equalizer for children coming from different backgrounds. But this isn’t the full story."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+  "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+  "published": "2026-11-04T13:00Z",
+  "age_hours": 21,
+  "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today."
+ },
+ {
+  "source": "eSchool News",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Edtech stakeholders urge support for E-Rate",
+  "url": "https://www.eschoolnews.com/it-leadership/2026/11/04/edtech-stakeholders-urge-support-for-e-rate/",
+  "published": "2026-11-04T10:00Z",
+  "age_hours": 24,
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/11/E-Rate-CoSN.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Groups urge Congress to preserve the E-Rate, which provides essential broadband support for schools and libraries as connectivity needs grow.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcset"
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "A thousand fewer paths to root",
+  "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+  "published": "2026-11-04T08:00Z",
+  "age_hours": 26,
+  "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+  "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+  "published": "2026-11-04T07:00Z",
+  "age_hours": 27,
+  "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
+ },
+ {
+  "source": "EdSurge",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Finding Our Way Forward: The Struggle and Promise of AI Literacy",
+  "url": "https://www.edsurge.com/news/finding-our-way-forward-the-struggle-and-promise-of-ai-literacy",
+  "published": "2026-11-04T00:00Z",
+  "age_hours": 34,
+  "summary": "Preparing students for an AI-driven future requires prioritizing the human qualities and values we cannot afford to lose along the way."
+ },
+ {
+  "source": "EdSurge",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Do Classroom Games Teach or Just Entertain?",
+  "url": "https://www.edsurge.com/news/do-classroom-games-teach-or-just-entertain",
+  "published": "2026-11-04T00:00Z",
+  "age_hours": 34,
+  "summary": ""
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Introducing Images 2.6",
+  "url": "https://openai.com/index/introducing-images-2-6",
+  "published": "2026-11-04T00:00Z",
+  "age_hours": 34,
+  "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API."
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+  "url": "https://openai.com/index/devrev-enterprise-self-service",
+  "published": "2026-11-04T00:00Z",
+  "age_hours": 34,
+  "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Anthropic is working on a system to prove AI models’ identity",
+  "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+  "published": "2026-11-03T22:41Z",
+  "age_hours": 35,
+  "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Data centers are turning to old jet engines as the wait for power grows",
+  "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+  "published": "2026-11-03T22:19Z",
+  "age_hours": 35,
+  "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+  "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+  "published": "2026-11-03T21:43Z",
+  "age_hours": 36,
+  "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+  "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+  "published": "2026-11-03T21:05Z",
+  "age_hours": 37,
+  "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+  "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+  "published": "2026-11-03T19:34Z",
+  "age_hours": 38,
+  "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+  "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+  "published": "2026-11-03T18:42Z",
+  "age_hours": 39,
+  "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for."
+ },
+ {
+  "source": "Apple Newsroom",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Redesigned Health app expands language support",
+  "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
+  "published": "2026-11-03T18:24Z",
+  "age_hours": 39,
+  "summary": "Apple announced expanded language support for the redesigned Health app, bringing personalized health insights to millions of people worldwide."
+ },
+ {
+  "source": "The Conversation — Canada Education",
+  "cat": "skola",
+  "lang": "en",
+  "title": "Bystanders and sexual violence: Young men need real-time strategies for intervention",
+  "url": "https://theconversation.com/bystanders-and-sexual-violence-young-men-need-real-time-strategies-for-intervention-294649",
+  "published": "2026-11-03T17:33Z",
+  "age_hours": 40,
+  "summary": "Intervening to interrupt acts of violence begins with noticing the event, interpreting it as an emergency where help is needed and assuming responsibility for helping."
+ },
+ {
+  "source": "Hugging Face Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "StateBench: Testing how language models track state changes over long documents",
+  "url": "https://huggingface.co/blog/allenai/statebench",
+  "published": "2026-11-03T17:15Z",
+  "age_hours": 41,
+  "summary": ""
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Anthropic is still grappling with the economics of compute",
+  "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+  "published": "2026-11-03T17:07Z",
+  "age_hours": 41,
+  "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse."
+ },
+ {
+  "source": "The Conversation — Canada Education",
+  "cat": "skola",
+  "lang": "en",
+  "title": "Stopping racist bullying at school means building belonging before the next incident",
+  "url": "https://theconversation.com/stopping-racist-bullying-at-school-means-building-belonging-before-the-next-incident-293881",
+  "published": "2026-11-03T17:02Z",
+  "age_hours": 41,
+  "summary": "Anti-bullying work overlooks racialized bullying, and racialized bullying requires a different response. Reacting to incidents isn’t enough."
+ },
+ {
+  "source": "Google DeepMind Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Agentic cheminformatics with Google Antigravity",
+  "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+  "published": "2026-11-03T17:01Z",
+  "age_hours": 41,
+  "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
+ },
+ {
+  "source": "Hugging Face Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Palette: teaching a small model to build decks in your design language",
+  "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+  "published": "2026-11-03T16:35Z",
+  "age_hours": 41,
+  "summary": ""
+ },
+ {
+  "source": "The Conversation — Education",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Nearly 7 in 10 professors report being bullied, often by students over grades",
+  "url": "https://theconversation.com/nearly-7-in-10-professors-report-being-bullied-often-by-students-over-grades-244397",
+  "published": "2026-11-03T13:04Z",
+  "age_hours": 45,
+  "summary": "The rates are similar to high-stress workplaces like emergency services."
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Accelerating engineering for the physical world",
+  "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+  "published": "2026-11-03T12:00Z",
+  "age_hours": 46,
+  "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
+ },
+ {
+  "source": "EdTech Magazine K-12",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "How K–12 Districts Can Use Student Voices To Guide Ed Tech Purchases",
+  "url": "https://edtechmagazine.com/k12/article/2026/10/how-k-12-districts-can-use-student-voices-guide-ed-tech-purchases",
+  "published": "2026-11-03T11:21Z",
+  "age_hours": 41,
+  "summary": "Although K–12 school districts spend billions on educational technology, often students are left out of the tech buying process. But including students in procurement decisions can boost learning and ensure that the technology meets the needs of students. Recent research from ISTE+ASCD found that incorporating student input leads to more ease of use for tech tools and a “clear, intuitive user inte"
+ },
+ {
+  "source": "Class Tech Tips",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "What It Takes to Run an AI Literacy Summit for Educators with Dr. Marc Cicchino – Easy EdTech Podcast 395",
+  "url": "https://classtechtips.com/2026/11/03/ai-literacy-summit-395/",
+  "published": "2026-11-03T10:00Z",
+  "age_hours": 48,
+  "summary": "<p>Dr. Marc Cicchino explains how New Jersey’s AI Literacy Summit helps educators explore AI, from ChatGPT basics to agentic AI and app building.</p> <p>The post <a href=\"https://classtechtips.com/2026/11/03/ai-literacy-summit-395/\">What It Takes to Run an AI Literacy Summit for Educators with Dr. Marc Cicchino &#8211; Easy EdTech Podcast 395</a> appeared first on <a href=\"https://classtechtips.co"
+ },
+ {
+  "source": "eSchool News",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Why one-off AI training will not prepare teachers",
+  "url": "https://www.eschoolnews.com/digital-learning/2026/11/03/why-one-off-ai-training-will-not-prepare-teachers/",
+  "published": "2026-11-03T10:00Z",
+  "age_hours": 48,
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/11/ai-teachers-d2l.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Districts need sustained support connecting AI to daily instructional decisions and support teachers in their efforts.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://www.eschoolnews.com/files/2026"
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "How Cisco defends at machine speed with OpenAI",
+  "url": "https://openai.com/index/cisco-cyber",
+  "published": "2026-11-03T08:00Z",
+  "age_hours": 50,
+  "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Heimstaden is changing residential real estate management with AI",
+  "url": "https://openai.com/index/heimstaden",
+  "published": "2026-11-03T08:00Z",
+  "age_hours": 50,
+  "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
+ },
+ {
+  "source": "EdSurge",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Survey: Most Parents Want Students to Use AI in School — With Strong Safeguards",
+  "url": "https://www.edsurge.com/news/survey-most-parents-want-students-to-use-ai-in-school-with-strong-safeguards",
+  "published": "2026-11-03T00:00Z",
+  "age_hours": 58,
+  "summary": "Parents want schools to teach AI — but 4 in 10 teachers say they’ve had no training at all."
+ },
+ {
+  "source": "Hugging Face Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "CWE-bench v2: More coverage, quality, and transparency",
+  "url": "https://huggingface.co/blog/cwe-bench",
+  "published": "2026-11-03T00:00Z",
+  "age_hours": 58,
+  "summary": ""
  },
  {
   "source": "Hugging Face Blog",
@@ -46,28 +526,18 @@
   "title": "Transformers Model Integration Contracts",
   "url": "https://huggingface.co/blog/transformers-mic",
   "published": "2026-11-03T00:00Z",
-  "age_hours": 10,
+  "age_hours": 58,
   "summary": ""
  },
  {
-  "source": "TechCrunch AI",
+  "source": "OpenAI News",
   "cat": "ai",
   "lang": "en",
-  "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-  "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-  "published": "2026-11-02T23:13Z",
-  "age_hours": 11,
-  "summary": "The one-year-old startup is now valued at $300 million."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-  "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-  "published": "2026-11-02T22:14Z",
-  "age_hours": 12,
-  "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
+  "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+  "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+  "published": "2026-11-03T00:00Z",
+  "age_hours": 58,
+  "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
  },
  {
   "source": "Apple Newsroom",
@@ -76,7 +546,7 @@
   "title": "Apple reports fourth quarter results",
   "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
   "published": "2026-11-02T21:30Z",
-  "age_hours": 12,
+  "age_hours": 60,
   "summary": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026."
  },
  {
@@ -86,28 +556,8 @@
   "title": "School psychologist insights could improve learning for entire classrooms",
   "url": "https://theconversation.com/school-psychologist-insights-could-improve-learning-for-entire-classrooms-289270",
   "published": "2026-11-02T19:27Z",
-  "age_hours": 14,
+  "age_hours": 62,
   "summary": "Beyond conducting one-on-one assessments for students, the expertise of school psychologists could be better used to support teachers’ professional development."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Web host Squarespace lays off 19% of its employees",
-  "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-  "published": "2026-11-02T19:25Z",
-  "age_hours": 14,
-  "summary": "The website builder said that the job losses are part of a broader restructuring of its organization."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-  "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-  "published": "2026-11-02T19:19Z",
-  "age_hours": 15,
-  "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity."
  },
  {
   "source": "THE Journal",
@@ -116,7 +566,7 @@
   "title": "Report: Global Ransomware Attacks Rise 23% in Q3",
   "url": "https://thejournal.com/articles/2026/11/02/report-global-ransomware-attacks-rise-23-in-q3.aspx",
   "published": "2026-11-02T18:23Z",
-  "age_hours": 16,
+  "age_hours": 63,
   "summary": "Global ransomware activity increased 23% in the third quarter of 2026, with organizations in North America and Europe accounting for the largest share of attacks, according to cybersecurity firm NCC Group."
  },
  {
@@ -126,7 +576,7 @@
   "title": "Preparing our next security sprint to harden OpenAI",
   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
   "published": "2026-11-02T18:00Z",
-  "age_hours": 16,
+  "age_hours": 64,
   "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
  },
  {
@@ -136,7 +586,7 @@
   "title": "Rewarding defenders with bigger bug bounties",
   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
   "published": "2026-11-02T18:00Z",
-  "age_hours": 16,
+  "age_hours": 64,
   "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
  },
  {
@@ -146,7 +596,7 @@
   "title": "IDC Report Finds Significant Gap Between AI Spending and Measurable Financial Returns",
   "url": "https://thejournal.com/articles/2026/11/02/idc-report-finds-significant-gap-between-ai-spending-and-measurable-financial-returns.aspx",
   "published": "2026-11-02T17:17Z",
-  "age_hours": 17,
+  "age_hours": 64,
   "summary": "Nearly 70% of organizations report a significant gap between artificial intelligence spending and measurable financial returns, according to a recent survey by IDC."
  },
  {
@@ -156,28 +606,8 @@
   "title": "With Little Federal Guidance, States Take on Screen Time Themselves",
   "url": "https://thejournal.com/articles/2026/11/02/with-little-federal-guidance-states-take-on-screen-time-themselves.aspx",
   "published": "2026-11-02T16:54Z",
-  "age_hours": 17,
+  "age_hours": 65,
   "summary": "As an umbrella term, education technology encompasses everything from learning management systems and student information systems to productivity tools and AI platforms. More specific language clarifying the difference between ed tech and consumer-facing tools would allow state leaders to match the right evidence, expertise, and policy to the right questions."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-  "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-  "published": "2026-11-02T16:30Z",
-  "age_hours": 17,
-  "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?"
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-  "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-  "published": "2026-11-02T16:23Z",
-  "age_hours": 18,
-  "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\""
  },
  {
   "source": "OpenAI News",
@@ -186,7 +616,7 @@
   "title": "Scaling Git at OpenAI",
   "url": "https://openai.com/index/scaling-git-at-openai",
   "published": "2026-11-02T15:30Z",
-  "age_hours": 18,
+  "age_hours": 66,
   "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
  },
  {
@@ -196,38 +626,8 @@
   "title": "Introducing the Grid Protectors Program",
   "url": "https://openai.com/index/grid-protectors-program",
   "published": "2026-11-02T15:00Z",
-  "age_hours": 19,
+  "age_hours": 67,
   "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-  "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-  "published": "2026-11-02T15:00Z",
-  "age_hours": 19,
-  "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-  "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-  "published": "2026-11-02T14:00Z",
-  "age_hours": 20,
-  "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-  "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-  "published": "2026-11-02T13:57Z",
-  "age_hours": 20,
-  "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change."
  },
  {
   "source": "EdTech Magazine K-12",
@@ -236,7 +636,7 @@
   "title": "4 Critical Security Considerations for AI in K–12 Schools",
   "url": "https://edtechmagazine.com/k12/article/2026/11/4-critical-security-considerations-ai-k-12-schools",
   "published": "2026-11-02T13:20Z",
-  "age_hours": 16,
+  "age_hours": 63,
   "summary": "In K–12 districts, generative artificial intelligence is changing the way everyone works. Administrators use the tools to streamline workflows, teachers customize lessons for individual students’ needs, and students brainstorm ways to tackle an assignment. But as AI innovation and adoption grows, so do the risks. K–12 districts manage a lot of sensitive student data and staff. Without the right gu"
  },
  {
@@ -246,7 +646,7 @@
   "title": "Students who attended Miami-Dade public school pre-K outperformed peers in 18-year study",
   "url": "https://theconversation.com/students-who-attended-miami-dade-public-school-pre-k-outperformed-peers-in-18-year-study-288884",
   "published": "2026-11-02T13:03Z",
-  "age_hours": 21,
+  "age_hours": 69,
   "summary": "A new longitudinal study followed kids from pre-K through grade 12 and found that those who attended public school pre-K programs had an academic advantage."
  },
  {
@@ -256,7 +656,7 @@
   "title": "Deltar vid invigning av verksamhet för unga cancerdrabbade, Skånes universitetssjukhus",
   "url": "https://www.regeringen.se/kalendarium/2026/11/deltar-vid-invigning-av-verksamhet-for-unga-cancerdrabbade-skanes-universitetssjukhus/",
   "published": "2026-11-02T10:56Z",
-  "age_hours": 24,
+  "age_hours": 72,
   "summary": ""
  },
  {
@@ -266,127 +666,7 @@
   "title": "Key tips for district leaders on using data to improve attendance",
   "url": "https://www.eschoolnews.com/educational-leadership/2026/11/02/key-tips-for-district-leaders-on-using-data-to-improve-attendance/",
   "published": "2026-11-02T10:00Z",
-  "age_hours": 24,
-  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/11/chronic-absenteeism-attendance.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Chronic absenteeism is predictable, which means it&#039;s preventable--data shows where and when students struggle\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https:"
- },
- {
-  "source": "Regeringen",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Sjukvårdsministern besöker Skånes universitetssjukhus",
-  "url": "https://www.regeringen.se/pressmeddelanden/2026/11/sjukvardsministern-besoker-skanes-universitetssjukhus/",
-  "published": "2026-11-02T09:59Z",
-  "age_hours": 25,
-  "summary": "Tisdag den 3 november besöker sjukvårdsminister Elisabet Lann Skånes universitetssjukhus i Lund. Ministern ska delta vid invigningen av en ny mötesplats för unga vuxna drabbade av cancer."
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "LifeVal",
-  "url": "https://openai.com/index/lifeval",
-  "published": "2026-11-02T09:00Z",
-  "age_hours": 25,
-  "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork."
- },
- {
-  "source": "EdSurge",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "Want Students to Think With AI? Raise the Stakes.",
-  "url": "https://www.edsurge.com/news/want-students-to-think-with-ai-raise-the-stakes",
-  "published": "2026-11-02T00:00Z",
-  "age_hours": 34,
-  "summary": "AI tutors won’t teach students to think until the conversation itself becomes the assessment."
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Qodo builds context into AI code review with Codex",
-  "url": "https://openai.com/index/qodo-codex-plugin",
-  "published": "2026-11-02T00:00Z",
-  "age_hours": 34,
-  "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-  "url": "https://openai.com/index/dan-driscoll-joins-openai",
-  "published": "2026-11-02T00:00Z",
-  "age_hours": 34,
-  "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-  "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-  "published": "2026-11-01T21:55Z",
-  "age_hours": 36,
-  "summary": "Data centers are deeply unpopular. But what if we called them something else?"
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-  "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-  "published": "2026-11-01T20:57Z",
-  "age_hours": 37,
-  "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Data centers are now a midterm issue, even in Brooklyn",
-  "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-  "published": "2026-11-01T02:22Z",
-  "age_hours": 56,
-  "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-  "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-  "published": "2026-10-31T21:41Z",
-  "age_hours": 60,
-  "summary": "Apple's new CEO defended the company's current position in the AI landscape."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-  "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-  "published": "2026-10-31T21:36Z",
-  "age_hours": 60,
-  "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-  "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-  "published": "2026-10-31T21:17Z",
-  "age_hours": 61,
-  "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "OpenAI reportedly lowers funding target for new round",
-  "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-  "published": "2026-10-31T16:12Z",
-  "age_hours": 66,
-  "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations."
+  "age_hours": 72,
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/11/chronic-absenteeism-attendance.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Chronic absenteeism is predictable, which means it&#039;s preventable--data shows where and when students struggle\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://www."
  }
 ]
