@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-06T09:42:26Z",
-  "ok": 19,
-  "failed": 2,
+  "updated": "2026-11-07T09:05:06Z",
+  "ok": 20,
+  "failed": 1,
   "feeds": [
     {
       "id": "openai",
@@ -10,7 +10,7 @@
       "lang": "en",
       "url": "https://openai.com/news/rss.xml",
       "ok": true,
-      "bytes": 831593
+      "bytes": 832876
     },
     {
       "id": "anthropic",
@@ -36,8 +36,8 @@
       "cat": "ai",
       "lang": "en",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": false,
-      "error": "svaret är inte RSS eller Atom (troligen en HTML-sida)"
+      "ok": true,
+      "bytes": 70178
     },
     {
       "id": "microsoft",
@@ -73,7 +73,7 @@
       "lang": "en",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "ok": true,
-      "bytes": 17032
+      "bytes": 17808
     },
     {
       "id": "huggingface",
@@ -82,7 +82,7 @@
       "lang": "en",
       "url": "https://huggingface.co/blog/feed.xml",
       "ok": true,
-      "bytes": 265361
+      "bytes": 265651
     },
     {
       "id": "midjourney",
@@ -109,7 +109,7 @@
       "lang": "en",
       "url": "https://classtechtips.com/feed",
       "ok": true,
-      "bytes": 14488
+      "bytes": 14951
     },
     {
       "id": "cultofpedagogy",
@@ -136,7 +136,7 @@
       "lang": "en",
       "url": "https://www.eschoolnews.com/feed/",
       "ok": true,
-      "bytes": 1950756
+      "bytes": 1950424
     },
     {
       "id": "conversation_edu",
@@ -145,7 +145,7 @@
       "lang": "en",
       "url": "https://theconversation.com/us/education/articles.atom",
       "ok": true,
-      "bytes": 415966
+      "bytes": 413043
     },
     {
       "id": "edtechmagazine",
@@ -163,7 +163,7 @@
       "lang": "en",
       "url": "https://www.oph.fi/en/latest.rss",
       "ok": true,
-      "bytes": 17951
+      "bytes": 18087
     },
     {
       "id": "conversation_canada",
@@ -203,7 +203,7 @@
         "undervisning"
       ],
       "ok": true,
-      "bytes": 99790
+      "bytes": 101881
     }
   ]
 }
