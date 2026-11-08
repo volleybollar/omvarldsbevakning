@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T09:05:06Z",
+  "updated": "2026-11-08T09:22:42Z",
   "ok": 20,
   "failed": 1,
   "feeds": [
@@ -73,7 +73,7 @@
       "lang": "en",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "ok": true,
-      "bytes": 17808
+      "bytes": 17508
     },
     {
       "id": "huggingface",
