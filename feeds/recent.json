@@ -1,13 +1,343 @@
 [
  {
+  "source": "Class Tech Tips",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Think Pair Share Questions With Tech Connections – Easy EdTech Podcast 396",
+  "url": "https://classtechtips.com/2026/11/10/think-pair-share-questions-396/",
+  "published": "2026-11-10T10:00Z",
+  "age_hours": 0,
+  "summary": "<p>Get dozens of Think Pair Share questions for classroom community and reflection, plus EdTech tools to make partner talk easier.</p> <p>The post <a href=\"https://classtechtips.com/2026/11/10/think-pair-share-questions-396/\">Think Pair Share Questions With Tech Connections &#8211; Easy EdTech Podcast 396</a> appeared first on <a href=\"https://classtechtips.com\">Class Tech Tips</a>.</p>"
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Closing the AI guidance gap in education",
+  "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+  "published": "2026-11-10T09:00Z",
+  "age_hours": 1,
+  "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning."
+ },
+ {
   "source": "TechCrunch AI",
   "cat": "ai",
   "lang": "en",
-  "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+  "title": "Otter AI can now follow conversations across 30+ languages",
+  "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+  "published": "2026-11-10T07:00Z",
+  "age_hours": 3,
+  "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Anthropic reportedly plans to move forward with IPO plans",
+  "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+  "published": "2026-11-10T01:27Z",
+  "age_hours": 9,
+  "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+  "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+  "published": "2026-11-09T23:28Z",
+  "age_hours": 11,
+  "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+  "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+  "published": "2026-11-09T22:46Z",
+  "age_hours": 11,
+  "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "The race is on to sue Nvidia",
+  "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+  "published": "2026-11-09T22:23Z",
+  "age_hours": 12,
+  "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem."
+ },
+ {
+  "source": "THE Journal",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Enterprise AI Spending Outpaces Adoption Growth, Report Finds",
+  "url": "https://thejournal.com/articles/2026/11/09/enterprise-ai-spending-outpaces-adoption-growth-report-finds.aspx",
+  "published": "2026-11-09T21:25Z",
+  "age_hours": 13,
+  "summary": "Enterprise AI spending is growing faster than the number of organizations paying for it, according to a new Menlo Ventures report that points to a shift from buying access for employees to financing work performed by agents."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+  "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+  "published": "2026-11-09T20:09Z",
+  "age_hours": 14,
+  "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+  "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+  "published": "2026-11-09T19:24Z",
+  "age_hours": 15,
+  "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
+ },
+ {
+  "source": "THE Journal",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Study: Sign-In Problems Are Primary Drivers of Help Desk Tickets",
+  "url": "https://thejournal.com/articles/2026/11/09/study-sign-in-problems-are-primary-drivers-of-help-desk-tickets-study-finds.aspx",
+  "published": "2026-11-09T19:23Z",
+  "age_hours": 15,
+  "summary": "Sign-in problems account for up to 53% of help desk tickets at individual enterprises, but network issues can take significantly longer to resolve, according to a recent study from ControlUp."
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "ChatGPT Enterprise now available in AWS Marketplace",
+  "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+  "published": "2026-11-09T19:00Z",
+  "age_hours": 15,
+  "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
+ },
+ {
+  "source": "THE Journal",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Report: Cyber Criminals Move Toward More Targeted Phishing Attacks",
+  "url": "https://thejournal.com/articles/2026/11/09/report-cyber-criminals-move-toward-more-targeted-phishing-attacks.aspx",
+  "published": "2026-11-09T18:47Z",
+  "age_hours": 15,
+  "summary": "Cybercriminals are moving away from mass phishing scams and focusing on more targeted attacks, often using trusted websites and services to trick victims, according to a new report from KnowBe4."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+  "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+  "published": "2026-11-09T18:09Z",
+  "age_hours": 16,
+  "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+  "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+  "published": "2026-11-09T18:00Z",
+  "age_hours": 16,
+  "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna."
+ },
+ {
+  "source": "The Conversation — Canada Education",
+  "cat": "skola",
+  "lang": "en",
+  "title": "The Holomodor: Lessons about genocidal famine remain important today",
+  "url": "https://theconversation.com/the-holomodor-lessons-about-genocidal-famine-remain-important-today-292535",
+  "published": "2026-11-09T17:23Z",
+  "age_hours": 17,
+  "summary": "For communities encountering silencing in the wake of forced famine or mass atrocity, the ongoing battles over Holodomor recognition and remembrance offer insight."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+  "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+  "published": "2026-11-09T16:56Z",
+  "age_hours": 17,
+  "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse."
+ },
+ {
+  "source": "Skolledaren",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Här finns stöd att få kring arbetsmiljön",
+  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/11/har-finns-stod-att-fa-kring-arbetsmiljon/",
+  "published": "2026-11-09T16:23Z",
+  "age_hours": 19,
+  "summary": "Arbetsmiljöverket varnar för att få anmäler tillbud inom skolans värld. Det gäller även rektorn själv. – Det är viktigt att man som chef rapporterar tillbud som gäller en själv också. Jag tror att vi lite för lätt glömmer bort att göra det, säger Jonas Olsson, ny chefsförhandlare på Sveriges Skolledare."
+ },
+ {
+  "source": "Skolledaren",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Så säger yrkesetiken om krisstöd",
+  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/11/sa-sager-yrkesetiken-om-krisstod/",
+  "published": "2026-11-09T16:23Z",
+  "age_hours": 19,
+  "summary": "När en exceptionell kris, som en dödlig attack, inträffar på en skola riskerar ofta skolledningen själva att drabbas hårt och vara i behov av stöd. Därför kan bland det mest etiska man kan göra som skolledare i den sitsen vara att lämna över krisledningen till andra, skriver yrkesetiska rådet."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+  "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+  "published": "2026-11-09T16:12Z",
+  "age_hours": 18,
+  "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing."
+ },
+ {
+  "source": "Apple Newsroom",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Olivia Dean is Apple Music’s Artist of the Year for 2026",
+  "url": "https://www.apple.com/newsroom/2026/11/olivia-dean-is-apple-musics-artist-of-the-year-for-2026/",
+  "published": "2026-11-09T15:59Z",
+  "age_hours": 18,
+  "summary": "Apple Music named Olivia Dean its 2026 Artist of the Year, recognizing her undeniable leap to stardom over the past year."
+ },
+ {
+  "source": "Hugging Face Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+  "published": "2026-11-09T15:05Z",
+  "age_hours": 19,
+  "summary": ""
+ },
+ {
+  "source": "Class Tech Tips",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "How to Create Literature Circle Roles with EdTech Connections",
+  "url": "https://classtechtips.com/2026/11/09/literature-circle-roles/",
+  "published": "2026-11-09T14:03Z",
+  "age_hours": 20,
+  "summary": "<p>Explore common literature circles roles and EdTech connections like collaborative slides, and AI tips to customize your next book study.</p> <p>The post <a href=\"https://classtechtips.com/2026/11/09/literature-circle-roles/\">How to Create Literature Circle Roles with EdTech Connections</a> appeared first on <a href=\"https://classtechtips.com\">Class Tech Tips</a>.</p>"
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+  "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+  "published": "2026-11-09T14:00Z",
+  "age_hours": 20,
+  "summary": "Automattic aims to compete with the likes of Lovable with Spacefast."
+ },
+ {
+  "source": "EdTech Magazine K-12",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "After a Cyber Incident, IREs Get K–12 Schools Back on Track",
+  "url": "https://edtechmagazine.com/k12/article/2026/11/after-cyber-incident-ires-get-k-12-schools-back-track",
+  "published": "2026-11-09T13:27Z",
+  "age_hours": 16,
+  "summary": "K–12 districts have become an enticing target for cybercriminals. After all, school systems carry a lot of sensitive data, and many are working with limited cybersecurity budgets. Last year, half of K–12 schools experienced a cyber incident, and more than 3 in 10 of those incidents interrupted operations. Districts re-evaluating their approach to cybersecurity should look closely at their backup s"
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+  "url": "https://openai.com/index/control-room",
+  "published": "2026-11-09T13:00Z",
+  "age_hours": 21,
+  "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+ },
+ {
+  "source": "Hugging Face Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+  "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+  "published": "2026-11-09T12:34Z",
+  "age_hours": 22,
+  "summary": ""
+ },
+ {
+  "source": "Skolledaren",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Replik: Rapporten om Rektorsprogrammet utvärderar programmet, inte rektorerna",
+  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/11/replik-rapporten-om-rektorsprogrammet-utvarderar-programmet-inte-rektorerna/",
+  "published": "2026-11-09T11:29Z",
+  "age_hours": 24,
+  "summary": "”Vår rapport om rektorsprogrammet utvärderar inte kompetensen hos svenska rektorer – utan undersöker om rektorsprogrammet tillför något utöver den kompetens som rektorerna redan har.” Det skriver författarna bakom IFAU-rapporten ”Effekter av skolledarskap i Sverige” i en debattreplik på Johan Kant."
+ },
+ {
+  "source": "eSchool News",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Moving beyond plaudits: The anatomy of effective recognition",
+  "url": "https://www.eschoolnews.com/sel/2026/11/09/moving-beyond-plaudits-the-anatomy-of-effective-recognition/",
+  "published": "2026-11-09T10:34Z",
+  "age_hours": 24,
+  "summary": "<img width=\"500\" height=\"311\" src=\"https://www.eschoolnews.com/files/2026/11/teachers-recognition.jpg\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Teachers who receive recognition and who feel valued demonstrate greater enthusiasm, patience, and creativity in their teaching.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" />Apprecia"
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "CodeRabbit scales agentic software development and ships 20x more",
+  "url": "https://openai.com/index/coderabbit-codex-daybreak",
+  "published": "2026-11-09T08:00Z",
+  "age_hours": 26,
+  "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team."
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Kuken Industries searches 70 years of drawings in minutes",
+  "url": "https://openai.com/index/kuken",
+  "published": "2026-11-09T08:00Z",
+  "age_hours": 26,
+  "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
   "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
   "published": "2026-11-09T05:26Z",
-  "age_hours": 5,
+  "age_hours": 29,
   "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO."
+ },
+ {
+  "source": "Anthropic News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+  "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+  "published": "2026-11-09T00:00Z",
+  "age_hours": 34,
+  "summary": "Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences."
+ },
+ {
+  "source": "EdSurge",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Can AI Tell How Well Teachers Notice? Researchers Are Testing It.",
+  "url": "https://www.edsurge.com/news/can-ai-tell-how-well-teachers-notice-researchers-are-testing-it",
+  "published": "2026-11-09T00:00Z",
+  "age_hours": 34,
+  "summary": "The team will study whether AI can measure a key teaching skill and provide useful feedback faster than humans."
  },
  {
   "source": "TechCrunch AI",
@@ -16,7 +346,7 @@
   "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
   "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
   "published": "2026-11-08T21:00Z",
-  "age_hours": 13,
+  "age_hours": 37,
   "summary": "In a memo to the company, Huang admitted that he had an affair."
  },
  {
@@ -26,7 +356,7 @@
   "title": "How women bore the consequences of the First World War in British India",
   "url": "https://theconversation.com/how-women-bore-the-consequences-of-the-first-world-war-in-british-india-289672",
   "published": "2026-11-08T15:29Z",
-  "age_hours": 19,
+  "age_hours": 43,
   "summary": "The ‘tears of womenfolk’ in Punjab became the biggest hurdle to military recruitment by December 1924, according to colonial officials."
  },
  {
@@ -36,7 +366,7 @@
   "title": "Canada’s new open-access policy expands access to research, but leaves publishing fees unchecked",
   "url": "https://theconversation.com/canadas-new-open-access-policy-expands-access-to-research-but-leaves-publishing-fees-unchecked-294648",
   "published": "2026-11-08T15:00Z",
-  "age_hours": 19,
+  "age_hours": 43,
   "summary": "Ending paywalls for Canadian research is a public win. But until funders cap commercial publishing fees, taxpayer money will keep fuelling publisher profits."
  },
  {
@@ -46,7 +376,7 @@
   "title": "Bringing Whole Books Back to the Classroom",
   "url": "https://www.cultofpedagogy.com/whole-books/",
   "published": "2026-11-08T13:54Z",
-  "age_hours": 20,
+  "age_hours": 44,
   "summary": "<p>Somewhere along the way, we stopped reading books in a lot of schools. Let's get them back.</p> The post <a href=\"https://www.cultofpedagogy.com/whole-books/\">Bringing Whole Books Back to the Classroom</a> first appeared on <a href=\"https://www.cultofpedagogy.com\">Cult of Pedagogy</a>."
  },
  {
@@ -56,7 +386,7 @@
   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
   "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
   "published": "2026-11-07T22:07Z",
-  "age_hours": 36,
+  "age_hours": 60,
   "summary": "On Equity, we unpacked what the midterms mean for the tech industry."
  },
  {
@@ -66,137 +396,7 @@
   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
   "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
   "published": "2026-11-07T21:17Z",
-  "age_hours": 37,
+  "age_hours": 61,
   "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Crusoe sells troubled Wyoming data center project to Google",
-  "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-  "published": "2026-11-07T01:40Z",
-  "age_hours": 56,
-  "summary": "The deal highlights the challenges of developing massive AI data centers."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-  "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-  "published": "2026-11-06T22:53Z",
-  "age_hours": 59,
-  "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-  "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-  "published": "2026-11-06T18:44Z",
-  "age_hours": 63,
-  "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-  "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-  "published": "2026-11-06T18:44Z",
-  "age_hours": 63,
-  "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "How a Blue Wave midterm might reshape the AI industry",
-  "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-  "published": "2026-11-06T18:00Z",
-  "age_hours": 64,
-  "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [&#8230;]"
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "After the midterms, is the AI industry in for a rough two years?",
-  "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-  "published": "2026-11-06T17:23Z",
-  "age_hours": 65,
-  "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [&#8230;]"
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-  "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-  "published": "2026-11-06T15:54Z",
-  "age_hours": 66,
-  "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
- },
- {
-  "source": "Finnish National Agency for Education (EDUFI/OPH)",
-  "cat": "skola",
-  "lang": "en",
-  "title": "The key partners of Finnish higher education institutions are found in Europe",
-  "url": "https://www.oph.fi/en/news/2026/key-partners-finnish-higher-education-institutions-are-found-europe",
-  "published": "2026-11-06T15:12Z",
-  "age_hours": 69,
-  "summary": "International partnerships are of strategic importance to Finnish higher education institutions, and their key partners are found in Europe. This is one of the findings of a survey by the Institute of International Education (IIE), according to which higher education institutions are managing their international partnerships in a more goal-oriented manner than before. However, the survey also high"
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-  "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-  "published": "2026-11-06T14:10Z",
-  "age_hours": 68,
-  "summary": "Amazon said that the feature will roll out to millions of users in coming weeks."
- },
- {
-  "source": "Hugging Face Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-  "url": "https://huggingface.co/blog/allenai/toyblocks",
-  "published": "2026-11-06T14:00Z",
-  "age_hours": 68,
-  "summary": ""
- },
- {
-  "source": "The Conversation — Education",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "Young people turned out in near-record numbers for the 2026 midterms, with the economy top of their minds",
-  "url": "https://theconversation.com/young-people-turned-out-in-near-record-numbers-for-the-2026-midterms-with-the-economy-top-of-their-minds-295947",
-  "published": "2026-11-06T13:14Z",
-  "age_hours": 69,
-  "summary": "Whether they went to college or not, young voters heavily favored Democrats."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Underdog shows off a 32MB speech model in new demo",
-  "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-  "published": "2026-11-06T13:02Z",
-  "age_hours": 69,
-  "summary": "Despite its small size, Underdog's new model can generate both speech and music."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Physicl raises $10M to make the digital world real enough for robots",
-  "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-  "published": "2026-11-06T13:00Z",
-  "age_hours": 69,
-  "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online."
  }
 ]
