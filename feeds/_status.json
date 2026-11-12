@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-11T09:45:30Z",
-  "ok": 19,
-  "failed": 2,
+  "updated": "2026-11-12T10:06:44Z",
+  "ok": 18,
+  "failed": 3,
   "feeds": [
     {
       "id": "openai",
@@ -10,7 +10,7 @@
       "lang": "en",
       "url": "https://openai.com/news/rss.xml",
       "ok": true,
-      "bytes": 840109
+      "bytes": 840658
     },
     {
       "id": "anthropic",
@@ -36,8 +36,8 @@
       "cat": "ai",
       "lang": "en",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": true,
-      "bytes": 69644
+      "ok": false,
+      "error": "svaret är inte RSS eller Atom (troligen en HTML-sida)"
     },
     {
       "id": "microsoft",
@@ -73,7 +73,7 @@
       "lang": "en",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "ok": true,
-      "bytes": 17865
+      "bytes": 17652
     },
     {
       "id": "huggingface",
@@ -82,7 +82,7 @@
       "lang": "en",
       "url": "https://huggingface.co/blog/feed.xml",
       "ok": true,
-      "bytes": 266879
+      "bytes": 267166
     },
     {
       "id": "midjourney",
@@ -91,7 +91,7 @@
       "lang": "en",
       "url": "https://updates.midjourney.com/feed",
       "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'updates.midjourney.com'. (_ssl.c:1081)>"
     },
     {
       "id": "edsurge",
@@ -100,7 +100,7 @@
       "lang": "en",
       "url": "https://edsurge.com/articles_rss",
       "ok": true,
-      "bytes": 462710
+      "bytes": 463351
     },
     {
       "id": "classtechtips",
@@ -109,7 +109,7 @@
       "lang": "en",
       "url": "https://classtechtips.com/feed",
       "ok": true,
-      "bytes": 15114
+      "bytes": 14859
     },
     {
       "id": "cultofpedagogy",
@@ -136,7 +136,7 @@
       "lang": "en",
       "url": "https://www.eschoolnews.com/feed/",
       "ok": true,
-      "bytes": 1944481
+      "bytes": 1943441
     },
     {
       "id": "conversation_edu",
@@ -154,7 +154,7 @@
       "lang": "en",
       "url": "https://edtechmagazine.com/k12/rss.xml",
       "ok": true,
-      "bytes": 11673
+      "bytes": 11652
     },
     {
       "id": "edufi",
@@ -172,7 +172,7 @@
       "lang": "en",
       "url": "https://theconversation.com/ca/education/articles.atom",
       "ok": true,
-      "bytes": 303141
+      "bytes": 304603
     },
     {
       "id": "skolledaren",
@@ -181,7 +181,7 @@
       "lang": "sv",
       "url": "https://www.skolledaren.se/rss",
       "ok": true,
-      "bytes": 38249
+      "bytes": 38258
     },
     {
       "id": "regeringen",
@@ -203,7 +203,7 @@
         "undervisning"
       ],
       "ok": true,
-      "bytes": 102037
+      "bytes": 101733
     }
   ]
 }
