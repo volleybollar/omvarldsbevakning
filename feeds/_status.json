@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T09:46:40Z",
+  "updated": "2026-11-16T10:03:39Z",
   "ok": 19,
   "failed": 2,
   "feeds": [
@@ -10,7 +10,7 @@
       "lang": "en",
       "url": "https://openai.com/news/rss.xml",
       "ok": true,
-      "bytes": 844247
+      "bytes": 846085
     },
     {
       "id": "anthropic",
@@ -55,7 +55,7 @@
       "lang": "en",
       "url": "https://www.apple.com/newsroom/rss-feed.rss",
       "ok": true,
-      "bytes": 18227
+      "bytes": 18230
     },
     {
       "id": "venturebeat",
@@ -73,7 +73,7 @@
       "lang": "en",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "ok": true,
-      "bytes": 17679
+      "bytes": 17342
     },
     {
       "id": "huggingface",
@@ -127,7 +127,7 @@
       "lang": "en",
       "url": "https://thejournal.com/rss-feeds/all-articles.aspx",
       "ok": true,
-      "bytes": 32610
+      "bytes": 31276
     },
     {
       "id": "eschoolnews",
@@ -172,7 +172,7 @@
       "lang": "en",
       "url": "https://theconversation.com/ca/education/articles.atom",
       "ok": true,
-      "bytes": 304377
+      "bytes": 313583
     },
     {
       "id": "skolledaren",
@@ -203,7 +203,7 @@
         "undervisning"
       ],
       "ok": true,
-      "bytes": 101510
+      "bytes": 102912
     }
   ]
 }
