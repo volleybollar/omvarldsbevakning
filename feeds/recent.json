@@ -1,13 +1,313 @@
 [
  {
+  "source": "eSchool News",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Teachers spend 8 hours a week supporting student well-being",
+  "url": "https://www.eschoolnews.com/sel/2026/11/18/teachers-spend-8-hours-a-week-supporting-student-well-being/",
+  "published": "2026-11-18T10:00Z",
+  "age_hours": 1,
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/11/teachers-students-well-being.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"A new RAND report based on a national teacher survey examines how supporting student mental health affects teachers’ well-being.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" sr"
+ },
+ {
+  "source": "Regeringen",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Pressträff om regeringens inställning till ryska idrottares deltagande i tävlingar på svensk mark",
+  "url": "https://www.regeringen.se/pressmeddelanden/2026/11/presstraff-om-regeringens-installning-till-ryska-idrottares-deltagande-i-tavlingar-pa-svensk-mark/",
+  "published": "2026-11-18T06:00Z",
+  "age_hours": 6,
+  "summary": "(Ny version) Onsdag 18 november kl. 11.00 bjuder migrationsminister Johan Forssell in till pressträff tillsammans med utrikesminister Maria Malmer Stenergard, socialminister Jakob Forssmed och gymnasie-, högskole- och forskningsminister Lotta Edholm, om regeringens inställning till ryska idrottares deltagande i tävlingar på svensk mark."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+  "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+  "published": "2026-11-18T01:44Z",
+  "age_hours": 9,
+  "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Nvidia promises that revenue will keep soaring — for now",
+  "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+  "published": "2026-11-18T00:16Z",
+  "age_hours": 10,
+  "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop."
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+  "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+  "published": "2026-11-18T00:00Z",
+  "age_hours": 11,
+  "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+  "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+  "published": "2026-11-17T23:37Z",
+  "age_hours": 11,
+  "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?"
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+  "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+  "published": "2026-11-17T23:04Z",
+  "age_hours": 11,
+  "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+  "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+  "published": "2026-11-17T22:42Z",
+  "age_hours": 12,
+  "summary": "The former CEO offered to return to his top role at the company after his resignation last week."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+  "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+  "published": "2026-11-17T22:29Z",
+  "age_hours": 12,
+  "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "SEC reportedly investigating Nvidia amid Huang exit",
+  "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+  "published": "2026-11-17T21:48Z",
+  "age_hours": 13,
+  "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal."
+ },
+ {
+  "source": "The Conversation — Canada Education",
+  "cat": "skola",
+  "lang": "en",
+  "title": "Google’s AI ultimatum exposes the risks of schools’ dependence on Big Tech",
+  "url": "https://theconversation.com/googles-ai-ultimatum-exposes-the-risks-of-schools-dependence-on-big-tech-296467",
+  "published": "2026-11-17T21:35Z",
+  "age_hours": 13,
+  "summary": "Setting common regulatory standards could give schools the collective leverage they currently lack when dealing with trillion-dollar companies like Google."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Google joins the tech outage trend by announcing it’s not having one",
+  "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+  "published": "2026-11-17T21:34Z",
+  "age_hours": 13,
+  "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Model ML raises $250M to automate investment banking grunt work",
+  "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+  "published": "2026-11-17T19:32Z",
+  "age_hours": 15,
+  "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+  "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+  "published": "2026-11-17T19:02Z",
+  "age_hours": 15,
+  "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+  "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+  "published": "2026-11-17T18:48Z",
+  "age_hours": 16,
+  "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks."
+ },
+ {
+  "source": "Microsoft AI Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Ignite 2026: Building the frontier ecosystem",
+  "url": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
+  "published": "2026-11-17T18:36Z",
+  "age_hours": 16,
+  "summary": "<p>Satya Nadella, Microsoft Chairman and CEO, delivered the opening keynote at Ignite in San Francisco this morning. Here is an edited version of his remarks. This week is about two things: First is how we capitalize on new capabilities that are growing exponentially. And second is how do we build the capability to deal with...</p> <p>The post <a href=\"https://blogs.microsoft.com/blog/2026/11/17/i"
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "As decision model use skyrockets, is customization the next frontier?",
+  "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+  "published": "2026-11-17T18:10Z",
+  "age_hours": 16,
+  "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+  "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+  "published": "2026-11-17T18:04Z",
+  "age_hours": 16,
+  "summary": "The company uses agentic AI to make supply chains faster and more reliable."
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Introducing GPT-6.2 Astra and Sol",
+  "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+  "published": "2026-11-17T17:45Z",
+  "age_hours": 17,
+  "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+  "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+  "published": "2026-11-17T17:32Z",
+  "age_hours": 17,
+  "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+  "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+  "published": "2026-11-17T17:20Z",
+  "age_hours": 17,
+  "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled."
+ },
+ {
+  "source": "Apple Newsroom",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Formula 1® Las Vegas Grand Prix™ streams live on Apple TV this weekend",
+  "url": "https://www.apple.com/newsroom/2026/11/formula-1-las-vegas-grand-prix-streams-live-on-apple-tv-this-weekend/",
+  "published": "2026-11-17T16:59Z",
+  "age_hours": 18,
+  "summary": "Formula 1® returns to the U.S. this weekend for the FORMULA 1® HEINEKEN LAS VEGAS GRAND PRIX™ 2026, streaming live on Apple TV."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+  "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+  "published": "2026-11-17T16:44Z",
+  "age_hours": 18,
+  "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+  "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+  "published": "2026-11-17T16:32Z",
+  "age_hours": 18,
+  "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases."
+ },
+ {
+  "source": "EdTech Magazine K-12",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "How To Ensure Artificial Intelligence Is Enriching Student Learning",
+  "url": "https://edtechmagazine.com/k12/article/2026/11/how-ensure-artificial-intelligence-enriching-student-learning",
+  "published": "2026-11-17T15:50Z",
+  "age_hours": 14,
+  "summary": "When Wichita Public Schools began exploring generative artificial intelligence in January 2023, the goal was simple: to save teachers some time. By April, it had become something bigger. District leaders saw a chance to design personalized learning experiences for students, and they have built on that idea ever since. “There was an instant shift,” says Dyane Smokorowski, coordinator of digital lit"
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+  "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+  "published": "2026-11-17T15:00Z",
+  "age_hours": 20,
+  "summary": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+  "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+  "published": "2026-11-17T14:50Z",
+  "age_hours": 20,
+  "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+  "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+  "published": "2026-11-17T14:26Z",
+  "age_hours": 20,
+  "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business."
+ },
+ {
+  "source": "The Conversation — Education",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Why Americans are losing confidence in public education",
+  "url": "https://theconversation.com/why-americans-are-losing-confidence-in-public-education-293797",
+  "published": "2026-11-17T13:41Z",
+  "age_hours": 21,
+  "summary": "Political polarization and declining student test scores are two factors fueling people’s mistrust of schools."
+ },
+ {
   "source": "Regeringen",
   "cat": "skola",
   "lang": "sv",
   "title": "Ett tydligare regelverk för barns och ungas utbildning i kriminalvårdsanstalt",
   "url": "https://www.regeringen.se/rattsliga-dokument/proposition/2026/11/prop.-20262718",
   "published": "2026-11-17T11:40Z",
-  "age_hours": 0,
+  "age_hours": 24,
   "summary": "Propositionen innehåller förslag till ändringar i skollagen (2010:800) som innebär att regelverket för utbildningen för barn och unga som är intagna i kriminalvårdsanstalt förtydligas och preciseras i förhållande till den nuvarande regleringen. Syftet är att barn och unga som är intagna i kriminalvårdsanstalt ska ges en utbildning av god kvalitet som är likvärdig med den som ges inom skolväsendet."
+ },
+ {
+  "source": "Apple Newsroom",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Apple Podcasts names Baby, this is Keke Palmer the 2026 Show of the Year",
+  "url": "https://www.apple.com/newsroom/2026/11/apple-podcasts-names-baby-this-is-keke-palmer-the-2026-show-of-the-year/",
+  "published": "2026-11-17T10:59Z",
+  "age_hours": 24,
+  "summary": "Apple Podcasts names Baby, this is Keke Palmer as its 2026 Show of the Year, honoring the podcast for its exceptional quality and cultural impact."
  },
  {
   "source": "eSchool News",
@@ -16,8 +316,8 @@
   "title": "Individual expression needs leadership, not restrictions",
   "url": "https://www.eschoolnews.com/featured/2026/11/17/individual-expression-needs-leadership-not-restrictions/",
   "published": "2026-11-17T10:16Z",
-  "age_hours": 1,
-  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/11/teachers-individual-expression.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"It&#039;s possible for districts to honor teachers&#039; individual expression, respect communities, and nurture the curiosity of students.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchprior"
+  "age_hours": 24,
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/11/teachers-individual-expression.png\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"It&#039;s possible for districts to honor teachers&#039; individual expression, respect communities, and nurture the curiosity of students.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"ht"
  },
  {
   "source": "Class Tech Tips",
@@ -26,8 +326,38 @@
   "title": "A Simple Student Check-In Routine for Any Classroom – Easy EdTech Podcast 397",
   "url": "https://classtechtips.com/2026/11/17/student-check-in-routine-397/",
   "published": "2026-11-17T10:00Z",
-  "age_hours": 1,
+  "age_hours": 25,
   "summary": "<p>Build a student check-in routine with a reusable Google Form to give students a voice and use their feedback to plan what comes next.</p> <p>The post <a href=\"https://classtechtips.com/2026/11/17/student-check-in-routine-397/\">A Simple Student Check-In Routine for Any Classroom &#8211; Easy EdTech Podcast 397</a> appeared first on <a href=\"https://classtechtips.com\">Class Tech Tips</a>.</p>"
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Introducing ChatGPT for Sales",
+  "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+  "published": "2026-11-17T08:00Z",
+  "age_hours": 27,
+  "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
+ },
+ {
+  "source": "EdSurge",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Power Up Learning with an Official Pokémon Club",
+  "url": "https://www.edsurge.com/news/power-up-learning-with-an-official-pokemon-club",
+  "published": "2026-11-17T00:00Z",
+  "age_hours": 35,
+  "summary": "Beyond the card battles lies a secret superpower for educators: a fun, low-stress way to boost student confidence and build community."
+ },
+ {
+  "source": "EdSurge",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "What Happens When AI Suggests Minecraft for a Lesson on Circles?",
+  "url": "https://www.edsurge.com/news/what-happens-when-ai-suggests-minecraft-for-a-lesson-on-circles",
+  "published": "2026-11-17T00:00Z",
+  "age_hours": 35,
+  "summary": "New research on AI-powered personalized learning shows why teacher judgment is crucial when chatbots miss the mark."
  },
  {
   "source": "OpenAI News",
@@ -36,28 +366,28 @@
   "title": "Strengthening NATO and allied cyber defenses with AI",
   "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
   "published": "2026-11-17T00:00Z",
-  "age_hours": 11,
+  "age_hours": 35,
   "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
  },
  {
-  "source": "TechCrunch AI",
+  "source": "OpenAI News",
   "cat": "ai",
   "lang": "en",
-  "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-  "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-  "published": "2026-11-16T23:32Z",
-  "age_hours": 11,
-  "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
+  "title": "Astra for Law leads in legal intelligence",
+  "url": "https://openai.com/index/astra-law-6-2",
+  "published": "2026-11-17T00:00Z",
+  "age_hours": 35,
+  "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access."
  },
  {
-  "source": "TechCrunch AI",
+  "source": "OpenAI News",
   "cat": "ai",
   "lang": "en",
-  "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-  "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-  "published": "2026-11-16T22:03Z",
-  "age_hours": 13,
-  "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer."
+  "title": "Introducing OpenAI for Chile",
+  "url": "https://openai.com/index/introducing-openai-for-chile",
+  "published": "2026-11-17T00:00Z",
+  "age_hours": 35,
+  "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
  },
  {
   "source": "The Conversation — Canada Education",
@@ -66,68 +396,8 @@
   "title": "Building children’s numeracy foundations involves more than 1, 2, 3",
   "url": "https://theconversation.com/building-childrens-numeracy-foundations-involves-more-than-1-2-3-293518",
   "published": "2026-11-16T20:26Z",
-  "age_hours": 15,
+  "age_hours": 38,
   "summary": "Being able to use numbers with ease requires knowing not just the quantities numbers represent, but also the relations between the number symbols themselves."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "California state AG sues OpenAI over rogue agent incidents",
-  "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-  "published": "2026-11-16T20:07Z",
-  "age_hours": 15,
-  "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-  "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-  "published": "2026-11-16T19:12Z",
-  "age_hours": 16,
-  "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-  "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-  "published": "2026-11-16T18:11Z",
-  "age_hours": 17,
-  "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-  "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-  "published": "2026-11-16T17:36Z",
-  "age_hours": 17,
-  "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-  "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-  "published": "2026-11-16T17:10Z",
-  "age_hours": 18,
-  "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "OpenAI will embed safety researchers to investigate AI subversion",
-  "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-  "published": "2026-11-16T17:02Z",
-  "age_hours": 18,
-  "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence."
  },
  {
   "source": "OpenAI News",
@@ -136,7 +406,7 @@
   "title": "Broadening access to AI for scientists",
   "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
   "published": "2026-11-16T17:00Z",
-  "age_hours": 18,
+  "age_hours": 42,
   "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
  },
  {
@@ -146,48 +416,8 @@
   "title": "Strengthening the fight against online child sexual abuse with new tools and support",
   "url": "https://openai.com/index/strengthening-online-child-safety",
   "published": "2026-11-16T17:00Z",
-  "age_hours": 18,
+  "age_hours": 42,
   "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-  "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-  "published": "2026-11-16T17:00Z",
-  "age_hours": 18,
-  "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Audible turns to AI to help users discover audiobooks",
-  "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-  "published": "2026-11-16T15:52Z",
-  "age_hours": 19,
-  "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-  "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-  "published": "2026-11-16T15:02Z",
-  "age_hours": 20,
-  "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Google Maps can now build trip itineraries with real-time details about each stop",
-  "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
-  "published": "2026-11-16T14:48Z",
-  "age_hours": 20,
-  "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining."
  },
  {
   "source": "EdTech Magazine K-12",
@@ -196,7 +426,7 @@
   "title": "What It Costs When Districts Lose Track of Their Own Hardware",
   "url": "https://edtechmagazine.com/k12/article/2026/11/what-it-costs-when-districts-lose-track-their-own-hardware",
   "published": "2026-11-16T14:05Z",
-  "age_hours": 16,
+  "age_hours": 39,
   "summary": "When K–12 districts lose track of the devices connected to student, teacher and administrator computers, it creates costs that extend beyond the price of a monitor or keyboard. Hardware purchased outside formal IT channels can lead to duplicate orders, longer support calls, missing audit records and devices that remain in circulation after staff leave or students move up a grade. To name just a fe"
  },
  {
@@ -206,18 +436,8 @@
   "title": "Krönika: Kommunal à la carte",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/11/kronika-kommunal-a-la-carte/",
   "published": "2026-11-16T13:29Z",
-  "age_hours": 22,
+  "age_hours": 46,
   "summary": "”Barn får ogilla saker. De får tycka att broccoli är ett misslyckat koncept. Men det betyder inte automatiskt att en organisation ska byggas om runt upplevelsen”, skriver Anna Lena Oscarson, rektor."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-  "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
-  "published": "2026-11-16T12:30Z",
-  "age_hours": 22,
-  "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs."
  },
  {
   "source": "OpenAI News",
@@ -226,7 +446,7 @@
   "title": "Science at the Frontier: How scientists use ChatGPT",
   "url": "https://openai.com/index/science-at-the-frontier",
   "published": "2026-11-16T12:00Z",
-  "age_hours": 23,
+  "age_hours": 47,
   "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
  },
  {
@@ -236,8 +456,8 @@
   "title": "Can your district recover? A cybersecurity checklist",
   "url": "https://www.eschoolnews.com/it-leadership/2026/11/16/can-your-district-recover-a-cybersecurity-checklist/",
   "published": "2026-11-16T10:02Z",
-  "age_hours": 25,
-  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/11/district-cybersecurity.jpg\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Comprehensive planning helps ensure that staff, devices, and applications are ready for the year--and the cybersecurity threats--ahead.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://www.es"
+  "age_hours": 49,
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/11/district-cybersecurity.jpg\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Comprehensive planning helps ensure that staff, devices, and applications are ready for the year--and the cybersecurity threats--ahead.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" srcset="
  },
  {
   "source": "OpenAI News",
@@ -246,7 +466,7 @@
   "title": "How Revolut raises ambition without lowering the bar",
   "url": "https://openai.com/business/customer-stories/revolut",
   "published": "2026-11-16T09:30Z",
-  "age_hours": 25,
+  "age_hours": 49,
   "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security."
  },
  {
@@ -256,7 +476,7 @@
   "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
   "url": "https://openai.com/index/lvmh-media-division-partnership",
   "published": "2026-11-16T09:00Z",
-  "age_hours": 26,
+  "age_hours": 50,
   "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
  },
  {
@@ -266,18 +486,8 @@
   "title": "Our first phase of embedded assessments",
   "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
   "published": "2026-11-16T08:00Z",
-  "age_hours": 27,
+  "age_hours": 51,
   "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems."
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "More ways to move care forward with ChatGPT for Healthcare",
-  "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-  "published": "2026-11-16T06:00Z",
-  "age_hours": 29,
-  "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done."
  },
  {
   "source": "OpenAI News",
@@ -286,18 +496,18 @@
   "title": "Advancing computer-use agents for healthcare teams",
   "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
   "published": "2026-11-16T06:00Z",
-  "age_hours": 29,
+  "age_hours": 53,
   "summary": ""
  },
  {
-  "source": "TechCrunch AI",
+  "source": "OpenAI News",
   "cat": "ai",
   "lang": "en",
-  "title": "Apple launches new app to study how people use AI for health",
-  "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-  "published": "2026-11-16T01:30Z",
-  "age_hours": 33,
-  "summary": "Apple's new app for a study will answer everyday medical questions."
+  "title": "More ways to move care forward with ChatGPT for Healthcare",
+  "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+  "published": "2026-11-16T06:00Z",
+  "age_hours": 53,
+  "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done."
  },
  {
   "source": "Apple Newsroom",
@@ -306,7 +516,7 @@
   "title": "Apple launches research study to explore the use of AI for health",
   "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
   "published": "2026-11-16T01:18Z",
-  "age_hours": 34,
+  "age_hours": 57,
   "summary": "Apple today announced the launch of the Apple Health AI Usage Study in the United States, which includes a virtual research study and associated app."
  },
  {
@@ -316,7 +526,7 @@
   "title": "For Special Education Teachers, “Everydayness Is the Enemy”",
   "url": "https://www.edsurge.com/news/for-special-education-teachers-everydayness-is-the-enemy",
   "published": "2026-11-16T00:00Z",
-  "age_hours": 35,
+  "age_hours": 59,
   "summary": "Routine provides structure, but missing the student behind it stops growth. Here’s how special educators can break the cycle."
  },
  {
@@ -326,7 +536,7 @@
   "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
   "url": "https://huggingface.co/blog/openrouter",
   "published": "2026-11-16T00:00Z",
-  "age_hours": 35,
+  "age_hours": 59,
   "summary": ""
  },
  {
@@ -336,7 +546,7 @@
   "title": "The King’s Trust and OpenAI launch £1m partnership",
   "url": "https://openai.com/index/the-kings-trust-and-openai",
   "published": "2026-11-16T00:00Z",
-  "age_hours": 35,
+  "age_hours": 59,
   "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work."
  },
  {
@@ -346,18 +556,8 @@
   "title": "At Holiday Extras, dots get to work before anyone asks",
   "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
   "published": "2026-11-16T00:00Z",
-  "age_hours": 35,
+  "age_hours": 59,
   "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-  "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-  "published": "2026-11-15T23:30Z",
-  "age_hours": 35,
-  "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics."
  },
  {
   "source": "OpenAI News",
@@ -366,7 +566,7 @@
   "title": "A step toward defining the Standard Model on a lattice",
   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
   "published": "2026-11-15T22:00Z",
-  "age_hours": 37,
+  "age_hours": 61,
   "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
  },
  {
@@ -376,28 +576,8 @@
   "title": "Our new blog for science",
   "url": "https://openai.com/index/our-new-blog-for-science",
   "published": "2026-11-15T22:00Z",
-  "age_hours": 37,
+  "age_hours": 61,
   "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-  "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-  "published": "2026-11-15T21:56Z",
-  "age_hours": 37,
-  "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\""
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "‘SNL’ gathers all the tech tycoons for a lesson in dating and spycraft",
-  "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-  "published": "2026-11-15T20:20Z",
-  "age_hours": 39,
-  "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once."
  },
  {
   "source": "The Conversation — Canada Education",
@@ -406,7 +586,7 @@
   "title": "Universities should follow communities’ lead on climate research",
   "url": "https://theconversation.com/universities-should-follow-communities-lead-on-climate-research-294848",
   "published": "2026-11-15T13:32Z",
-  "age_hours": 45,
+  "age_hours": 69,
   "summary": "Climate change has been accelerated, in large part, by technologies developed at universities."
  },
  {
@@ -416,37 +596,7 @@
   "title": "Walking out together happens when students resist denialism in Catholic education",
   "url": "https://theconversation.com/walking-out-together-happens-when-students-resist-denialism-in-catholic-education-295118",
   "published": "2026-11-15T13:32Z",
-  "age_hours": 45,
+  "age_hours": 69,
   "summary": "Perhaps the most hopeful sign of reconciliation is not simply that the next generation is learning to walk together, but that they are willing to walk out together."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Where was Nvidia’s security team?",
-  "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-  "published": "2026-11-15T00:08Z",
-  "age_hours": 59,
-  "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-  "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-  "published": "2026-11-14T21:41Z",
-  "age_hours": 61,
-  "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-  "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-  "published": "2026-11-14T17:30Z",
-  "age_hours": 65,
-  "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
  }
 ]
