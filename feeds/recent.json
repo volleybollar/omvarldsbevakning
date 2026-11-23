@@ -1,12 +1,62 @@
 [
  {
+  "source": "eSchool News",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Why sustainable school mental health support requires bridging education and healthcare",
+  "url": "https://www.eschoolnews.com/sel/2026/11/23/why-sustainable-school-mental-health-support-requires-bridging-education-and-healthcare/",
+  "published": "2026-11-23T10:00Z",
+  "age_hours": 1,
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/11/school-mental-health.jpg\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"After expanding behavioral and mental health services, a school district is finding new ways to strengthen support for students.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"ht"
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+  "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+  "published": "2026-11-23T01:25Z",
+  "age_hours": 10,
+  "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+  "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+  "published": "2026-11-22T21:14Z",
+  "age_hours": 14,
+  "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Why data centers are at the center of the Big Tech backlash",
+  "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+  "published": "2026-11-22T18:08Z",
+  "age_hours": 17,
+  "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\""
+ },
+ {
+  "source": "OpenAI News",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Perplexity and Intelligence",
+  "url": "https://openai.com/index/perplexity-and-intelligence",
+  "published": "2026-11-22T00:00Z",
+  "age_hours": 35,
+  "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
+ },
+ {
   "source": "TechCrunch AI",
   "cat": "ai",
   "lang": "en",
   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
   "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
   "published": "2026-11-21T21:37Z",
-  "age_hours": 13,
+  "age_hours": 37,
   "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
  },
  {
@@ -16,7 +66,7 @@
   "title": "A tale of two Nvidias",
   "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
   "published": "2026-11-21T21:07Z",
-  "age_hours": 13,
+  "age_hours": 38,
   "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return."
  },
  {
@@ -26,7 +76,7 @@
   "title": "Here are the top AI agents that can live in your text messages",
   "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
   "published": "2026-11-21T17:00Z",
-  "age_hours": 17,
+  "age_hours": 42,
   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
  },
  {
@@ -36,7 +86,7 @@
   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
   "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
   "published": "2026-11-21T16:00Z",
-  "age_hours": 18,
+  "age_hours": 43,
   "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too."
  },
  {
@@ -46,7 +96,7 @@
   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
   "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
   "published": "2026-11-20T19:53Z",
-  "age_hours": 38,
+  "age_hours": 63,
   "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
  },
  {
@@ -56,7 +106,7 @@
   "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
   "published": "2026-11-20T19:32Z",
-  "age_hours": 39,
+  "age_hours": 64,
   "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too."
  },
  {
@@ -66,7 +116,7 @@
   "title": "Chips can survive the space environment — can their financing?",
   "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
   "published": "2026-11-20T17:40Z",
-  "age_hours": 40,
+  "age_hours": 65,
   "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?"
  },
  {
@@ -76,7 +126,7 @@
   "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
   "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
   "published": "2026-11-20T14:55Z",
-  "age_hours": 43,
+  "age_hours": 68,
   "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to [&#8230;]"
  },
  {
@@ -86,247 +136,7 @@
   "title": "Six AI-powered gadgets that could make your home office smarter",
   "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
   "published": "2026-11-20T14:00Z",
-  "age_hours": 44,
+  "age_hours": 69,
   "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
- },
- {
-  "source": "Finnish National Agency for Education (EDUFI/OPH)",
-  "cat": "skola",
-  "lang": "en",
-  "title": "12,300 new students offered admission in the autumn joint application to higher education institutions",
-  "url": "https://www.oph.fi/en/news/2026/12300-new-students-offered-admission-autumn-joint-application-higher-education",
-  "published": "2026-11-20T10:52Z",
-  "age_hours": 49,
-  "summary": "32,900 applicants participated in the autumn joint application, of which 12,300 were offered admission. More than half were offered admission to their first programme of choice."
- },
- {
-  "source": "eSchool News",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "If we’re not measuring AI’s impact on students, what are we measuring?",
-  "url": "https://www.eschoolnews.com/digital-learning/2026/11/20/if-were-not-measuring-ais-impact-on-students-what-are-we-measuring/",
-  "published": "2026-11-20T10:00Z",
-  "age_hours": 48,
-  "summary": "<img width=\"500\" height=\"281\" src=\"https://www.eschoolnews.com/files/2026/11/students-AI.jpg\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"In assessing if all students have equal access to AI, educators must examine more than the ability to log on and use the tool.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" />During Covid, hospi"
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Combatting adversarial distillation",
-  "url": "https://openai.com/index/combatting-adversarial-distillation",
-  "published": "2026-11-20T10:00Z",
-  "age_hours": 48,
-  "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
- },
- {
-  "source": "Skolledaren",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Forskning: Svår balansgång för mellanchefer i skolan",
-  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/11/forskning-svar-balansgang-for-mellanchefer-i-skolan/",
-  "published": "2026-11-20T08:43Z",
-  "age_hours": 50,
-  "summary": "Mellancheferna på förvaltningsnivå blir allt fler. Men samtidigt riskerar deras autonomi och mandat att inte svara mot det ansvar de har, vilket påverkar både cheferna själva och rektorerna. Det visar forskarstudenten Linn Antonssons avhandling."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Apple may be developing its own AI agent that runs your Mac",
-  "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-  "published": "2026-11-20T00:56Z",
-  "age_hours": 57,
-  "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-  "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-  "published": "2026-11-20T00:43Z",
-  "age_hours": 57,
-  "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
- },
- {
-  "source": "Anthropic News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
-  "url": "https://www.anthropic.com/news/ipo-close",
-  "published": "2026-11-20T00:00Z",
-  "age_hours": 58,
-  "summary": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price."
- },
- {
-  "source": "Hugging Face Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-  "url": "https://huggingface.co/blog/inkling2mini",
-  "published": "2026-11-20T00:00Z",
-  "age_hours": 58,
-  "summary": ""
- },
- {
-  "source": "Hugging Face Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-  "url": "https://huggingface.co/blog/harness-adapters-at-scale",
-  "published": "2026-11-20T00:00Z",
-  "age_hours": 58,
-  "summary": ""
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-  "url": "https://openai.com/business/customer-stories/hebbia",
-  "published": "2026-11-20T00:00Z",
-  "age_hours": 58,
-  "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Can AI help scientists identify promising drug candidates?",
-  "url": "https://openai.com/index/introducing-medchembench",
-  "published": "2026-11-20T00:00Z",
-  "age_hours": 58,
-  "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Meta’s new Muse Charm device may cost $300",
-  "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-  "published": "2026-11-19T21:58Z",
-  "age_hours": 60,
-  "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "These tech outages are giving Y2K, AI agent style",
-  "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-  "published": "2026-11-19T21:42Z",
-  "age_hours": 60,
-  "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "The unfolding Jensen Huang scandal: a timeline",
-  "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-  "published": "2026-11-19T20:18Z",
-  "age_hours": 62,
-  "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Anthropic’s IPO could deliver $156B to charity",
-  "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-  "published": "2026-11-19T19:10Z",
-  "age_hours": 63,
-  "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Google gives Gemini the ability to use your Mac for you",
-  "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-  "published": "2026-11-19T18:09Z",
-  "age_hours": 64,
-  "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-  "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-  "published": "2026-11-19T17:38Z",
-  "age_hours": 64,
-  "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-  "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-  "published": "2026-11-19T17:00Z",
-  "age_hours": 65,
-  "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-  "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-  "published": "2026-11-19T16:59Z",
-  "age_hours": 65,
-  "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-  "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-  "published": "2026-11-19T16:19Z",
-  "age_hours": 66,
-  "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure."
- },
- {
-  "source": "Apple Newsroom",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Apple TV becomes the new U.S. home of F1 ACADEMY™, the all-female racing series",
-  "url": "https://www.apple.com/newsroom/2026/11/apple-tv-becomes-the-new-us-home-of-f1-academy-the-all-female-racing-series/",
-  "published": "2026-11-19T15:59Z",
-  "age_hours": 66,
-  "summary": "Apple and F1 ACADEMY™ today announced that the all-female racing series will stream on Apple TV in the United States beginning in 2027."
- },
- {
-  "source": "Skolledaren",
-  "cat": "skola",
-  "lang": "sv",
-  "title": "Här blir leken avgörande för barnens språk",
-  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/11/har-blir-leken-avgorande-for-barnens-sprak/",
-  "published": "2026-11-19T15:16Z",
-  "age_hours": 68,
-  "summary": "I Språkhallen i Borås pågår sedan fyra år tillbaka en unik verksamhet där förskolebarn, pedagoger och föräldrar träffas för att gemensamt arbeta med språk på ett lekfullt sätt. – Här lär barnen och föräldrarna av varandra både på svenska och modersmålet tillsammans med pedagogerna, säger rektor Sofie Simu."
- },
- {
-  "source": "EdTech Magazine K-12",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "New Report Reveals Half of K–12 Schools Had a Cybersecurity Incident Last Year",
-  "url": "https://edtechmagazine.com/k12/article/2026/11/new-report-reveals-half-k-12-schools-had-cybersecurity-incident-last-year",
-  "published": "2026-11-19T14:16Z",
-  "age_hours": 63,
-  "summary": "Last year, half of K–12 schools dealt with a cybersecurity incident. That’s according to data in The State of K–12 Cybersecurity 2026, a report from the Center for Internet Security and the Multi-State Information Sharing and Analysis Center. The agencies partnered to report on MS-ISAC service data and survey responses from K–12 cybersecurity and IT leaders.&nbsp; “Schools are working hard every d"
- },
- {
-  "source": "eSchool News",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "Sometimes, succeeding in high school takes longer than four years",
-  "url": "https://www.eschoolnews.com/sel/2026/11/19/sometimes-succeeding-in-high-school-takes-longer-than-four-years/",
-  "published": "2026-11-19T10:35Z",
-  "age_hours": 72,
-  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/11/high-school-completion.jpg\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"A retired superintendent shares her perspective on the benefits of alternative education for high school completion.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://www.eschoolnews.com/files"
  }
 ]

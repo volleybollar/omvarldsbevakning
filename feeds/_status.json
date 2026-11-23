@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T10:07:24Z",
+  "updated": "2026-11-23T11:04:49Z",
   "ok": 18,
   "failed": 3,
   "feeds": [
@@ -10,7 +10,7 @@
       "lang": "en",
       "url": "https://openai.com/news/rss.xml",
       "ok": true,
-      "bytes": 864773
+      "bytes": 865357
     },
     {
       "id": "anthropic",
@@ -73,7 +73,7 @@
       "lang": "en",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "ok": true,
-      "bytes": 17503
+      "bytes": 17275
     },
     {
       "id": "huggingface",
@@ -136,7 +136,7 @@
       "lang": "en",
       "url": "https://www.eschoolnews.com/feed/",
       "ok": true,
-      "bytes": 1945251
+      "bytes": 1945627
     },
     {
       "id": "conversation_edu",
@@ -203,7 +203,7 @@
         "undervisning"
       ],
       "ok": true,
-      "bytes": 101675
+      "bytes": 101602
     }
   ]
 }
