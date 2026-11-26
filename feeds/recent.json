@@ -1,12 +1,182 @@
 [
  {
+  "source": "Finnish National Agency for Education (EDUFI/OPH)",
+  "cat": "skola",
+  "lang": "en",
+  "title": "SIMHE services support the education and career paths of highly educated migrants",
+  "url": "https://www.oph.fi/en/news/2026/simhe-services-support-education-and-career-paths-highly-educated-migrants",
+  "published": "2026-11-26T12:49Z",
+  "age_hours": 1,
+  "summary": "SIMHE-verksamheten (Supporting Immigrants in Higher Education in Finland) främjar högutbildade invandrares tillgång till högre utbildning och det finländska arbetslivet. En central del av verksamheten är att stödja identifieringen och erkännandet av tidigare förvärvad kompetens."
+ },
+ {
+  "source": "Skolledaren",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Nytt avtal ger bättre villkor för skolledare i privat sektor",
+  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/11/nytt-avtal-ger-battre-villkor-for-skolledare-i-privat-sektor/",
+  "published": "2026-11-26T11:26Z",
+  "age_hours": 1,
+  "summary": "Det är några av de viktigaste förändringarna i en ny överenskommelse kring villkoren för privatanställda skolledare. Det är några av de viktigaste förändringarna i en ny överenskommelse kring villkoren för privatanställda skolledare."
+ },
+ {
+  "source": "eSchool News",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "New report reveals shifting school communications priorities",
+  "url": "https://www.eschoolnews.com/educational-leadership/2026/11/26/new-report-reveals-shifting-school-communications-priorities/",
+  "published": "2026-11-26T10:07Z",
+  "age_hours": 1,
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/11/school-communications.jpg\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"School communications priorities mean schools are measuring success differently, where families still encounter barriers.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://"
+ },
+ {
+  "source": "Hugging Face Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+  "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+  "published": "2026-11-26T05:05Z",
+  "age_hours": 6,
+  "summary": ""
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+  "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+  "published": "2026-11-25T22:44Z",
+  "age_hours": 13,
+  "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+  "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+  "published": "2026-11-25T20:03Z",
+  "age_hours": 15,
+  "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+  "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+  "published": "2026-11-25T19:54Z",
+  "age_hours": 15,
+  "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+  "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+  "published": "2026-11-25T19:44Z",
+  "age_hours": 16,
+  "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development."
+ },
+ {
+  "source": "Hugging Face Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Where scientists draw the line on AI agents",
+  "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+  "published": "2026-11-25T18:52Z",
+  "age_hours": 16,
+  "summary": ""
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+  "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+  "published": "2026-11-25T18:11Z",
+  "age_hours": 17,
+  "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+  "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+  "published": "2026-11-25T17:35Z",
+  "age_hours": 18,
+  "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+  "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+  "published": "2026-11-25T15:41Z",
+  "age_hours": 20,
+  "summary": "⁠Nvidia has made clear⁠ it won&#8217;t backstop an AI data center until it&#8217;s nearly ready to run, and that&#8217;s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that. [&#8230;]"
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+  "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+  "published": "2026-11-25T14:10Z",
+  "age_hours": 21,
+  "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse."
+ },
+ {
+  "source": "Skolledaren",
+  "cat": "skola",
+  "lang": "sv",
+  "title": "Debatt: Staten måste ta ansvar för sin egen politik när det gäller SFI",
+  "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/11/debatt-staten-maste-ta-ansvar-for-sin-egen-politik-nar-det-galler-sfi/",
+  "published": "2026-11-25T14:01Z",
+  "age_hours": 22,
+  "summary": "”Staten begränsar rätten till SFI till tre år. Samtidigt inför Skolverket nya kursplaner där den beräknade studieomfattningen för vissa elever är betydligt längre. Myndigheten medger själv att regelverken inte fullt ut går ihop. Vem förväntas då ta ansvar för konsekvenserna?”, skriver Thony Kankare."
+ },
+ {
+  "source": "EdTech Magazine K-12",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Self-Driving Networks Help Support Overwhelmed IT Departments",
+  "url": "https://edtechmagazine.com/k12/article/2026/11/self-driving-networks-help-support-overwhelmed-it-departments",
+  "published": "2026-11-25T13:40Z",
+  "age_hours": 17,
+  "summary": "Many school districts are adopting technology so quickly that IT teams can barely keep up. Increasingly, schools are turning to self-driving networks to help support overwhelmed tech teams and accomplish all their technology goals. Self-driving networks are intelligent systems that can self-monitor, spot performance issues and fix them automatically.&nbsp; For example, Newport News Public Schools "
+ },
+ {
+  "source": "The Conversation — Education",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Columbia is keeping its gates closed, raising the question of what universities owe their neighborhoods",
+  "url": "https://theconversation.com/columbia-is-keeping-its-gates-closed-raising-the-question-of-what-universities-owe-their-neighborhoods-297102",
+  "published": "2026-11-25T13:38Z",
+  "age_hours": 22,
+  "summary": "Conflicts between universities and their surrounding neighborhoods are far from new."
+ },
+ {
+  "source": "TechCrunch AI",
+  "cat": "ai",
+  "lang": "en",
+  "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+  "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+  "published": "2026-11-25T13:00Z",
+  "age_hours": 22,
+  "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances."
+ },
+ {
   "source": "Hugging Face Blog",
   "cat": "ai",
   "lang": "en",
   "title": "An Indic Voice Agent with CUGA",
   "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
   "published": "2026-11-25T10:22Z",
-  "age_hours": 1,
+  "age_hours": 25,
   "summary": ""
  },
  {
@@ -16,8 +186,8 @@
   "title": "From reactive to ready: How centralized facilities data drives smarter capital planning",
   "url": "https://www.eschoolnews.com/educational-leadership/2026/11/25/from-reactive-to-ready-how-centralized-facilities-data-drives-smarter-capital-planning/",
   "published": "2026-11-25T10:00Z",
-  "age_hours": 2,
-  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/11/centralized-facilities-data.jpg\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Centralized facilities data allows your district to shift from a reactive management system to a proactive one.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www."
+  "age_hours": 25,
+  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/11/centralized-facilities-data.jpg\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"Centralized facilities data allows your district to shift from a reactive management system to a proactive one.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://www.eschoolnews.com/files"
  },
  {
   "source": "TechCrunch AI",
@@ -26,8 +196,18 @@
   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
   "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
   "published": "2026-11-25T00:12Z",
-  "age_hours": 11,
+  "age_hours": 35,
   "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands."
+ },
+ {
+  "source": "EdSurge",
+  "cat": "digitalisering",
+  "lang": "en",
+  "title": "Why Kindergarten Shouldn’t Feel Like Starting Over",
+  "url": "https://www.edsurge.com/news/why-kindergarten-shouldnt-feel-like-starting-over",
+  "published": "2026-11-25T00:00Z",
+  "age_hours": 35,
+  "summary": "On “This Week with EdSurge,” two guests explain how early educators build belonging."
  },
  {
   "source": "EdSurge",
@@ -36,8 +216,18 @@
   "title": "What Happens When AI Outruns Title I Schools?",
   "url": "https://www.edsurge.com/news/what-happens-when-ai-outruns-title-i-schools",
   "published": "2026-11-25T00:00Z",
-  "age_hours": 12,
+  "age_hours": 35,
   "summary": "As AI advances in curriculum and instruction, this educator questions whether the race to implementation is leaving Title I schools behind."
+ },
+ {
+  "source": "Hugging Face Blog",
+  "cat": "ai",
+  "lang": "en",
+  "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+  "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+  "published": "2026-11-25T00:00Z",
+  "age_hours": 35,
+  "summary": ""
  },
  {
   "source": "TechCrunch AI",
@@ -46,7 +236,7 @@
   "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
   "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
   "published": "2026-11-24T22:27Z",
-  "age_hours": 13,
+  "age_hours": 37,
   "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder."
  },
  {
@@ -56,7 +246,7 @@
   "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
   "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
   "published": "2026-11-24T21:48Z",
-  "age_hours": 14,
+  "age_hours": 38,
   "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company."
  },
  {
@@ -66,7 +256,7 @@
   "title": "Even the best AI agents struggle with everyday life",
   "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
   "published": "2026-11-24T21:33Z",
-  "age_hours": 14,
+  "age_hours": 38,
   "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems."
  },
  {
@@ -76,7 +266,7 @@
   "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
   "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
   "published": "2026-11-24T21:32Z",
-  "age_hours": 14,
+  "age_hours": 38,
   "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
  },
  {
@@ -86,7 +276,7 @@
   "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
   "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
   "published": "2026-11-24T21:19Z",
-  "age_hours": 14,
+  "age_hours": 38,
   "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data."
  },
  {
@@ -96,7 +286,7 @@
   "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
   "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
   "published": "2026-11-24T18:30Z",
-  "age_hours": 17,
+  "age_hours": 41,
   "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations."
  },
  {
@@ -106,7 +296,7 @@
   "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
   "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
   "published": "2026-11-24T18:02Z",
-  "age_hours": 18,
+  "age_hours": 41,
   "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws."
  },
  {
@@ -116,7 +306,7 @@
   "title": "In the age of AI, Indigenous ways of knowing remind us why lived experience matters",
   "url": "https://theconversation.com/in-the-age-of-ai-indigenous-ways-of-knowing-remind-us-why-lived-experience-matters-296644",
   "published": "2026-11-24T17:04Z",
-  "age_hours": 19,
+  "age_hours": 42,
   "summary": "As AI begins to create knowledge, universities must confront the question of what knowledge production is. Indigenous perspectives provide valuable insights."
  },
  {
@@ -126,7 +316,7 @@
   "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
   "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
   "published": "2026-11-24T17:00Z",
-  "age_hours": 19,
+  "age_hours": 42,
   "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent."
  },
  {
@@ -136,7 +326,7 @@
   "title": "Mother tongue language rights don’t implement themselves: Lessons from Nepal’s classrooms",
   "url": "https://theconversation.com/mother-tongue-language-rights-dont-implement-themselves-lessons-from-nepals-classrooms-292724",
   "published": "2026-11-24T16:48Z",
-  "age_hours": 19,
+  "age_hours": 43,
   "summary": "The country has 124 mother tongues and a constitutional promise to teach children in them. But without funding, trained teachers and local-language textbooks, that promise is hard to keep."
  },
  {
@@ -146,18 +336,8 @@
   "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
   "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
   "published": "2026-11-24T16:46Z",
-  "age_hours": 19,
+  "age_hours": 43,
   "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated."
- },
- {
-  "source": "Hugging Face Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-  "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-  "published": "2026-11-24T16:34Z",
-  "age_hours": 19,
-  "summary": ""
  },
  {
   "source": "TechCrunch AI",
@@ -166,28 +346,18 @@
   "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
   "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
   "published": "2026-11-24T16:10Z",
-  "age_hours": 19,
+  "age_hours": 43,
   "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice."
  },
  {
-  "source": "TechCrunch AI",
+  "source": "Google DeepMind Blog",
   "cat": "ai",
   "lang": "en",
-  "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-  "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-  "published": "2026-11-24T16:02Z",
-  "age_hours": 20,
-  "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-  "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-  "published": "2026-11-24T15:51Z",
-  "age_hours": 20,
-  "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips."
+  "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+  "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+  "published": "2026-11-24T13:07Z",
+  "age_hours": 46,
+  "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra."
  },
  {
   "source": "OpenAI News",
@@ -196,7 +366,7 @@
   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
   "published": "2026-11-24T13:00Z",
-  "age_hours": 23,
+  "age_hours": 46,
   "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
  },
  {
@@ -206,7 +376,7 @@
   "title": "Searching for distant planets with Astra",
   "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
   "published": "2026-11-24T11:00Z",
-  "age_hours": 25,
+  "age_hours": 48,
   "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes."
  },
  {
@@ -216,7 +386,7 @@
   "title": "Low-Prep December Classroom Activities with an AI Twist – Easy EdTech Podcast 398",
   "url": "https://classtechtips.com/2026/11/24/december-classroom-activities-398/",
   "published": "2026-11-24T10:00Z",
-  "age_hours": 26,
+  "age_hours": 49,
   "summary": "<p>Keep students learning before winter break with low-prep December classroom activities like winter comics, AI songs, and leveled reading.</p> <p>The post <a href=\"https://classtechtips.com/2026/11/24/december-classroom-activities-398/\">Low-Prep December Classroom Activities with an AI Twist &#8211; Easy EdTech Podcast 398</a> appeared first on <a href=\"https://classtechtips.com\">Class Tech Tips"
  },
  {
@@ -226,8 +396,8 @@
   "title": "Principal burnout looks different in the leaders who stayed",
   "url": "https://www.eschoolnews.com/educational-leadership/2026/11/24/principal-burnout-looks-different-in-the-leaders-who-stayed/",
   "published": "2026-11-24T10:00Z",
-  "age_hours": 26,
-  "summary": "<img width=\"500\" height=\"335\" src=\"https://www.eschoolnews.com/files/2026/11/principals-schools.jpg\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"The principals who stayed are carrying schools through a hard decade--they deserve the same care they work so hard to give everyone else.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" srcset=\"https://www.esch"
+  "age_hours": 49,
+  "summary": "<img width=\"500\" height=\"335\" src=\"https://www.eschoolnews.com/files/2026/11/principals-schools.jpg\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"The principals who stayed are carrying schools through a hard decade--they deserve the same care they work so hard to give everyone else.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" srcset=\"h"
  },
  {
   "source": "EdSurge",
@@ -236,7 +406,7 @@
   "title": "How One Teacher Prep Program Made Its Technology Use Visible",
   "url": "https://www.edsurge.com/news/how-one-teacher-prep-program-made-its-technology-use-visible",
   "published": "2026-11-24T00:00Z",
-  "age_hours": 36,
+  "age_hours": 59,
   "summary": "A faculty survey turned into a program-wide conversation — and a plan to align with the ISTE Standards."
  },
  {
@@ -246,7 +416,7 @@
   "title": "How Intentful uses dots to make more time for growth",
   "url": "https://openai.com/business/customer-stories/intentful-dots",
   "published": "2026-11-24T00:00Z",
-  "age_hours": 36,
+  "age_hours": 59,
   "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
  },
  {
@@ -256,7 +426,7 @@
   "title": "How iFood scales coding agents across 15,000 repositories",
   "url": "https://openai.com/business/customer-stories/ifood",
   "published": "2026-11-24T00:00Z",
-  "age_hours": 36,
+  "age_hours": 59,
   "summary": ""
  },
  {
@@ -266,48 +436,8 @@
   "title": "Clay helps sales teams win with Codex and ChatGPT",
   "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
   "published": "2026-11-24T00:00Z",
-  "age_hours": 36,
+  "age_hours": 59,
   "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-  "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-  "published": "2026-11-23T22:05Z",
-  "age_hours": 38,
-  "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-  "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-  "published": "2026-11-23T22:02Z",
-  "age_hours": 38,
-  "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-  "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-  "published": "2026-11-23T21:47Z",
-  "age_hours": 38,
-  "summary": "\"The mistake has been corrected,\" Elon Musk chimed in."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-  "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-  "published": "2026-11-23T21:25Z",
-  "age_hours": 38,
-  "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government."
  },
  {
   "source": "OpenAI News",
@@ -316,48 +446,18 @@
   "title": "OpenAI and Cisco introduce Shirudo",
   "url": "https://openai.com/index/introducing-shirudo",
   "published": "2026-11-23T21:20Z",
-  "age_hours": 38,
+  "age_hours": 62,
   "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
  },
  {
-  "source": "TechCrunch AI",
+  "source": "Google DeepMind Blog",
   "cat": "ai",
   "lang": "en",
-  "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-  "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-  "published": "2026-11-23T20:38Z",
-  "age_hours": 39,
-  "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees."
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-  "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-  "published": "2026-11-23T19:14Z",
-  "age_hours": 40,
-  "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem"
- },
- {
-  "source": "TechCrunch AI",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-  "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-  "published": "2026-11-23T18:12Z",
-  "age_hours": 41,
-  "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy."
- },
- {
-  "source": "Hugging Face Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-  "url": "https://huggingface.co/blog/allenai/robotrack",
-  "published": "2026-11-23T17:20Z",
-  "age_hours": 42,
-  "summary": ""
+  "title": "Finding faster quantum algorithms with agents and formal verification",
+  "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+  "published": "2026-11-23T16:59Z",
+  "age_hours": 66,
+  "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry."
  },
  {
   "source": "Skolledaren",
@@ -366,7 +466,7 @@
   "title": "Kommentar: ”Reformens tänkta löneeffekt sätts ur spel”",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/11/kommentar-reformens-tankta-loneeffekt-satts-ur-spel/",
   "published": "2026-11-23T16:10Z",
-  "age_hours": 44,
+  "age_hours": 68,
   "summary": "Ellinor Häreskog är förste vice ordförande i Sveriges Skolledare och skolchef gymnasiet och vuxenutbildningen Lycksele kommun. Här kommenterar hon rektor Peders dilemma om förstelärare som har svårt att lämna uppdraget, trots att de vill, för att de inte kan behålla lönetillägget."
  },
  {
@@ -376,7 +476,7 @@
   "title": "Dilemmat: Systemet sätter mig och förstelärarna i en rävsax",
   "url": "https://www.skolledaren.se/aktuellt/nyheter/2026/11/dilemmat-systemet-satter-mig-och-forstelararna-i-en-ravsax/",
   "published": "2026-11-23T16:06Z",
-  "age_hours": 45,
+  "age_hours": 68,
   "summary": "Några av rektor Peders förstelärare har tappat lusten att fortsätta i rollen. Men systemet kring förstelärare har lett till att både medarbetare och rektor sitter i en rävsax – lärarna har svårt att tvingas gå ner i lön och rektorn kan inte kompensera de erfarna och duktiga medarbetarna utan förstelärartillägget."
  },
  {
@@ -386,7 +486,7 @@
   "title": "AI och STEM i fokus på EU:s utbildningsministermöte",
   "url": "https://www.regeringen.se/artiklar/2026/11/ai-och-stem-i-fokus-pa-eus-utbildningsministermote/",
   "published": "2026-11-23T15:00Z",
-  "age_hours": 46,
+  "age_hours": 69,
   "summary": "Den 19 november deltog gymnasie-, högskole- och forskningsminister Lotta Edholm i ett ministerrådsmöte inom rådet för utbildning, ungdom, kultur och idrott (EYCS/UUKI) i Bryssel. På dagordningen stod bland annat färdigheter och kompetenser för att hantera artificiell intelligens (AI) och utbildning inom STEM-ämnen."
  },
  {
@@ -396,7 +496,7 @@
   "title": "Samarbetet med allierade i fokus när försvarsministern besöker Blekinge",
   "url": "https://www.regeringen.se/pressmeddelanden/2026/11/samarbetet-med-allierade-i-fokus-nar-forsvarsministern-besoker-blekinge/",
   "published": "2026-11-23T14:20Z",
-  "age_hours": 46,
+  "age_hours": 70,
   "summary": "(Ny version) Den 25 november besöker försvarsminister Pål Jonson Blekinge län. Resan går bland annat till Blekinge flygflottilj, Första ubåtsflottiljen och Sjöstridsskolan i Karlskrona, samt Saab Naval."
  },
  {
@@ -406,7 +506,7 @@
   "title": "Some people claim to speak many languages. But what does it really mean to be a polyglot?",
   "url": "https://theconversation.com/some-people-claim-to-speak-many-languages-but-what-does-it-really-mean-to-be-a-polyglot-297026",
   "published": "2026-11-23T13:04Z",
-  "age_hours": 47,
+  "age_hours": 70,
   "summary": "Fluency in a language is not an all-or-nothing achievement. It is a spectrum, ranging from basic conversational ability to sophisticated, near-native command."
  },
  {
@@ -416,57 +516,7 @@
   "title": "Review: Ivanti Unified Endpoint Manager Finds Hidden Devices",
   "url": "https://edtechmagazine.com/k12/article/2026/11/review-ivanti-unified-endpoint-manager-finds-hidden-devices",
   "published": "2026-11-23T10:57Z",
-  "age_hours": 44,
+  "age_hours": 67,
   "summary": "K–12 districts handle a lot of sensitive information, from financial records to student grades. Yet many schools struggle when it comes to providing enough IT or security resources to protect their networks or environment. That’s one reason why education is quickly becoming one of the most attacked sectors. Thankfully, the cloud-based Ivanti Unified Endpoint Manager was designed with that environm"
- },
- {
-  "source": "eSchool News",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "Why sustainable school mental health support requires bridging education and healthcare",
-  "url": "https://www.eschoolnews.com/sel/2026/11/23/why-sustainable-school-mental-health-support-requires-bridging-education-and-healthcare/",
-  "published": "2026-11-23T10:00Z",
-  "age_hours": 50,
-  "summary": "<img width=\"500\" height=\"333\" src=\"https://www.eschoolnews.com/files/2026/11/school-mental-health.jpg\" class=\"attachment-medium-landscape size-medium-landscape wp-post-image\" alt=\"After expanding behavioral and mental health services, a school district is finding new ways to strengthen support for students.\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://"
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Connected intelligence for in-house legal",
-  "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-  "published": "2026-11-23T08:00Z",
-  "age_hours": 52,
-  "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel."
- },
- {
-  "source": "OpenAI News",
-  "cat": "ai",
-  "lang": "en",
-  "title": "Richpanel helps companies automate 50% of support in 30 days",
-  "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-  "published": "2026-11-23T08:00Z",
-  "age_hours": 52,
-  "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations."
- },
- {
-  "source": "EdSurge",
-  "cat": "digitalisering",
-  "lang": "en",
-  "title": "If Representation Matters, Then Authenticity Does Too",
-  "url": "https://www.edsurge.com/news/if-representation-matters-then-authenticity-does-too",
-  "published": "2026-11-23T00:00Z",
-  "age_hours": 60,
-  "summary": "As a Black male kindergarten teacher, I spent a decade defying stereotypes. To keep people like me in the classroom, schools must stop boxing us in."
- },
- {
-  "source": "Hugging Face Blog",
-  "cat": "ai",
-  "lang": "en",
-  "title": "How to build and maintain an agentic evaluation",
-  "url": "https://huggingface.co/blog/agentic-evals",
-  "published": "2026-11-23T00:00Z",
-  "age_hours": 60,
-  "summary": ""
  }
 ]
