@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T11:15:02Z",
+  "updated": "2026-11-28T10:45:17Z",
   "ok": 19,
   "failed": 2,
   "feeds": [
@@ -82,7 +82,7 @@
       "lang": "en",
       "url": "https://huggingface.co/blog/feed.xml",
       "ok": true,
-      "bytes": 271700
+      "bytes": 271990
     },
     {
       "id": "midjourney",
@@ -109,7 +109,7 @@
       "lang": "en",
       "url": "https://classtechtips.com/feed",
       "ok": true,
-      "bytes": 15279
+      "bytes": 15161
     },
     {
       "id": "cultofpedagogy",
@@ -154,7 +154,7 @@
       "lang": "en",
       "url": "https://edtechmagazine.com/k12/rss.xml",
       "ok": true,
-      "bytes": 11269
+      "bytes": 11253
     },
     {
       "id": "edufi",
@@ -181,7 +181,7 @@
       "lang": "sv",
       "url": "https://www.skolledaren.se/rss",
       "ok": true,
-      "bytes": 38398
+      "bytes": 38138
     },
     {
       "id": "regeringen",
@@ -203,7 +203,7 @@
         "undervisning"
       ],
       "ok": true,
-      "bytes": 100986
+      "bytes": 102024
     }
   ]
 }
